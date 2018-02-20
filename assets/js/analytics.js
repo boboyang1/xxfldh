@@ -1,7 +1,7 @@
 // analytics.js
 
 // date range
-var firstDay = new Date(2016, 9, 1);
+var firstDay = new Date(2017, 8, 13);
 function siteEstablishedDays() {
     var d = new Date();
     var today = new Date(d.getFullYear(), d.getMonth(), d.getDate());
