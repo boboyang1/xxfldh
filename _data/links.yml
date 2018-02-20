@@ -66,60 +66,49 @@
       style: basic
       url: http://shuiart.site/
 
-  - category: 工具
-    links:
-    - name: '12306'
-      icon: train red
-      style: basic
-      url: http://www.12306.cn/
+    - name: sae8
+      style: blue
+      url: http://s0a0e68.xyz/
 
-    - name: 快递查询
-      icon: shipping olive
+    - name: 凹凸视频
       style: basic
-      url: http://www.kuaidi100.com/
+      url: http://aotu29.com/
 
-    - name: 大众点评
-      icon: food orange
-      style: basic
-      url: http://www.dianping.com/
+    - name: 黄瓜高清
+      style: orange
+      url: http://www.mrzao.cn/
 
-    - name: 网易邮箱
-      icon: mail red
+    - name: 红杏
       style: basic
-      url: http://email.163.com/
+      url: http://www.hxsp01.club/
 
-    - name: QQ邮箱
-      icon: qq black
+    - name: 妻爱AV
       style: basic
-      url: https://mail.qq.com/
+      url: http://www.av2a.com
 
-    - name: 新浪邮箱
+    - name: 狐狸视频
       style: basic
-      url: https://mail.sina.com.cn/
+      url: http://www.hulisp.cn/
 
-    - name: Gmail
-      icon: google red
-      style: basic
-      url: https://mail.google.com/
+    - name: 花社
+      style: blue
+      url: https://www.5itv.pro/
 
-    - name: 谷歌翻译
-      icon: translate blue
+    - name: 骑马视频
       style: basic
-      url: https://translate.google.com/
+      url: http://qimasp.club/
 
-    - name: 百度翻译
-      icon: paw blue
+    - name: 私密
       style: basic
-      url: https://fanyi.baidu.com/
+      url: http://4m1.xyz/
 
-    - name: 维基百科
-      icon: wikipedia black
+    - name: 废柴视频
       style: basic
-      url: https://www.wikipedia.org/
+      url: http://fcw06.com/
 
-    - name: TinEye
-      style: basic
-      url: https://www.tineye.com/
+    - name: 樱桃
+      style: red
+      url: http://email.yingtaodizhi.at.gmail.com.yta0.space/
 
   - category: 社交
     links:
