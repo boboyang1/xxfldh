@@ -186,91 +186,87 @@
       style: basic
       url: https://login.32w2.pw/
 
-  - category: 求职
+  - category: 福利导航
     links:
-    - name: LinkedIn
-      icon: linkedin blue
+    - name: 百姓色导航
       style: basic
-      url: https://www.linkedin.com/
+      url: http://baixingse.top/
 
-    - name: 大街网
+    - name: 4G福利导航
       style: basic
-      url: http://www.dajie.com/
+      url: http://www.4gfl.me/
 
-    - name: 拉勾网
+    - name: 第一福利导航
       style: basic
-      url: http://www.lagou.com/
+      url: http://www.ifulione.com/
 
-    - name: 智联招聘
+    - name: 夜趣福利导航
       style: basic
-      url: http://zhaopin.com/
+      url: http://ifulidh.club/
 
-    - name: 前程无忧
+    - name: 蓝导航
+      style: blue
+      url: http://www.fond.tk/
+
+    - name: 柠檬导航
       style: basic
-      url: http://www.51job.com/
+      url: http://www.haodh.ga/
 
-    - name: 应届生
+    - name: 骑士导航
       style: basic
-      url: http://www.yingjiesheng.com/
+      url: http://74fuli.com/
 
-  - category: 娱乐
-    links:
-    - name: 优酷
+    - name: K6福利导航
       style: basic
-      url: http://www.youku.com/
+      url: http://www.666k6.com/
 
-    - name: 土豆
+    - name: 幺妹导航
+      style: red
+      url: http://www.yaomdh.com/
+
+    - name: 色妹妹导航
       style: basic
-      url: http://www.tudou.com/
+      url: http://www.semmdh.com/
 
-    - name: Youtube
-      icon: youtube red
+    - name: 藏姬阁导航
       style: basic
-      url: http://www.youtube.com/
+      url: http://www.cangjigedh.com/
 
-    - name: 爱奇艺
+    - name: AV福利导航
       style: basic
-      url: http://www.iqiyi.com/
+      url: http://www.avfldh.com/
 
-    - name: 芒果TV
+    - name: 750导航
       style: basic
-      url: http://www.mgtv.com/
+      url: https://dh750.com/
 
-    - name: 腾讯视频
+    - name: 网盘资源导航
       style: basic
-      url: https://v.qq.com/
+      url: http://www.5199.online/
 
-    - name: 哔哩哔哩
-      style: pink
-      url: https://www.bilibili.com/
+    - name: 500导航
+      style: red
+      url: http://www.500dh.us/
 
-    - name: AcFun
+    - name: 502导航
       style: basic
-      url: http://www.acfun.tv/
+      url: http://www.502dh.com/
 
-    - name: 吐槽
+    - name: 打飞机导航
       style: basic
-      url: http://www.tucao.tv/
+      url: http://www.dafjdh.vip/
 
-    - name: 腾讯动漫
+    - name: 一楼一凤导航
       style: basic
-      url: http://ac.qq.com/
+      url: http://1l1f2.xyz/
 
-    - name: 虾米
-      style: basic
-      url: http://www.xiami.com/
-
-    - name: 多瑙影院
-      style: basic
-      url: http://www.dnvod.tv/
-
-    - name: FIX字幕侠
+    - name: 一库导航
       style: yellow
-      url: http://www.zimuxia.cn/
+      url: http://www.yikufl.com/
 
-    - name: 斗鱼
+    - name: 福利所
       style: orange
-      url: https://www.douyu.com/
+      url: http://www.fulisuo2017.shop/
 
 - section: public
   categories:
