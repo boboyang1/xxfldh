@@ -1,8 +1,8 @@
 - section: ONE
   categories:
-  - category: 推荐好站
+  - category: TOP
     links:
-    - name: 敬请期待...
+    - name: 注意:部分网站需翻墙！
       style: red
       url: /
       
@@ -119,18 +119,16 @@
       url: http://email.v2dizhi.at.gmail.com.2via.space/
 
     - name: 开火车
-      icon: paw blue
       style: basic
       url: http://www.kaihuoche.xyz/
 
-    - name: 知乎
+    - name: AVhub
       style: blue
-      url: https://www.zhihu.com/
+      url: http://www.avhub10.ml/
 
-    - name: Quora
-      icon: quora red
+    - name: Buzz在线
       style: basic
-      url: https://www.quora.com/
+      url: https://www.buzzav.com/
 
     - name: Facebook
       icon: facebook blue
@@ -157,8 +155,6 @@
       style: basic
       url: https://github.com/
 
-  - category: 学习
-    links:
     - name: Coursera
       style: basic
       url: https://www.coursera.org/
