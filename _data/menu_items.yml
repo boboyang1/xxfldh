@@ -8,7 +8,7 @@
   url: /analytics/
   active_key: analytics
 
-- name: 扫码捐赠
+- name: 合作事宜
   icon: qrcode
   url: /donate/
   active_key: donate
