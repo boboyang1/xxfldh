@@ -19,7 +19,7 @@ $('#page-loading-progress').progress({
 });
 
 // clock
-var establishedAt = moment.tz("2016-10-01 00:00", "Asia/Shanghai");
+var establishedAt = moment.tz("2017-8-13 00:00", "Asia/Shanghai");
 $('#established-at').countdown(establishedAt.toDate(), {
     elapse: true
 }).on('update.countdown', function (event) {
