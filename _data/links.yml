@@ -110,22 +110,18 @@
       style: red
       url: http://email.yingtaodizhi.at.gmail.com.yta0.space/
 
-  - category: 社交
-    links:
-    - name: 微博
-      icon: weibo red
+    - name: avb
       style: basic
-      url: https://weibo.com/
+      url: https://www.avbxx.com
 
-    - name: 微信网页版
-      icon: wechat green
+    - name: v2视频
       style: basic
-      url: https://wx.qq.com/
+      url: http://email.v2dizhi.at.gmail.com.2via.space/
 
-    - name: 百度贴吧
+    - name: 开火车
       icon: paw blue
       style: basic
-      url: https://tieba.baidu.com/
+      url: http://www.kaihuoche.xyz/
 
     - name: 知乎
       style: blue
