@@ -2,9 +2,17 @@
   categories:
   - category: TOP
     links:
-    - name: 注意:部分网站需翻墙！
-      style: red
+    - name: 注意:部分网站需翻墙
+      style: black
       url: /
+    
+    - name: 如若遇到网站打不开或者视频加载慢的情况我在墙外等你！！！
+      style: orange
+      url: /
+      
+    - name: 点我科学上网！！！
+      style: red
+      url: https://github.com/getlantern/lantern/releases/tag/latest
       
 - section: TWO
   categories:
