@@ -247,6 +247,10 @@
     - name: 500导航
       style: red
       url: http://www.500dh.us/
+      
+    - name: 美国十三次啦
+      style: red
+      url: http://www.13cila.com
 
     - name: 502导航
       style: basic
