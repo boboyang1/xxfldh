@@ -130,68 +130,61 @@
       style: basic
       url: https://www.buzzav.com/
 
-    - name: Facebook
-      icon: facebook blue
+    - name: Vjav在线
       style: basic
-      url: https://www.facebook.com/
+      url: https://cn.vjav.com/
 
-    - name: Google+
-      icon: google plus red
+    - name: 老虎视频
       style: basic
-      url: https://plus.google.com/
+      url: http://laohu8.xyz/
 
-    - name: Tumblr
-      icon: tumblr blue
+    - name: 皮皮虾视频
       style: basic
-      url: https://www.tumblr.com/
+      url: http://www.52ppx.com/
 
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: https://www.instagram.com/
+    - name: 绿茶
+      style: green
+      url: http://email.lvchadizhi.at.gmail.com.lv6.space/
 
-    - name: GitHub
-      icon: github black
+    - name: YOUav
       style: basic
-      url: https://github.com/
+      url: https://www.youav.com/
 
-    - name: Coursera
+    - name: 猫兔视频
       style: basic
-      url: https://www.coursera.org/
+      url: http://www.maotu5.com/
 
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
+    - name: 火兔视频
+      style: red
+      url: http://email.dizhi.at.f2.com.fri2.space/
 
-    - name: 网易公开课
+    - name: 蝌蚪窝视频
       style: basic
-      url: http://open.163.com/
+      url: http://www.sexx107.com/
 
-    - name: W3School
+    - name: ABW视频
       style: basic
-      url: http://www.w3school.com.cn/
+      url: http://www.abw.pw/
 
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
+    - name: YELLOW字幕
+      style: yellow
+      url: http://52.520yellow.com/
 
-    - name: SegmentFault
+    - name: 九州视频
       style: basic
-      url: http://segmentfault.com/
+      url: http://www.jzcao.com/
 
-    - name: Tutorials Point
+    - name: 哦叉叉视频
       style: basic
-      url: https://www.tutorialspoint.com/
+      url: https://oxx7.stream/
 
-    - name: Google Open Source
-      icon: code blue
+    - name: 朱古力视频
       style: basic
-      url: https://opensource.google.com/
+      url: https://pigav.com/
 
-    - name: CSDN
+    - name: 老司机
       style: basic
-      url: https://edu.csdn.net/
+      url: https://login.32w2.pw/
 
   - category: 求职
     links:
