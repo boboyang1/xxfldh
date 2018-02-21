@@ -5,8 +5,12 @@
     - name: 本站永久域名：www.xxfldh.com
       style: blue
       url: flase
+        
+    - name: 因网站种类繁多，目前本站只整理收集了小部分优质站点，欢迎新老站长与本站联系交换友链！谢谢合作！
+      style: pink
+      url: flase
       
-    - name: 注意:部分网站需翻墙
+    - name: 注意：部分网站需翻墙
       style: black
       url: flase
     
