@@ -2,9 +2,13 @@
   categories:
   - category: TOP
     links:
+    - name: 本站永久域名：www.xxfldh.com
+      style: blue
+      url: flase
+      
     - name: 注意:部分网站需翻墙
       style: black
-      url: /
+      url: flase
     
     - name: 如若遇到网站打不开或者视频加载慢的情况我在墙外等你！！！
       style: orange
