@@ -37,7 +37,11 @@
     - name: AV淘宝
       style: orange
       url: http://www.avtb008.com/
-
+      
+    - name: 88深夜电视
+      style: black
+      url: http://www.88ds.site/
+      
     - name: 7M视频
       style: basic
       url: http://www.7m04.com/
