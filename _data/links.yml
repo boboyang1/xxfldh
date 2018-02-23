@@ -348,6 +348,10 @@
   categories:
   - category: 论坛博客（持续补充中...）
     links:
+    - name: 妹控TV
+      style: basic
+      url: http://www.mktv.co/
+      
     - name: 每日福利
       style: basic
       url: http://meirifuli8.zone/
