@@ -4,6 +4,6 @@ google:
 matomo:
   url: https://assabdie.innocraft.cloud/
   domains:
-  - "www.xxfldh.com"
+  - "*.xxfldh.com"
   site_id: 1
   token: 41afbf4d39da69daa310b23e7843fd7e
