@@ -1,7 +1,5 @@
 // analytics.js
 
-// 51la
-document.write ('<script type="text/javascript"  src="//js.users.51.la/19260752.js"></script>');
 
 // date range
 var firstDay = new Date(2017, 8, 13);
