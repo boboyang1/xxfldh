@@ -292,8 +292,12 @@
       style: red
       url: http://www.gcdh.me
       
+    - name: 大公鸡导航
+      style: black
+      url: http://www.dagongji1.info
+      
     - name: 美国十三次啦
-      style: red
+      style: basic
       url: http://www.13cila.com
 
     - name: 502导航
