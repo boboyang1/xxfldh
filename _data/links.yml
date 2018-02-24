@@ -352,6 +352,10 @@
   categories:
   - category: 论坛博客（持续补充中...）
     links:
+    - name: 直升机社区
+      style: black
+      url: http://www.zsj3344.info
+      
     - name: 妹控TV
       style: basic
       url: http://www.mktv.co/
