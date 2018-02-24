@@ -271,6 +271,10 @@
     - name: AV福利导航
       style: basic
       url: http://www.avfldh.com/
+      
+    - name: 污哥哥福利导航
+      style: yellow
+      url: http://www.2idh.me
 
     - name: 750导航
       style: basic
