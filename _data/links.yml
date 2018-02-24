@@ -227,6 +227,10 @@
     - name: 4G福利导航
       style: basic
       url: http://www.4gfl.me/
+      
+    - name: 老色鬼福利导航
+      style: red
+      url: http://www.laosegui.xyz/
 
     - name: 夜趣福利导航
       style: basic
@@ -331,10 +335,6 @@
     - name: 污妹妹福利导航
       style: basic
       url: http://www.wumm.me/
-
-    - name: 老色鬼福利导航
-      style: basic
-      url: http://www.laosegui.xyz/
 
     - name: porn福利导航
       style: blue
