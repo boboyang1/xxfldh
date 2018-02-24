@@ -263,6 +263,10 @@
     - name: 藏姬阁导航
       style: basic
       url: http://www.cangjigedh.com/
+      
+    - name: 软妹导航
+      style: pink
+      url: http://www.rmdh.pw/
 
     - name: AV福利导航
       style: basic
