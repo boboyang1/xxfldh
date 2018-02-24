@@ -396,10 +396,6 @@
       style: basic
       url: http://mtl15.pw/portal.php
 
-    - name: 福利GIF
-      style: basic
-      url: http://www.diggvr.com/
-
     - name: 搬运哥
       style: basic
       url: https://www.emoneyspace.com/Banyunge
@@ -411,10 +407,6 @@
     - name: 福利街
       style: basic
       url: http://www.fllijie.com/forum.php
-
-    - name: 人之善
-      style: basic
-      url: http://www.renzhishan.org/
 
 - section: public
   categories:
