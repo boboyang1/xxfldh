@@ -231,6 +231,10 @@
     - name: 老色鬼福利导航
       style: red
       url: http://www.laosegui.xyz/
+      
+    - name: 污哥哥福利导航
+      style: yellow
+      url: http://www.2idh.me
 
     - name: 夜趣福利导航
       style: basic
@@ -276,10 +280,6 @@
       style: basic
       url: http://www.avfldh.com/
       
-    - name: 污哥哥福利导航
-      style: yellow
-      url: http://www.2idh.me
-
     - name: 750导航
       style: basic
       url: https://dh750.com/
@@ -331,10 +331,6 @@
     - name: 91粉导航
       style: pink
       url: https://91dh.cc/
-
-    - name: 污妹妹福利导航
-      style: basic
-      url: http://www.wumm.me/
 
     - name: porn福利导航
       style: blue
