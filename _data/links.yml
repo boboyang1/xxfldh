@@ -239,6 +239,10 @@
     - name: 夜趣福利导航
       style: basic
       url: http://ifulidh.club/
+      
+    - name: 大香蕉导航
+      style: yellow
+      url: http://www.dxjdaohang.xyz
 
     - name: 蓝导航
       style: blue
