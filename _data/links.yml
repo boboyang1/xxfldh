@@ -257,6 +257,10 @@
     - name: 污妹妹福利导航
       style: yellow
       url: https://www.wumm.me/
+      
+    - name: 大人导航
+      style: brown
+      url: http://www.darendh88.pw/
 
     - name: 夜趣福利导航
       style: basic
@@ -385,14 +389,6 @@
     - name: 乳色吧导航
       style: basic
       url: http://www.ruseba06.com/
-      
-- section: change
-  categories:
-  - category: 流量交换
-    links:
-    - name: 直链
-      style: black
-      url: http://www.zhilian.co/link.php?mid=1287
       
 - section: THREE
   categories:
