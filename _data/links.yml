@@ -45,10 +45,6 @@
     - name: 小妹妹导航
       style: pink
       url: http://www.xiaomeimei.club
-
-    - name: 绿茶妹导航
-      style: green
-      url: http://www.lvdaohang.xyz
       
   - category: 在线视频
     links:
