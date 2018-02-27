@@ -34,22 +34,6 @@
       style: red
       url: http://207.246.109.88/index.htm
       
-    - name: 大香蕉导航
-      style: yellow
-      url: http://www.dxjdaohang.xyz
-      
-    - name: 狼友导航
-      style: blue
-      url: http://www.lydaohang.xyz
-      
-    - name: 小妹妹导航
-      style: pink
-      url: http://www.xiaomeimei.club
-      
-    - name: 绿茶妹导航
-      style: green
-      url: http://www.lvdaohang.xyz
-      
   - category: 在线视频
     links:
     - name: 直升机视频
@@ -317,6 +301,22 @@
     - name: AV福利导航
       style: basic
       url: http://www.avfldh.com/
+    
+    - name: 大香蕉导航
+      style: yellow
+      url: http://www.dxjdaohang.xyz
+
+    - name: 狼友导航
+      style: blue
+      url: http://www.lydaohang.xyz
+      
+    - name: 小妹妹导航
+      style: pink
+      url: http://www.xiaomeimei.club
+
+    - name: 绿茶妹导航
+      style: green
+      url: http://www.lvdaohang.xyz
       
     - name: 750导航
       style: basic
