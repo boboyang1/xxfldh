@@ -37,6 +37,10 @@
     - name: 大香蕉导航
       style: yellow
       url: http://www.dxjdaohang.xyz
+      
+    - name: 大屁股在线
+      style: basic
+      url: http://www.dapigu.co
 
     - name: 狼友导航
       style: blue
@@ -45,6 +49,10 @@
     - name: 小妹妹导航
       style: pink
       url: http://www.xiaomeimei.club
+      
+    - name: 大小姐驾到
+      style: red
+      url: http://www.daxiaojie.co
       
   - category: 在线视频
     links:
@@ -127,10 +135,6 @@
     - name: 红杏
       style: basic
       url: http://www.hxsp01.club/
-      
-    - name: 大屁股在线
-      style: basic
-      url: http://www.dapigu.co
 
     - name: 妻爱AV
       style: basic
@@ -168,10 +172,6 @@
       style: basic
       url: https://www.avbxx.com
       
-    - name: 大小姐驾到
-      style: red
-      url: http://www.daxiaojie.co
-
     - name: v2视频
       style: basic
       url: http://email.v2dizhi.at.gmail.com.2via.space/
