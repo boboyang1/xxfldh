@@ -292,7 +292,7 @@
       
     - name: av色导航
       style: brown
-      url :// www.avsdh.com
+      url: http://www.avsdh.com
       
     - name: 大人导航
       style: brown
