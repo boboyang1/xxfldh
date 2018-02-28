@@ -2,13 +2,8 @@
   icon: home
   url: /
   active_key: home
-
-- name: 访客分析
-  icon: line chart
-  url: /analytics/
-  active_key: analytics
-
-- name: 合作事宜
+  
+- name: 申请收录
   icon: qrcode
   url: /donate/
   active_key: donate
