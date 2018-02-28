@@ -64,6 +64,10 @@
       style: red
       url: http://www.zsj2018.com/forum.php?tg=1530
       
+    - name: 皮皮虾视频
+      style: blue
+      url: http://51dh.xyz
+      
     - name: 91 PORN
       style: black
       url: http://91.91p16.space/index.php
@@ -195,10 +199,6 @@
     - name: 老虎视频
       style: basic
       url: http://laohu8.xyz/
-
-    - name: 皮皮虾视频
-      style: basic
-      url: http://www.52ppx.com/
 
     - name: 绿茶
       style: green
