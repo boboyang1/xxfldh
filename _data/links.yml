@@ -6,8 +6,8 @@
       style: blue
       url: /
         
-    - name: 因网站种类繁多，目前本站只整理收集了小部分优质站点，欢迎新老站长与本站联系交换友链！谢谢合作！
-      style: pink
+    - name: 站长必看！！！本网站启用已启用https模式，目前国内多数统计无法获取https来源的网站，推荐使用Google Analytics统计！
+      style: red
       url: /
       
     - name: 注意：部分网站需翻墙
