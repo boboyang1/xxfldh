@@ -20,7 +20,6 @@
     <link rel="apple-touch-icon" type="image/png" href="{{ '/apple-touch-icon.png' | relative_url }}">
     <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
     {% include analytics.html %}
-    <base target="_blank" />
 </head>
 <body>
     {% include following_menu.html %}
@@ -37,6 +36,7 @@
     {% if page.active_key == 'home' or page.active_key == 'analytics' %}<script type="text/javascript" src="//unpkg.com/moment/min/moment-with-locales.min.js"></script>{% endif %}
     {% if page.active_key == 'home' %}<script type="text/javascript" src="//unpkg.com/js-cookie/src/js.cookie.js"></script>{% endif %}
     {% if page.active_key == 'home' %}<script type="text/javascript" src="{{ '/assets/js/suggest-query.min.js' | relative_url }}"></script>{% endif %}
+    {% if page.active_key == 'home' %}<script type="text/javascript" src="{{ '/assets/js/external.js' | relative_url }}"></script>{% endif %}
     {% if page.active_key == 'home' and site.data.message.hitokoto %}<script type="text/javascript" src="{{ '/assets/js/hitokoto.js' | relative_url }}"></script>{% endif %}
     {% if page.active_key == 'home' %}<script type="text/javascript" src="{{ '/assets/js/home.js' | relative_url }}"></script>{% endif %}
     {% if page.active_key == 'analytics' %}<script type="text/javascript" src="//unpkg.com/moment-timezone/builds/moment-timezone-with-data.min.js"></script>{% endif %}
