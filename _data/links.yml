@@ -90,7 +90,7 @@
 - section: four
   categories:
   - category: 在线视频
-    links：
+    links:
     - name: 皮皮虾视频
       style: blue
       url: http://51dh.xyz
