@@ -58,6 +58,10 @@
       style: red
       url: http://www.daxiaojie.co
       
+    - name: 岛国在线视频
+      style: blu
+      url: http://12ckck.xyz
+      
 - section: three
   categories:
   - category: 流量交换
