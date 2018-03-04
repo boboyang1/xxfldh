@@ -122,6 +122,10 @@
     - name: FAV
       style: basic
       url: http://www.gofav.org/
+      
+    - name: 色色啦视频
+      style: blue
+      url: http://seselah.com
 
     - name: 久久热视频
       style: basic
