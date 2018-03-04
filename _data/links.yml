@@ -62,10 +62,6 @@
       style: red
       url: http://www.daxiaojie.co
       
-    - name: 岛国在线视频
-      style: gray
-      url: http://12ckck.xyz
-      
 - section: three
   categories:
   - category: 流量交换
@@ -178,6 +174,10 @@
     - name: 凹凸视频
       style: basic
       url: http://aotu29.com/
+      
+    - name: 岛国在线视频
+      style: red
+      url: http://12ckck.xyz
 
     - name: 黄瓜高清
       style: orange
