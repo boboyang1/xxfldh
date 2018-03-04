@@ -282,6 +282,10 @@
     - name: 哦叉叉视频
       style: basic
       url: https://oxx7.stream/
+      
+    - name: 恋恋影视
+      style: pink
+      url: http://www.2mnmn.cc/
 
     - name: 朱古力视频
       style: basic
