@@ -62,6 +62,14 @@
       style: red
       url: http://www.daxiaojie.co
       
+    - name: 69色导航
+      style: pink
+      url: http://www.69s.xyz
+      
+    - name: AA福利导航
+      style: red
+      url: http://www.daohangaa.com/
+     
 - section: three
   categories:
   - category: 流量交换
@@ -94,6 +102,10 @@
     - name: 皮皮虾视频
       style: blue
       url: http://51dh.xyz
+      
+    - name: 快操我视频
+      style: red
+      url: http://www.kuaicaowo.com
       
     - name: 91 PORN
       style: black
@@ -207,9 +219,9 @@
       style: basic
       url: http://qimasp.club/
 
-    - name: 私密
+    - name: 色狼屋视频
       style: basic
-      url: http://4m1.xyz/
+      url: http://www.selang234.com
 
     - name: 废柴视频
       style: basic
@@ -417,6 +429,10 @@
     - name: 一楼一凤导航
       style: basic
       url: http://1l1f2.xyz/
+      
+    - name: 要啦导航
+      style: blue
+      url: http://1la.co
 
     - name: 一库导航
       style: yellow
