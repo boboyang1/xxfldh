@@ -318,6 +318,10 @@
       style: red
       url: http://www.ifulione.com/
       
+    - name: 蓝导航
+      style: blue
+      url: http://www.landh.xyz/
+      
     - name: 4G福利导航
       style: basic
       url: http://www.4gfl.me/
@@ -341,10 +345,6 @@
     - name: 夜趣福利导航
       style: basic
       url: http://ifulidh.club/
-
-    - name: 蓝导航
-      style: blue
-      url: http://www.fond.tk/
 
     - name: 柠檬导航
       style: basic
