@@ -54,10 +54,6 @@
       style: blue
       url: http://www.txdaohang.xyz
       
-    - name: 69色导航
-      style: pink
-      url: http://www.69s.xyz
-     
 - section: three
   categories:
   - category: 流量交换
@@ -409,7 +405,11 @@
     - name: 大公鸡福利导航
       style: black
       url: http://www.dagongji1.info
-      
+                 
+    - name: 69色导航
+      style: pink
+      url: http://www.69s.xyz
+       
     - name: 情趣阁导航
       style: red
       url: http://www.89xyy.com
