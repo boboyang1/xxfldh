@@ -57,10 +57,6 @@
     - name: 69色导航
       style: pink
       url: http://www.69s.xyz
-      
-    - name: AA福利导航
-      style: red
-      url: http://www.daohangaa.com/
      
 - section: three
   categories:
@@ -405,6 +401,10 @@
     - name: 色色福利导航
       style: red
       url: http://www.sese8.site
+      
+    - name: AA福利导航
+      style: red
+      url: http://www.daohangaa.com/
       
     - name: 大公鸡福利导航
       style: black
