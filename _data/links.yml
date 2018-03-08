@@ -87,10 +87,6 @@
       style: blue
       url: http://51dh.xyz
       
-    - name: 快操我视频
-      style: red
-      url: http://www.kuaicaowo.com
-      
     - name: 91 PORN
       style: black
       url: http://91.91p16.space/index.php
@@ -298,6 +294,10 @@
     - name: 朱古力视频
       style: basic
       url: https://pigav.com/
+      
+    - name: 快操我视频
+      style: red
+      url: http://www.kuaicaowo.com
       
     - name: 爱591捣哼网
       style: black
