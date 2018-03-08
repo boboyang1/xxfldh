@@ -477,6 +477,10 @@
     - name: 啪啪色导航
       style: basic
       url: http://www.pppdh.com/
+      
+    - name: 撸撸吧导航
+      style: black
+      url: http://lulu8dh.com
 
     - name: 粉点福利导航
       style: pink
