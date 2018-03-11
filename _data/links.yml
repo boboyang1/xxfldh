@@ -413,6 +413,10 @@
     - name: 萝莉导航
       style: basic
       url: http://www.lldh8.com
+      
+    - name: 黄导航
+      style: yellow
+      url: http://huangdh.xyz
 
     - name: 500导航
       style: red
@@ -457,6 +461,10 @@
     - name: 502导航
       style: basic
       url: http://www.502dh.com/
+      
+    - name: 草鸡导航
+      style: black
+      url: http://www.caojidh.xyz
 
     - name: 打飞机导航
       style: basic
