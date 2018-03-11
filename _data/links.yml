@@ -285,7 +285,7 @@
       
     - name: 电影大全
       style: black
-      url http://www.cdrdw.com/
+      url: http://www.cdrdw.com/
 
     - name: 蝌蚪窝视频
       style: basic
