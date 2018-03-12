@@ -25,7 +25,7 @@
 - section: TWO
   categories:
   - category: 精品推荐
-    links:
+    links:   
     - name: 百姓色导航
       style: red
       url: http://baixingse.top/
@@ -86,6 +86,10 @@
     - name: 皮皮虾视频
       style: blue
       url: http://51dh.xyz
+      
+    - name: 香蕉视频
+      style: yellow
+      url: http://www.xiangjiaosp.xyz/?xxfldh.com
       
     - name: 91 PORN
       style: black
