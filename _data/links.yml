@@ -24,8 +24,19 @@
       
 - section: TWO
   categories:
+  - category: 棋牌推荐
+    links:  
+    - name: 国际顶级棋牌游戏 注册送￥38
+      style: red
+      url: http://wflw.wnnrt.com/dm2/qsce.html?=xxfldhhh
+      
+    - name: ←超高赔率 等你来赢！ 
+      style: red
+      url: http://wflw.wnnrt.com/dm2/qsce.html?=xxfldhhh
+      
+  categories:
   - category: 精品推荐
-    links:   
+    links:  
     - name: 百姓色导航
       style: red
       url: http://baixingse.top/
@@ -302,14 +313,18 @@
     - name: YELLOW字幕
       style: yellow
       url: http://52.520yellow.com/
+      
+    - name: 久草视频
+      style: basic
+      url: http://www.jiucaoship8.com
 
     - name: 九州视频
       style: basic
-      url: http://www.jzcao.com/
+      url: http://www.jzcao.com/?xxfldh.com
 
     - name: 哦叉叉视频
       style: basic
-      url: https://oxx7.stream/
+      url: https://oxx7.stream/?xxfldh.com
       
     - name: 恋恋影视
       style: pink
@@ -318,6 +333,10 @@
     - name: 朱古力视频
       style: basic
       url: https://pigav.com/
+      
+    - name: 老司机视频
+      style: black
+      url: http://www.laosijiship88.com
       
     - name: 快操我视频
       style: red
