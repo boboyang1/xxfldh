@@ -519,7 +519,7 @@
 
     - name: 一楼一凤导航
       style: basic
-      url: http://1l1f2.xyz/
+      url: http://1l1f2.xyz/?xxfldh.com
       
     - name: 要啦导航
       style: blue
@@ -596,6 +596,26 @@
     - name: 桃花色导航
       style: red
       url: http://www.d17.xyz/?xxfldh
+      
+    - name: 666导航
+      style: basic
+      url: http://www.dh6.xyz
+      
+    - name: 大鸡吧导航
+      style: black
+      url: http://d78.xyz
+      
+    - name: 桃色福利导航
+      style: pink
+      url: http://www.dh9.xyz
+      
+    - name: 极品姐导航
+      style: black
+      url: http://www.jpz98.com
+      
+    - url: 小苹果福利导航
+      style: red
+      url: http://www.xpg98.xyz
       
 - section: THREE
   categories:
