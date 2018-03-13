@@ -268,6 +268,10 @@
     - name: 岛国在线视频
       style: basic
       url: http://12ckck.xyz
+                 
+    - name: 我爱白虎堂
+      style: basic
+      url: http://www.52bht.club/
 
     - name: AVhub
       style: blue
@@ -536,10 +540,6 @@
     - name: 最大导航
       style: red
       url: http://www.zuidadh.top/?xxfldh.com
-      
-    - name: 我爱白虎堂
-      style: basic
-      url: http://www.52bht.club/
 
     - name: 91粉导航
       style: pink
