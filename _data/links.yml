@@ -389,8 +389,14 @@
       style: blue
       url: http://www.1av.pw/
       
+    - name: 想要要AV电影
+      style: basic
+      url: http://www.51avdy.info
       
- 
+    - name: 小狼狗AV电影
+      style: blue
+      url: http://ww.91avdy.info
+      
       
   - category: 福利导航
     links:
