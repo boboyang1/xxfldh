@@ -402,9 +402,9 @@
       style: black
       url: http://www.74fuli.com
 
-    - name: 第一福利导航
+    - name: 爱你啪福利导航
       style: red
-      url: http://www.ifulione.com/
+      url: http://www.ainp.xyz
       
     - name: 蓝导航
       style: blue
@@ -416,7 +416,11 @@
       
     - name: 4G福利导航
       style: basic
-      url: http://www.4gfl.me/
+      url: http://www.4gfl.me/?xxfldh.com
+      
+    - name: 爆菊花福利导航
+      style: yellow
+      url: http://www.bjh.space
       
     - name: 老色鬼福利导航
       style: red
@@ -442,13 +446,13 @@
       style: basic
       url: http://www.haodh.ga/
 
-    - name: K6福利导航
-      style: basic
-      url: http://www.666k6.com/
-
-    - name: 幺妹导航
+    - name: 第一福利导航
       style: red
-      url: http://www.yaomdh.com/
+      url: http://www.dh1.space
+
+    - name: 插穴福利导航
+      style: red
+      url: http://www.cxdh.xyz
 
     - name: 色妹妹导航
       style: basic
@@ -462,9 +466,9 @@
       style: pink
       url: http://www.rmdh.pw/
 
-    - name: 750导航
+    - name: 屁屁福利导航
       style: basic
-      url: https://dh750.com/
+      url: https://www.ppdh.xyz
 
     - name: 萝莉导航
       style: basic
@@ -476,7 +480,11 @@
 
     - name: 500导航
       style: red
-      url: http://www.500dh.us/
+      url: http://www.500dh.us/?xxfldh.com
+      
+    - name: 超碰福利导航
+      style: bas
+      url: http://www.cp1.club
       
     - name: 高潮导航
       style: red
@@ -510,6 +518,10 @@
       style: red
       url: http://www.89xyy.com
       
+    - name: 1024福利导航
+      style: blue
+      url: http://www.1024dh.space
+      
     - name: 美国十三次啦
       style: basic
       url: http://www.13cila.com
@@ -525,6 +537,10 @@
     - name: 打飞机导航
       style: basic
       url: http://www.dafjdh.vip/
+      
+    - name: 媚娘福利导航
+      style: pink
+      url: http://www.mn1.club
 
     - name: 一楼一凤导航
       style: basic
@@ -618,13 +634,17 @@
       style: black
       url: http://www.jpz98.com
       
-    - url: 小苹果福利导航
+    - name: 小苹果福利导航
       style: red
       url: http://www.xpg98.xyz
       
-    - url: 色眯眯导航
+    - name: 色眯眯导航
       style: pink
       url: http://www.dh7.xyz
+      
+    - name: 夜夜爱福利导航
+      style: black
+      url: http://www.yyai.club
       
 - section: THREE
   categories:
