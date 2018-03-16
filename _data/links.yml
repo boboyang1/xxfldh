@@ -64,6 +64,14 @@
       style: blue
       url: http://www.txdaohang.xyz/?xxfldh.com
       
+    - name: FS在线视频
+      style: red
+      url: http://fs1000.com
+      
+    - name: x在线视频
+      style: blue
+      url: http://x10000.com
+      
 - section: three
   categories:
   - category: 流量交换
