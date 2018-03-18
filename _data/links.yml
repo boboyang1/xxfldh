@@ -451,7 +451,7 @@
       
     - name: 骑士福利导航
       style: black
-      url: http://www.74fuli.com
+      url: http://www.74fuli.com/?xxfldh.com
 
     - name: 爱你啪福利导航
       style: red
@@ -463,7 +463,11 @@
       
     - name: AV福利导航
       style: black
-      url: http://www.avfldh.com/
+      url: http://www.avfldh.com/?xxfldh.com
+      
+    - name: 福利所
+      style: pink
+      url:  http://www.513xs.com/?xxfldh.com
       
     - name: 4G福利导航
       style: basic
