@@ -338,9 +338,9 @@
       style: red
       url: http://email.dizhi.at.f2.com.fri2.space/
       
-    - name: 电影大全
+    - name: 迪巴士视频
       style: black
-      url: http://www.cdrdw.com/
+      url: https://www.d8s.me/
 
     - name: 蝌蚪窝视频
       style: basic
