@@ -26,6 +26,14 @@
   categories:
   - category: 精品推荐
     links:  
+    - name: 幸福加油站
+    - style: green
+    - url: https://www.gaobi333.com/?xx
+    
+    - name: 东京热视频
+    - style: purple
+    - url: https://www.qipaav.com/?xx
+    
     - name: 百姓色导航
       style: red
       url: http://baixingse.top/
