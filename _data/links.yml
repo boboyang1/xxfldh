@@ -29,6 +29,10 @@
     - name: 东京热视频
       style: purple
       url: https://www.qipasex.com/?xx
+  
+    - name: 福利视频
+      style: pink
+      url: http://www.k1k.cc/list/33.html?xxfldh
     
     - name: 百姓色导航
       style: red
@@ -95,6 +99,10 @@
       style: black
       url: http://91.91p16.space/index.php
       
+    - name: 福利视频
+      style: pink
+      url: http://www.k1k.cc/list/33.html?xxfldh
+      
     - name: 老司机视频
       style: brown
       url: https://login.32w2.pw/
@@ -102,10 +110,6 @@
     - name: 花社
       style: blue
       url: https://www.huas.pet
-      
-    - name: 射奶视频
-      style: yellow
-      url: http://www.shenai007.com
 
     - name: AV淘宝
       style: orange
@@ -178,6 +182,10 @@
     - name: 猫兔视频
       style: basic
       url: http://www.maotu9.com/
+      
+    - name: NX视频
+      style: black
+      url: http://www.nx8881.com/
       
   - category: 福利导航
     links:
@@ -272,6 +280,10 @@
     - name: 骚逼导航
       style: basic
       url: http://www.sbdh.xyz/
+     
+    - name: 夜色导航
+      style: basic
+      url: http://www.ysdh.space/
      
 - section: THREE
   categories:
