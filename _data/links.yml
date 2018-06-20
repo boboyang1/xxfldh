@@ -162,10 +162,18 @@
     - name: 精品福利社
       style: black
       url: http://iai91.xyz
-      
+
+    - name: ThePorn
+      style: blue
+      url: https://zh.theporn.xyz/f/xxfldh
+
     - name: 让我爽福利网
       style: black
       url: http://153dy.vip
+
+    - name: 猫兔视频
+      style: basic
+      url: http://www.maotu9.com/
       
   - category: 福利导航
     links:
@@ -248,7 +256,11 @@
     - name: 144导航
       style: basic
       url: http://www.144ka.info/
-      
+
+    - name: KK37导航
+      style: basic
+      url: http://www.kk37.com
+
     - name: 骚逼导航
       style: basic
       url: http://www.sbdh.xyz/
