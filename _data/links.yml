@@ -232,11 +232,7 @@
     - name: 大人导航
       style: brown
       url: http://www.darendh88.pw/?xxfldh
-
-    - name: 青年涩站大全
-      style: basic
-      url: http://www.qingnianse1.com/?xxfldh
-
+ 
     - name: 第一福利导航
       style: red
       url: http://www.dh1.space/?xxfldh
@@ -266,19 +262,19 @@
       url: http://www.jugen7.info/?xxfldh
 
     - name: 144导航
-      style: basic
+      style: red
       url: http://www.144ka.info/?xxfldh
 
     - name: KK37导航
-      style: basic
+      style: yellow
       url: http://www.kk37.com/?xxfldh
 
     - name: 骚逼导航
-      style: basic
+      style: pink
       url: http://www.sbdh.xyz/
      
     - name: 夜色导航
-      style: basic
+      style: brown
       url: http://www.ysdh.space/
      
 - section: THREE
