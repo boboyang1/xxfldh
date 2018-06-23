@@ -201,7 +201,7 @@
 
     - name: ThePorn
       style: blue
-      url: https://zh.theporn.xyz/f/xxfldh
+      url: https://zh.theporn.xyz/?xxfldh
 
     - name: 让我爽福利网
       style: black
@@ -209,15 +209,19 @@
 
     - name: 猫兔视频
       style: basic
-      url: http://www.maotu9.com/
+      url: http://www.maotu9.com/?xxfldh.com
       
     - name: NX视频
       style: black
-      url: http://www.nx8881.com/
+      url: http://www.nx8881.com/?xxfldh.com
       
     - name: 青青草AV
       style: green
-      url: http://www.qqc91.xyz
+      url: http://www.qqc91.xyz/?xxfldh.com
+      
+    - name: 青青草AV
+      style: green
+      url: http://www.9x9x1.com/?xxfldh.com
       
   - category: 福利导航
     links:
