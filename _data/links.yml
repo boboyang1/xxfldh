@@ -70,6 +70,10 @@
       style: blue
       url: https://huas.pet/?xxfldh
       
+    - name: 尺度举牌
+      style: pink
+      url: https://www.xxfldh.com/pink/index.html
+      
 - section: three
   categories:
   - category: 流量交换
@@ -98,6 +102,10 @@
     - name: 皮皮虾视频
       style: blue
       url: http://51dh.xyz
+      
+    - name: 尺度举牌
+      style: pink
+      url: https://www.xxfldh.com/pink/index.html
       
     - name: 萝莉在线
       style: red
