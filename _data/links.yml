@@ -328,14 +328,6 @@
     - name: KK37导航
       style: yellow
       url: http://www.kk37.com/?xxfldh
-
-    - name: 骚逼导航
-      style: pink
-      url: http://www.sbdh.xyz/
-     
-    - name: 夜色导航
-      style: brown
-      url: http://www.ysdh.space/
      
 - section: THREE
   categories:
