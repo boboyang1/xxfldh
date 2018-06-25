@@ -6,6 +6,10 @@
       style: blue
       url: /
       
+    - name: 骗子QQ509315954（垃圾中介，专门骗广告费，同行注意！）
+      style: red
+      url: http://app.a1aia.cn:82
+      
     - name: 注意：部分网站需翻墙
       style: black
       url: http://t.cn/RrAwYkQ
@@ -26,6 +30,10 @@
   categories:
   - category: 精品推荐
     links:  
+    - name: 小火直播大秀场
+      style: red
+      url: http://app.a1aia.cn:82
+    
     - name: 性福加油站
       style: green
       url: https://ganbi.baidu.goole.dizhi.gb2.space/?xx
