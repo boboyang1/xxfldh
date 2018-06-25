@@ -332,7 +332,11 @@
     - name: KK37导航
       style: yellow
       url: http://www.kk37.com/?xxfldh
-     
+      
+    - name: 快播云导航
+      style: blue
+      url: http://kby02.com/?xxfldh
+      
 - section: THREE
   categories:
   - category: 论坛博客
