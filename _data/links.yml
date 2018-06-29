@@ -20,8 +20,16 @@
       
     - name: 科学上网②！！！
       style: red
-      url: http://t.cn/RrAwYkQ
-      
+      url: http://t.cn/RrAwYkQ    
+ 
+- section: AD
+  categories:
+  - category: 游戏推荐
+    links:  
+    - name: 2018最火爆棋牌游戏，美女陪牌局，下载即送本金，随时上下分！
+      style: red
+      url: https://mob.shlibei.com/a3c/?xxfldh
+   
 - section: TWO
   categories:
   - category: 精品推荐
