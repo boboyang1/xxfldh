@@ -243,6 +243,10 @@
       style: green
       url: http://www.qqc91.xyz/?xxfldh
       
+    - name: 姐姐色福利视频
+      style: red
+      url: http://www.i89q8.cc/?xxfldh
+      
     - name: 久插久插
       style: red
       url: http://www.9x9x1.com/?xxfldh
@@ -440,8 +444,33 @@
     - name: 福利街
       style: basic
       url: http://www.fllijie.com/forum.php
- 
+      
+  - category: 论坛博客
+    links:
+    - name: 狼先僧小说
+      style: red
+      url: http://www.lxseng.cn/?xxfldh
 
+    - name: 色书网
+      style: blue
+      url: http://seshu.mobi/?xxfldh
+      
+    - name: 青青草小说
+      style: green
+      url: http://www.qqc272.com/?xxfldh
+
+    - name: 桃成人小说
+      style: pink
+      url: https://www.taosetxt.com/
+      
+    - name: 黄精屋
+      style: yellow
+      url: https://www.hjwtxt.com//?xxfldh
+
+    - name: 小皇书
+      style: yellow
+      url: https://www.xhstxt.com/?xxfldh
+      
 - section: public
   categories:
   - category: 购物
