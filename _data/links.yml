@@ -309,10 +309,6 @@
       style: basic
       url: http://douqu.info/?xxfldh
       
-    - name: 爆菊花福利导航
-      style: yellow
-      url: http://www.bjh.space/?xxfldh
-      
     - name: 老色鬼福利导航
       style: red
       url: http://www.laosegui.xyz/?xxfldh
@@ -343,7 +339,7 @@
       
     - name: 草鸡导航
       style: black
-      url: http://www.caojidh.xyz
+      url: http://www.caojidh.xyz/?xxfldh
 
     - name: 啪啪色导航
       style: basic
