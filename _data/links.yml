@@ -471,7 +471,11 @@
     - name: 小皇书
       style: yellow
       url: https://www.xhstxt.com/?xxfldh
-      
+
+    - name: 草榴小说
+      style: green
+      url: https://cl.etet.men/thread0806.php?fid=20
+
 - section: public
   categories:
   - category: 购物
