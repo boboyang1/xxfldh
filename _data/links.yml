@@ -29,6 +29,10 @@
     - name: 小火直播大秀场
       style: red
       url: http://app.a1aia.cn:82/?xxfldh
+      
+    - name: 恋夜直播盒子（安卓版）
+      style: pink
+      url: http://www.jy1405.com:8989/?k=7619&u=761911
     
     - name: 性福加油站
       style: green
