@@ -548,7 +548,35 @@
 
     - name: 草榴小说
       style: green
-      url: https://cl.etet.men/thread0806.php?fid=20
+      url: https://cl.etet.men/thread0806.php?fid=20?xxfldh
+
+    - name: 内涵小说TV
+      style: red
+      url: http://nhxstv.xyz/?xxfldh
+
+    - name: 艳文屋
+      style: blue
+      url: https://www.yanwenwu.com/?xxfldh
+      
+    - name: 玉米文学网
+      style: yellow
+      url: http://www.335xs.cc/?xxfldh
+
+    - name: 有声小说
+      style: pink
+      url: http://www.dehyc.com/?xxfldh
+      
+    - name: 線上看
+      style: yellow
+      url: https://www.jkforum.net/forum-544-1.html?xxfldh
+
+    - name: 手银哥
+      style: yellow
+      url: https://www.shouyinge.com/?xxfldh
+
+    - name: 疯情书库
+      style: green
+      url: http://www.aavbook.site/?xxfldh
       
   - category: 国外视频
     links:
