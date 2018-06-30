@@ -462,6 +462,65 @@
       style: basic
       url: http://www.fllijie.com/forum.php
       
+      
+  - category: 动漫ACG
+    links:
+    - name: 叉叉虎TV
+      style: basic
+      url: https://xxhu1.com/
+
+    - name: 吉人动漫
+      style: red
+      url: https://jren100.vip/?xxfldh
+
+    - name: 邪恶漫画吧
+      style: orange
+      url: http://www.yingzila.com/?xxfldh
+
+    - name: E-Hentai
+      style: basic
+      url: https://e-hentai.org/?xxfldh
+
+    - name: 宅宅愛動漫
+      style: basic
+      url: http://18h.animezilla.com/?xxfldh
+
+    - name: 绅士二次元
+      style: basic
+      url: https://www.acg.tf/?xxfldh
+
+    - name: 紳士の庭
+      style: basic
+      url: http://gmgard.com/?xxfldh
+
+    - name: 松鼠症倉庫
+      style: basic
+      url: https://365ahri.com/?xxfldh
+
+    - name: Hentai Stream
+      style: basic
+      url: http://hentaistream.com/?xxfldh
+
+    - name: FAKKU
+      style: basic
+      url: https://www.fakku.net/?xxfldh
+
+    - name: Hentai xxx
+      style: basic
+      url: https://www.hentai.xxx/?xxfldh
+
+    - name: AsmHentai
+      style: black
+      url: https://asmhentai.com/?xxfldh
+
+    - name: 和邪社
+      style: basic
+      url: https://www.hexieshe.com/?xxfldh
+
+    - name: buster绅士
+      style: basic
+      url: https://ht.acgbuster.com/?xxfldh
+      
   - category: 福利小说
     links:
     - name: 狼先僧小说
@@ -491,6 +550,7 @@
     - name: 草榴小说
       style: green
       url: https://cl.etet.men/thread0806.php?fid=20
+      
 
 - section: public
   categories:
