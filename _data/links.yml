@@ -310,13 +310,17 @@
       style: basic
       url: /
       
-    - name: 500导航
+    - name: 欲火阁导航
       style: red
-      url: http://www.500dh.xyz/?xxfldh
+      url: http://www.yuhuoge.top/?xxfldh
       
     - name: 百姓色导航
       style: red
       url: http://baixingse.top/?xxfldh
+      
+    - name: 500导航
+      style: red
+      url: http://www.500dh.xyz/?xxfldh
       
     - name: 蓝导航
       style: blue
