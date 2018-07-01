@@ -37,6 +37,10 @@
     - name: 恋夜直播盒子（安卓版）
       style: pink
       url: https://www.xxfldh.com/zb/
+      
+    - name: 萝莉视频直播盒子
+      style: pink
+      url: https://www.xxfldh.com/pink/ad
     
     - name: 性福加油站
       style: green
@@ -70,10 +74,6 @@
       style: red
       url: https://m10.097sp.com
       
-    - name: 萝莉纯图
-      style: pink
-      url: https://www.xxfldh.com/pink/ad
-
   - category: 推荐②区
     links: 
     - name: 百姓色导航
@@ -96,7 +96,7 @@
       style: blue
       url: https://huas.pet/?xxfldh
       
-    - name: 萝莉纯图
+    - name: 萝莉视频
       style: pink
       url: https://www.xxfldh.com/pink/ad
       
@@ -122,7 +122,7 @@
       
     - name: 萝莉酱APP
       style: red
-      url: https://www.xxfldh.com/pink/ad
+      url: https://www.xxfldh.com/zb2
       
 - section: three
   categories:
@@ -156,9 +156,9 @@
       style: blue
       url: http://51dh.xyz
       
-    - name: 尺度举牌
+    - name: 萝莉视频
       style: pink
-      url: https://www.xxfldh.com/pink/index.html
+      url: https://www.xxfldh.com/zb2
       
     - name: 91国产论坛
       style: red
