@@ -69,6 +69,10 @@
     - name: 九妹妹小视频
       style: red
       url: https://m10.097sp.com
+      
+    - name: 萝莉纯图
+      style: pink
+      url: https://www.xxfldh.com/pink/ad
 
   - category: 推荐②区
     links: 
@@ -92,9 +96,9 @@
       style: blue
       url: https://huas.pet/?xxfldh
       
-    - name: 尺度举牌
+    - name: 萝莉纯图
       style: pink
-      url: https://www.xxfldh.com/pink/index.html
+      url: https://www.xxfldh.com/pink/ad
       
     - name: 蓝兔导航
       style: blue
@@ -115,6 +119,10 @@
     - name: 萝莉小视频
       style: red
       url: http://www.jiujiure268.com/?xxfldh
+      
+    - name: 萝莉酱APP
+      style: red
+      url: https://www.xxfldh.com/pink/ad
       
 - section: three
   categories:
@@ -195,6 +203,10 @@
     - name: 花社
       style: blue
       url: https://www.huas.pet
+      
+    - name: 萝莉酱
+      style: red
+      url: https://www.xxfldh.com/pink/ad
 
     - name: 福利视频
       style: orange
