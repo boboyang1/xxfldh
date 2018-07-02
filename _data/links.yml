@@ -425,12 +425,15 @@
     - name: 91福利导航
       style: blue
       url: https://www.91xfuli.com/?xxfldh
-      
-      
+
     - name: 591导航网
       style: blue
       url: http://591avw.com/zw/?xxfldh
-      
+
+    - name: 橙子福利导航
+      style: blue
+      url: http://www.chengzidh.com/?xxfldh
+
 - section: THREE
   categories:
   - category: 论坛博客
