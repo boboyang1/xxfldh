@@ -368,17 +368,17 @@
     - name: AV福利导航
       style: black
       url: http://www.avfldh.com/?xxfldh
-  
-    - name: 888福利导航
-      style: red
-      url: http://www.777dh.xyz/?xxfldh
+      
+    - name: 软妹导航
+      style: pink
+      url: http://www.rmdh.pw/?xxfldh
       
     - name: 青年涩站大全
       style: yellow
       url: http://qingnianse2.com/?xxfldh
       
     - name: 逗趣福利导航
-      style: basic
+      style: black
       url: http://douqu.info/?xxfldh
       
     - name: 老色鬼福利导航
@@ -396,10 +396,6 @@
     - name: 第一福利导航
       style: red
       url: http://www.dh1.space/?xxfldh
-      
-    - name: 软妹导航
-      style: pink
-      url: http://www.rmdh.pw/?xxfldh
       
     - name: 黄导航
       style: yellow
