@@ -119,6 +119,10 @@
     - name: 萝莉酱APP
       style: red
       url: https://www.xxfldh.com/zb2
+          
+    - name: 500导航
+      style: red
+      url: http://www.500dh.xyz/?xxfldh
       
 - section: three
   categories:
@@ -329,6 +333,9 @@
     - name: 持续收录，欢迎推荐精品站
       style: basic
       url: /
+    - name: 500导航
+      style: red
+      url: http://www.500dh.xyz/?xxfldh
       
     - name: 欲火阁导航
       style: red
@@ -337,10 +344,6 @@
     - name: 百姓色导航
       style: red
       url: http://baixingse.top/?xxfldh
-      
-    - name: 500导航
-      style: red
-      url: http://www.500dh.xyz/?xxfldh
       
     - name: 蓝导航
       style: blue
