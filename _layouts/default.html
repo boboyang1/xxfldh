@@ -47,5 +47,6 @@
     {% if page.active_key == 'analytics' %}<script type="text/javascript" src="{{ '/assets/js/analytics.js' | relative_url }}"></script>{% endif %}
     {% if page.active_key == 'search' %}<script type="text/javascript" src="//unpkg.com/js-url/url.min.js"></script>{% endif %}
     {% if page.active_key == 'search' %}<script type="text/javascript" src="{{ '/assets/js/search.js' | relative_url }}"></script>{% endif %}
+    <body ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false">
     </body>
 </html>
