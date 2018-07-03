@@ -32,7 +32,7 @@
 
     - name: 恋夜直播盒子（安卓版）
       icon: youtube red
-      style: pink
+      style: basic
       url: https://www.xxfldh.com/zb/
       
     - name: 萝莉视频直播盒子
