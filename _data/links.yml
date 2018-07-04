@@ -71,6 +71,11 @@
       style: red
       url: https://m10.097sp.com
       
+    - name: 看片盒子：酥酥影院（安卓版）
+      icon: youtube red
+      style: basic
+      url: https://www.xxfldh.com/zb/
+      
   - category: 推荐②区
     links: 
     - name: 百姓色导航
