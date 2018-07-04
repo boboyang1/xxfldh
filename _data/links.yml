@@ -52,7 +52,8 @@
       url: http://www.fuck520.com/?xxfldh.com
       
     - name: 萝莉视频直播盒子
-      style: pink
+      icon: youtube red
+      style: basic
       url: https://www.xxfldh.com/pink/ad
     
     - name: 性福加油站
