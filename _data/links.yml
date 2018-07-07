@@ -131,6 +131,10 @@
       style: red
       url: https://www.xxfldh.com/zb2
       
+    - name: 萝莉直播盒子
+      style: red
+      url: http://app29.a1aia.cn:90/
+      
 - section: three
   categories:
   - category: 流量交换
@@ -154,6 +158,10 @@
     - name: 高中女生教室紫薇
       style: red
       url: http://c.771q.cc/click.php?sid=12462
+      
+    - name: 萝莉直播盒子
+      style: pink
+      url: http://app29.a1aia.cn:90/
  
 - section: four
   categories:
