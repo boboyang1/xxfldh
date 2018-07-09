@@ -19,26 +19,8 @@
 	}
 
 var items = [
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
+'/',
+
 
 ];
 option.ewm_imgsrc = items[Math.floor(Math.random()*items.length)];
