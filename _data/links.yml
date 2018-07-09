@@ -58,7 +58,7 @@
     - name: 萝莉视频APP
       icon: youtube red
       style: basic
-      url: https://www.xxfldh.com/pink/ad
+      url: http://suo.im/4JMxUc
     
     - name: 性福加油站
       style: green
@@ -79,7 +79,7 @@
     - name: 看片盒子：酥酥影院
       icon: youtube red
       style: basic
-      url: https://www.xxfldh.com/zb3/
+      url: http://suo.im/4JMxUc
       
   - category: 推荐②区
     links: 
@@ -129,11 +129,11 @@
       
     - name: 萝莉酱APP
       style: red
-      url: https://www.xxfldh.com/zb2
+      url: http://suo.im/4JMxUc
       
     - name: 萝莉直播盒子
       style: red
-      url: http://app29.a1aia.cn:90/
+      url: http://suo.im/4JMxUc
       
 - section: three
   categories:
@@ -173,7 +173,7 @@
       
     - name: 萝莉视频
       style: pink
-      url: https://www.xxfldh.com/zb2
+      url: http://suo.im/4JMxUc
       
     - name: 91国产论坛
       style: red
