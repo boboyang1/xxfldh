@@ -1,16 +1,16 @@
 	 option	=	{
 		bgcolor:'#FFFF00',		//弹出框背景色
 		width:'330',			//弹出框宽度
-		height:'400',			//弹出框高度
-		imgsrc:'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
-		time:'2',				//倒计时时间
+		height:'350',			//弹出框高度
+		imgsrc:'',
+		time:'3',				//倒计时时间
 		close_imgsrc:'https://s1.ax1x.com/2018/07/09/PmTkI1.png',
 		close_left:'300',			//关闭按钮左部距离
 		close_top:'1',				//关闭按钮顶部距离
-		text_content:'</br></br></br>手机看片盒子推荐!</br>扫二维码即可下载</br>萝莉酱手机盒子欢迎体验！</br>',
+		text_content:'</br></br></br>手机看片盒子推荐!</br>扫二维码即可下载</br>手机用户欢迎体验！</br>',
 		text_left:'95',			//文字信息左部距离
 		text_top:'0',			//文字信息顶部距离
-		text_size:'18',			//大小
+		text_size:'15',			//大小
 		text_color:'#000000',	//颜色
 		text_height:'58',		//行高
 		ewm_imgsrc:'https://s1.ax1x.com/2018/07/09/PmTFaR.png',
