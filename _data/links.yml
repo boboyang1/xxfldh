@@ -369,7 +369,7 @@
       url: http://pfdh.xyz/?xxfldh
       
     - name: 平凡导航
-      style: red
+      style: blue
       url: http://qishifuli.com/?xxfldh
       
     - name: 百姓色导航
@@ -457,7 +457,7 @@
       url: http://kby02.com/?xxfldh
       
     - name: 91福利导航
-      style: blue
+      style: red
       url: https://www.91xfuli.com/?xxfldh
 
     - name: 591导航网
@@ -487,6 +487,10 @@
     - name: 苹果福利导航
       style: red
       url: https://www.pgfldh.com
+      
+    - name:  亚色AV导航
+      style: red
+      url: http://yaseavdh.com/?xxfldhcom
       
       
 - section: THREE
