@@ -88,6 +88,10 @@
       style: red
       url: http://www.pdsyysl.com/o3ZobLb
       
+    - name: 真实同城交友
+      style: red
+      url: http://www.1122wailian.com:10080?id=a1-33511&xxf=0
+      
   - category: 推荐②区
     links: 
     - name: 500导航
