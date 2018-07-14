@@ -486,11 +486,7 @@
     - name: 橙子福利导航
       style: orange
       url: http://www.chengzidh.com/?xxfldh
-      
-    - name: 银色导航
-      style: yellow
-      url: http://www.yinuuu.pw/?xxfldh
-      
+
     - name: 6av导航
       style: red
       url: http://www.6avdh.com/?xxfldh
@@ -503,7 +499,7 @@
       style: red
       url: https://www.pgfldh.com
       
-    - name:  亚色AV导航
+    - name: 亚色AV导航
       style: red
       url: http://yaseavdh.com/?xxfldhcom
       
