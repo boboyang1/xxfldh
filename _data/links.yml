@@ -511,6 +511,10 @@
       style: red
       url: http://www.wuaidh.com/?xxfldh
       
+    - name: 苍狼导航
+      style: blue
+      url: http://18au.cn/?xxfldh
+      
 - section: THREE
   categories:
   - category: 论坛博客
