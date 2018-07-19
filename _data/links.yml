@@ -38,10 +38,9 @@
       style: blue
       url: http://www.553440.com/?xxfldh
       
-    - name: 恋夜直播盒子
-      icon: youtube red
-      style: basic
-      url: http://www.jy1405.com:8989/?k=7619&u=761911
+    - name: 8X影库
+      style: blue
+      url: https://8xfk.com/?xxfldh
       
     - name: 超清HD国产AV
       style: brown
@@ -83,6 +82,7 @@
     - name: 同城交友约炮神器
       style: red
       url: http://ajnoe.cn:69/?t=huic_34
+      
       
   - category: 推荐②区
     links: 
