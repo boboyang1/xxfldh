@@ -110,6 +110,34 @@
       style: red
       url: http://ajnoe.cn:69/?t=huic_34
       
+    - name: 广告位
+      style: black
+      url: /#
+      
+    - name: 广告位
+      style: black
+      url: /#
+      
+    - name: 广告位
+      style: black
+      url: /#
+            
+    - name: 广告位
+      style: black
+      url: /#
+                    
+    - name: 广告位
+      style: black
+      url: /#
+      
+    - name: 广告位
+      style: black
+      url: /#
+ 
+    - name: 广告位
+      style: black
+      url: /#
+      
 - section: three
   categories:
   - category: 流量交换
