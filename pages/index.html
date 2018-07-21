@@ -1,3 +1,10 @@
+<style type="text/css">
+<!--
+.STYLE2 {color: #000000; }
+.STYLE3 {color: #FF0000}
+.STYLE4 {color: #0000FF; }
+-->
+</style>
 ---
 layout: default
 title: 值得一看
@@ -9,13 +16,18 @@ active_key:
     {% include page_loading_progress_bar.html %}</div>
 <div class="ui vertical stripe segment">
     <div class="ui container">
-        <div class="label"><center><h2 align="left" class="STYLE1">测试</h2>
+        <div class="label"><center>
+          <div class="label"><center><h2 align="left"><strong><span style="color:#337FE5;">测试标题</span></strong></h2>
           </center>
-          <ol>
+          </div>
+          </center>
+          <ol class="STYLE2">
             <li>
-              <div align="left"><a href="https://www.xxfldh.com/pages/">TEST ~ TEST </a>                </div>
+              <div align="justify"><a href="https://www.xxfldh.com/pages/" target="_blank" class="STYLE3">TEST ~ TEST </a> </div>
             </li>
-            <li><a href="https://www.xxfldh.com/pages/">TEST ~ TEST </a></li>
+            <li>
+              <div align="justify" class="STYLE4"><a href="https://www.xxfldh.com/pages/" target="_blank" class="STYLE2">TEST ~ TEST </a></div>
+            </li>
           </ol>
       </div>
     </div>
