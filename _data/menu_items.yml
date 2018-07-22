@@ -8,6 +8,11 @@
   url: /donate/
   active_key: donate
 
+- name: 值得一看
+  icon: newspaper
+  url: /pages/
+  active_key: analytics
+
 - name: 访客分析
   icon: line chart
   url: /analytics/
