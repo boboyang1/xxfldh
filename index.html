@@ -1,81 +1,29 @@
 ---
-layout: pages
-title: 值得一看
-icon: newspaper
-active_key: analytics
-tags: 久久热最新地址,大香蕉视频网,老司机福利
+layout: default
+active_key: home
 ---
-<div class="ui container">
-<div class="ui vertical stripe stats segment">
-    {% include page_loading_progress_bar.html %}
-    <div class="ui relaxed divided list">
-<div class="ui compact message">
-  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ctrl+D收藏本站 // 本站永久域名：www.xxfldh.com</font><font style="vertical-align: inherit;">// 小X福利导航 - 专注于收集精品宅男福利网站！ // 本站唯一联系方式：nidexie@gmail.com</font></font></p>
-</div>
-<div class="item">
-    <i class="big heart icon"></i>
-    <div class="content">
-      <a href="https://www.xxfldh.com/pages/2018723/01/" target="_blank" class="header STYLE2">最近很火的抖音黑森林视频</a>
-      <div class="description STYLE1">Updated 2018/7/23</div>
+
+{% for section in site.data.links %}
+    <div class="ui vertical stripe links segment">
+        {% if forloop.first %}{% include page_loading_progress_bar.html %}{% endif %}
+        <div class="ui equal width stackable internally celled grid">
+            <div class="center aligned row">
+                {% for item in section.categories %}
+                    <div class="links column">
+                        <div class="ui top attached label">{{ item.category }}</div>
+                        <div class="ui labels">
+                            {% for link in item.links %}<a class="ui {{ link.style }} label" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
-</div>
-<div class="item">
-    <i class="big heart icon"></i>
-    <div class="content">
-      <a href="https://www.xxfldh.com/pages/2018722/01/" target="_blank" class="header STYLE2">斗鱼主播祖祖小姨妈土豪定制6部视频</a>
-      <div class="description STYLE1">Updated 2018/7/22</div>
-    </div>
-</div>
-<div class="item">
-    <i class="big heart icon"></i>
-    <div class="content">
-      <a href="https://www.xxfldh.com/pages/2018722/10/" target="_blank" class="header STYLE2">福利美图极品王雨纯大尺度私房巨乳肥臀好羞涩</a>
-      <div class="description STYLE1">Updated 2018/7/22</div>
-    </div>
-</div>
-<div class="item">
-    <i class="big heart icon"></i>
-    <div class="content">
-      <a href="https://www.xxfldh.com/pages/2018722/06/" target="_blank" class="header STYLE2">约女大学生除了车顶水瓶，竟然还有这么多我不知道的</a>
-      <div class="description STYLE1">Updated 2018/7/22</div>
-    </div>
-</div>
-<div class="item">
-    <i class="big heart icon"></i>
-    <div class="content">
-      <a href="https://www.xxfldh.com/pages/2018722/02/" target="_blank" class="header STYLE2">微博红人妹子@奶兔小雪球美图</a>
-      <div class="description STYLE1">Updated 2018/7/22</div>
-    </div>
-</div>
-<div class="item">
-    <i class="big heart icon"></i>
-    <div class="content">
-      <a href="https://www.xxfldh.com/pages/2018722/03/" target="_blank" class="header STYLE2">水嫩妹妹沈蜜桃深沟巨乳薄纱半遮体</a>
-      <div class="description STYLE1">Updated 2018/7/22</div>
-    </div>
-</div>
-<div class="item">
-    <i class="big heart icon"></i>
-    <div class="content">
-      <a href="https://www.xxfldh.com/pages/2018722/04/" target="_blank" class="header STYLE2">兔女郎莉莉玩变装制服诱惑看要多足有多足</a>
-      <div class="description STYLE1">Updated 2018/7/22</div>
-    </div>
-</div>
-<div class="item">
-    <i class="big heart icon"></i>
-    <div class="content">
-      <a href="https://www.xxfldh.com/pages/2018722/05/" target="_blank" class="header STYLE2">兔女郎莉莉玩变装制服诱惑看要多足有多足</a>
-      <div class="description STYLE1">Updated 2018/7/22</div>
-    </div>
-</div>
-        
-        
-        
-</div>
-</div>
-<div class="ui vertical stripe segment">
-    </div>
-    <div class="ui container">
-        <div class="label"><center><h2><span style="color:#337FE5;">本站永久地址：www.xxfldh.com</span></h2></center></div>
-    </div>
-</div>
+{% endfor %}
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2941484541322438",
+    enable_page_level_ads: true
+  });
+</script>
