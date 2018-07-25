@@ -74,13 +74,3 @@ updateAnalytics();
 setInterval(function () {
     updateAnalytics();
 }, 60000);
-
-<script>
-host = window.location.host;
-var site= "www.xxfldh.com";
-if (host!=site )
-{
-alert(window.location.host+':为非法镜像网站，为了您的安全正在带您回到原网站');
-location.href='https://'+site+window.location.pathname ;
-}
-</script>
