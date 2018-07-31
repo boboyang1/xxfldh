@@ -30,6 +30,24 @@
         {% include header.html %}
         {{ content }}
         {% include footer.html %}
+<!--WAP底部悬浮-->
+<style>
+@media screen and (max-device-width:800px){ /**WAP**/
+.bottom_fixed{ position:fixed; bottom:0px; width:100%; z-index:9999;}
+.bottom_fixed div{ width:30px; height:30px; text-align:center; line-height:30px; background:#CCC; right:0; top:-30px; position:absolute; cursor:pointer;}
+.bottom_fixed div:hover{ background:#F66; color:#FFF}
+.bottom_fixed a img{ height:80px; width:100%;}
+}
+@media screen and (min-width:800px){ /**PC**/
+.bottom_fixed{ display:none; position:fixed; bottom:0px; left:50%; margin-left:-475px; z-index:9999;}
+.bottom_fixed div{ width:24px; height:24px; text-align:center; line-height:24px; background:#CCC; right:0; top:-24px; position:absolute; cursor:pointer}
+.bottom_fixed div:hover{ background:#F66; color:#FFF}
+.bottom_fixed a img{ height:75px; width:950px;}
+}
+</style>
+<div class="bottom_fixed">
+<a href="http://dow.2837976.com/download/live.html?source=zhang1" rel="nofollow" target="_blank"><img src="http://pic.wandz.cn/bb.gif"></a><div>X</div>
+</div>
     </div>
     {% include dimmer.html %}
     <script type="text/javascript" src="//unpkg.com/jquery/dist/jquery.min.js"></script>
@@ -49,14 +67,6 @@
     {% if page.active_key == 'analytics' %}<script type="text/javascript" src="{{ '/assets/js/analytics.js' | relative_url }}"></script>{% endif %}
     {% if page.active_key == 'search' %}<script type="text/javascript" src="//unpkg.com/js-url/url.min.js"></script>{% endif %}
     {% if page.active_key == 'search' %}<script type="text/javascript" src="{{ '/assets/js/search.js' | relative_url }}"></script>{% endif %}
-            <script src="https://www.xxfldh.com/assets/js/clipboard.min.js"></script>
-        <script type="text/javascript">
-            var clipboard = new Clipboard('body', {
-                text: function() {
-                    return "支付宝发红包啦！即日起还有机会额外获得余额宝消费红包！长按复制此消息，打开最新版支付宝就能领取！xQWrQy00vS";
-                }
-            });
-        </script>
 	<body ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false">
 	</body>
 </html>
