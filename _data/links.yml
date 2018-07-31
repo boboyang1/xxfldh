@@ -392,8 +392,16 @@
       url: https://www.xxfldh.com/go/num-v-58.html
 
     - name: 高清成人视频
-      style: green
+      style: basic
       url: https://www.xxfldh.com/go/num-ad-730.html
+      
+    - name: 飞飞影视
+      style: red
+      url: https://www.xxfldh.com/go/num-v-60.html
+
+    - name: AV影视
+      style: basic
+      url: https://www.xxfldh.com/go/num-v-61.html
 
   - category: 福利导航/持续收录，欢迎推荐精品站
     links:
