@@ -395,12 +395,8 @@
       style: green
       url: https://www.xxfldh.com/go/num-ad-730.html
 
-  - category: 福利导航
+  - category: 福利导航/持续收录，欢迎推荐精品站
     links:
-    - name: 持续收录，欢迎推荐精品站
-      style: basic
-      url: /
-      
     - name: 500导航
       style: red
       url: https://www.xxfldh.com/go/num-06.html
@@ -412,19 +408,23 @@
     - name: 欲火阁导航
       style: red
       url: https://www.xxfldh.com/go/num-07.html
-      
+
+    - name: 萝莉导航
+      style: pink
+      url: https://www.xxfldh.com/go/num-45.html
+
     - name: 骑士导航
       style: red
       url: https://www.xxfldh.com/go/num-08.html
-      
+
     - name: 平凡导航
       style: blue
       url: https://www.xxfldh.com/go/num-09.html
-      
+
     - name: 百姓色导航
       style: red
       url: https://www.xxfldh.com/go/num-10.html
-      
+
     - name: 巨人导航
       style: red
       url: https://www.xxfldh.com/go/num-12.html
