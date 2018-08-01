@@ -130,9 +130,10 @@
       style: basic
       url: http://www.assab-die.cn/man/a.html
 
-    - name: 广告位
-      style: black
-      url: /#
+    - name: 恋夜直播
+      icon: youtube red
+      style: red
+      url: http://www.assab-die.cn/man/a.html
 
     - name: 广告位
       style: black
@@ -205,6 +206,11 @@
     - name: 超清HD国产AV
       style: brown
       url: https://www.xxfldh.com/go/num-v-7.html
+      
+    - name: 恋夜直播
+      icon: youtube red
+      style: red
+      url: http://www.assab-die.cn/man/a.html
       
     - name: 哥哥干在线
       style: red
