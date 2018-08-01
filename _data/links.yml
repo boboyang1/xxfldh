@@ -130,14 +130,13 @@
       style: basic
       url: http://www.assab-die.cn/man/a.html
 
-    - name: 抖阴破解版APP
-      style: red
-      url: https://www.xxfldh.com/go/num-44.html
+    - name: 广告位
+      style: black
+      url: /#
 
-    - name: 恋夜真人直播
-      icon: youtube red
-      style: basic
-      url: http://www.jy1405.com:8989/?k=7619&u=761911
+    - name: 广告位
+      style: black
+      url: /#
  
     - name: 广告位
       style: black
