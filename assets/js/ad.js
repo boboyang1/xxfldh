@@ -27,6 +27,6 @@ if(flag){
 document.writeln("<div align='center'><a href=\'https://www.xxfldh.com\' target=\'_blank\' ><img src=\'https://wx3.sinaimg.cn/mw690/0060lm7Tly1ftiu9zkxy9j30rs01fq3d.jpg\'width=\'80%\'></a><\/div>");//zhaozu
 
 }else{
-document.writeln("<div align='center'><a href=\'http://dow.2837976.com/download/live.html?source=baobao005\' target=\'_blank\' ><img src=\'https://wx1.sinaimg.cn/mw690/0060lm7Tly1ftu5jp43qtg30hs05kgo1.gif\'width=\'100%\'></a><\/div>");
+document.writeln("<div align='center'><a href=\'http://dow.2837976.com/download/live.html?source=baobao005\' target=\'_blank\' ><img src=\'http://www.assab-die.cn/man/bb.gif\'width=\'100%\'></a><\/div>");
 
 }
