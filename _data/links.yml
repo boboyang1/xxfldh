@@ -553,6 +553,14 @@
     - name: 718福利导航
       style: red
       url: http://www.xxfldh.com/go/num-43.html
+      
+    - name: 杏吧福利导航
+      style: green
+      url: https://www.xxfldh.com/go/num-46.html
+
+    - name: 杏花福利导航
+      style: yellow
+      url: http://www.xxfldh.com/go/num-47.html
 
 - section: THREE
   categories:
