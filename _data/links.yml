@@ -202,6 +202,14 @@
     - name: 东京热视频
       style: purple
       url: https://www.xxfldh.com/go/num-v-4.html
+      
+    - name: 销魂集
+      style: black
+      url: https://www.xxfldh.com/go/num-v-64.html
+      
+    - name: 顶峰视频
+      style: pink
+      url: https://www.xxfldh.com/go/num-v-65.html
 
     - name: 91国产论坛
       style: red
@@ -437,15 +445,15 @@
     - name: 欲火阁导航
       style: red
       url: https://www.xxfldh.com/go/num-07.html
-
-    - name: 骑士导航
-      style: red
-      url: https://www.xxfldh.com/go/num-08.html
-
+      
     - name: 平凡导航
       style: blue
       url: https://www.xxfldh.com/go/num-09.html
 
+    - name: 骑士导航
+      style: red
+      url: https://www.xxfldh.com/go/num-08.html
+      
     - name: 百姓色导航
       style: red
       url: https://www.xxfldh.com/go/num-10.html
