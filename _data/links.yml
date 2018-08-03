@@ -108,6 +108,11 @@
     - name: 勃起啦
       style: red
       url: https://www.xxfldh.com/go/num-04.html
+      
+    - name: 恋夜直播
+      icon: youtube red
+      style: basic
+      url: http://app06.ppf7.cn:86
 
     - name: 啪啪啪研究所
       style: pink
@@ -140,12 +145,8 @@
 
     - name: 恋夜直播
       icon: youtube red
-      style: red
-      url: http://www.assab-die.cn/man/a.html
-
-    - name: 广告位
-      style: black
-      url: /#
+      style: basic
+      url: http://app06.ppf7.cn:86
  
     - name: 广告位
       style: black
