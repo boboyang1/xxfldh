@@ -109,7 +109,7 @@
       style: red
       url: https://www.xxfldh.com/go/num-04.html
       
-    - name: 恋夜直播
+    - name: 恋夜秀场
       icon: youtube red
       style: basic
       url: http://app06.ppf7.cn:86
@@ -144,7 +144,6 @@
       url: http://www.assab-die.cn/man/a.html
 
     - name: 恋夜直播
-      icon: youtube red
       style: basic
       url: http://app06.ppf7.cn:86
  
