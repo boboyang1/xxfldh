@@ -22,9 +22,9 @@
       style: red
       url: http://t.cn/RrAwYkQ
       
-    - name: 科学上网②！！！
+    - name: 免流上网②！！！
       style: red
-      url: http://t.cn/RrAwYkQ    
+      url: https://m.cqyztx.com/col.jsp?id=148    
       
 - section: TWO
   categories:
@@ -93,6 +93,10 @@
       
   - category: 推荐②区
     links: 
+    - name: 萝莉秀
+      style: pink
+      url: https://www.tuim16.com/timev/ad_mode.html
+    
     - name: 500导航
       style: red
       url: https://www.xxfldh.com/go/num-03.html
