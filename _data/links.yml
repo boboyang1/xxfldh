@@ -146,10 +146,10 @@
     - name: 恋夜直播
       style: basic
       url: http://app06.ppf7.cn:86
- 
-    - name: 广告位
-      style: black
-      url: /#
+      
+    - name: 萝莉秀
+      style: pink
+      url: https://www.tuim16.com/timev/ad_mode.html
       
 - section: three
   categories:
@@ -206,7 +206,11 @@
     - name: 东京热视频
       style: purple
       url: https://www.xxfldh.com/go/num-v-4.html
-      
+
+    - name: 萝莉秀
+      style: pink
+      url: https://www.tuim16.com/timev/ad_mode.html
+
     - name: 销魂集
       style: black
       url: https://www.xxfldh.com/go/num-v-64.html
@@ -222,10 +226,6 @@
     - name: 超清HD国产AV
       style: brown
       url: https://www.xxfldh.com/go/num-v-7.html
-      
-    - name: 萝莉秀
-      style: pink
-      url: https://www.tuim16.com/timev/ad_mode.html
       
     - name: 哥哥干在线
       style: red
