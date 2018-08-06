@@ -151,9 +151,9 @@
       style: basic
       url: http://app06.ppf7.cn:86
       
-    - name: 萝莉秀
-      style: pink
-      url: https://www.tuim16.com/timev/ad_mode.html
+    - name: 免VIP看电影
+      style: black
+      url: https://www.xxfldh.com/go/num-v-66.html
       
 - section: three
   categories:
@@ -210,6 +210,10 @@
     - name: 东京热视频
       style: purple
       url: https://www.xxfldh.com/go/num-v-4.html
+      
+    - name: 免VIP看电影
+      style: black
+      url: https://www.xxfldh.com/go/num-v-66.html
 
     - name: 萝莉秀
       style: pink
