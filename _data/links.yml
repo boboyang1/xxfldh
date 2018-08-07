@@ -121,10 +121,10 @@
       style: red
       url: https://www.xxfldh.com/go/num-04.html
       
-    - name: 恋夜秀场
+    - name: 广告位
       icon: youtube red
       style: basic
-      url: http://app06.ppf7.cn:86
+      url: #
 
     - name: 啪啪啪研究所
       style: pink
@@ -155,9 +155,9 @@
       style: basic
       url: http://www.assab-die.cn/man/a.html
 
-    - name: 恋夜直播
+    - name: 广告位
       style: basic
-      url: http://app06.ppf7.cn:86
+      url: #
       
     - name: 免VIP看电影
       style: black
