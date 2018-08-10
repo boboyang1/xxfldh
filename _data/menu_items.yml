@@ -17,3 +17,8 @@
   icon: line chart
   url: /analytics/
   active_key: analytics
+
+- name: 最新地址
+  icon: location arrow
+  url: https://www.emoneyspace.com/xxfldh
+  active_key: home
