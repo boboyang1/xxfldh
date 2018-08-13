@@ -6,12 +6,12 @@
   icon: paw blue inverted
   style: black
 
-- id: google
-  name: 谷歌
-  url: https://google.com/search?q=
-  shortcut: 谷歌
+- id: avtaobao
+  name: AV淘宝
+  url: http://www.avtbd.com/search/video/?s=
+  shortcut: AV淘宝
   icon: google red inverted
-  style: black
+  style: orange
 
 - id: baidumap
   name: 百度地图
