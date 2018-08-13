@@ -6,13 +6,6 @@
   icon: paw blue inverted
   style: black
 
-- id: avtaobao
-  name: AV淘宝
-  url: http://www.avtbd.com/search/video/?s=
-  shortcut: AV淘宝
-  icon: google red inverted
-  style: orange
-
 - id: baidumap
   name: 百度地图
   url: https://api.map.baidu.com/geocoder?address=
