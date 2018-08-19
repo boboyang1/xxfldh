@@ -1,3 +1,11 @@
+- id: huas
+  name: 花社
+  url: https://huas.life/?s=
+  suffix: "&ie=utf-8"
+  shortcut: 花社
+  icon: yelp
+  style: blue
+
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
