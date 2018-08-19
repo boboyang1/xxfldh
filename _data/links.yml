@@ -455,6 +455,10 @@
     - name: 136导航
       style: red
       url: http://www.136dh.net/?adref=xxfldh_com
+      
+    - name: 骑士导航
+      style: red
+      url: https://www.nnfldh.com/go/num-08.html
 
     - name: 欲火阁导航
       style: red
@@ -464,9 +468,9 @@
       style: blue
       url: https://www.nnfldh.com/go/num-09.html
 
-    - name: 骑士导航
+    - name: 迷妹福利导航
       style: red
-      url: https://www.nnfldh.com/go/num-08.html
+      url: https://www.nnfldh.com/go/num-48.html
       
     - name: 百姓色导航
       style: red
@@ -551,10 +555,6 @@
     - name: 6av导航
       style: red
       url: https://www.nnfldh.com/go/num-33.html
-      
-    - name: 牛奶福利导航
-      style: basic
-      url: https://www.nnfldh.com/go/num-34.html
       
     - name: 苹果福利导航
       style: red
