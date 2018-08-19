@@ -3,7 +3,7 @@
   url: /
   active_key: home
   
-- name: 申请收录
+- name: 收录&合作
   icon: qrcode
   url: /donate/
   active_key: donate
