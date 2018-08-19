@@ -16,7 +16,7 @@
 - id: ppx
   name: 皮皮虾
   url: https://www.ppx17.com/search/
-  suffix: "&ie=utf-8"
+  suffix: "&ie=utf-8/"
   shortcut: 皮皮虾
   icon: hotjar
   style: orange
