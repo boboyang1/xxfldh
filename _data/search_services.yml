@@ -5,6 +5,13 @@
   shortcut: 花社
   icon: yelp
   style: blue
+  
+- id: xingfu
+  name: 性福
+  url: https://www.ganbi66.com/search/
+  shortcut: 性福
+  icon: google play
+  style: green
 
 - id: baidu
   name: 百度
