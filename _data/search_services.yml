@@ -12,6 +12,14 @@
   shortcut: 性福
   icon: google play
   style: green
+  
+- id: ppx
+  name: 皮皮虾
+  url: https://www.ppx17.com/search/
+  suffix: "&ie=utf-8"
+  shortcut: 皮皮虾
+  icon: hotjar
+  style: orange
 
 - id: baidu
   name: 百度
