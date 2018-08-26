@@ -455,6 +455,10 @@
     - name: 平凡导航
       style: blue
       url: https://www.nnfldh.com/go/num-09.html
+      
+    - name: 老色鬼福利导航
+      style: orange
+      url: https://www.nnfldh.com/go/num-19.html
 
     - name: 迷妹福利导航
       style: red
@@ -479,10 +483,6 @@
     - name: 逗趣福利导航
       style: black
       url: https://www.nnfldh.com/go/num-18.html
-      
-    - name: 老色鬼福利导航
-      style: red
-      url: https://www.nnfldh.com/go/num-19.html
       
     - name: 污妹妹福利导航
       style: yellow
