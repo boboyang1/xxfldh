@@ -145,6 +145,7 @@
       icon: youtube red
       style: basic
       url: http://www.assab-die.cn/man/a.html
+      
 
     - name: AV萝莉在线视频
       style: pink
@@ -217,6 +218,11 @@
     - name: 花社
       style: blue
       url: https://www.nnfldh.com/go/num-v-20.html
+      
+    - name: 啪啪啪会所
+      icon: youtube red
+      style: basic
+      url: https://jav101.com/?pp=11884
       
     - name: 免VIP看电影
       style: black
