@@ -969,6 +969,11 @@
 
   - category: 工具
     links:
+    - name: 百度
+      icon: paw blue
+      style: basic
+      url: https://www.nnfldh.com/go/num-57.html
+    
     - name: '12306'
       icon: train red
       style: basic
