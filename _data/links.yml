@@ -66,11 +66,11 @@
        
     - name: 无毒看片神器
       icon: video red
-      style: red
+      style: basic
       url: /go/num-ad-8dgo.html
           
     - name: 萝莉露出系列
-      style: red
+      style: pink
       url: /go/num-ad-8dgo.html
  
     - name: 抖音福利合集
