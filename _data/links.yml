@@ -603,6 +603,10 @@
     - name: 妹妹在线导航
       style: green
       url: /go/num-59.html
+      
+    - name: 黑森林导航
+      style: pink
+      url: /go/num-60.html
 
 - section: THREE
   categories:
