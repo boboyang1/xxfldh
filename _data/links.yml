@@ -79,7 +79,7 @@
       
     - name: 91国产偷拍自拍论坛
       style: red
-      url: http://91kk9.com/forum.php?mod=forumdisplay&fid=128/?x=13322037
+      url: http://91kk9.com/forum.php?mod=forumdisplay&fid=128&13322037
       
     - name: 极品HD骚女AV
       style: pink
@@ -87,7 +87,7 @@
       
     - name: 免费国产AV偷拍自拍在线观看
       style: green
-      url: http://91kk9.com/forum.php?mod=forumdisplay&fid=128/?x=xiaox
+      url: http://91kk9.com/forum.php?mod=forumdisplay&fid=128&xiaox
       
     - name: 真人视讯1v1聊天
       style: pink
@@ -202,11 +202,11 @@
       url: http://46.183.115.146:3306?f=xiaox
     
     - name: 第一福利
-      style: red
+      style: blue
       url: https://www.mdrkj.com/diyifuli/
     
     - name: 死三八影视
-      style: blue
+      style: red
       url: https://www.mdrkj.com/438ys/
     
     - name: 皮皮虾视频
