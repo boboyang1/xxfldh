@@ -534,7 +534,7 @@
       
     - name: 星巴K导航
       style: black
-      url: http://www.nnfldh.com/go/num-56.html
+      url: /go/num-56.html
 
     - name: 591导航网
       style: blue
@@ -542,7 +542,7 @@
       
     - name: 718福利导航
       style: red
-      url: http://www.nnfldh.com/go/num-43.html
+      url: /go/num-43.html
       
     - name: 502导航
       style: blue
@@ -570,7 +570,7 @@
     
     - name: 718福利导航
       style: red
-      url: http://www.nnfldh.com/go/num-43.html
+      url: /go/num-43.html
       
     - name: 杏吧福利导航
       style: green
@@ -578,7 +578,7 @@
 
     - name: 杏花福利导航
       style: yellow
-      url: http://www.nnfldh.com/go/num-47.html
+      url: /go/num-47.html
 
     - name: 74福利导航
       style: black
@@ -604,13 +604,17 @@
       style: red
       url: /go/num-54.html
       
-    - name: 妹妹在线导航
+    - name: 妹妹福利导航
       style: green
       url: /go/num-59.html
       
     - name: 黑森林导航
       style: pink
       url: /go/num-60.html
+      
+    - name: 78福利导航
+      style: pink
+      url: /go/num-02.html
 
 - section: THREE
   categories:
