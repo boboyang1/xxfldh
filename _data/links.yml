@@ -464,10 +464,6 @@
       style: black
       url: /go/num-14.html
       
-    - name: AV福利导航
-      style: black
-      url: /go/num-15.html
-      
     - name: 软妹导航
       style: pink
       url: /go/num-16.html
@@ -527,18 +523,10 @@
     - name: 橙子福利导航
       style: orange
       url: /go/num-32.html
-
-    - name: 6av导航
-      style: red
-      url: /go/num-33.html
       
     - name: 苹果福利导航
       style: red
       url: /go/num-35.html
-      
-    - name: 亚色AV导航
-      style: red
-      url: /go/num-36.html
       
     - name: 风花导航
       style: yellow
