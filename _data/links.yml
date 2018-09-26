@@ -216,10 +216,6 @@
     - name: 性福加油站
       style: green
       url: /go/num-v-3.html
-      
-    - name: 东京热视频
-      style: purple
-      url: /go/num-v-4.html
           
     - name: 花社
       style: blue
