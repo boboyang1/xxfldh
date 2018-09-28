@@ -57,7 +57,8 @@
       url: http://i999.fun/?utm_source=na&utm_medium=51
       
     - name: 天天撸
-      style: purple
+      icon: video red
+      style: basic
       url: http://www.ttl111.com/
       
     - name: 国产精选系列
@@ -65,8 +66,7 @@
       url: /go/num-ad-8dgo.html
        
     - name: 无毒看片神器
-      icon: video red
-      style: basic
+      style: purple
       url: /go/num-ad-8dgo.html
           
     - name: 萝莉露出系列
