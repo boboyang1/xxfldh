@@ -81,10 +81,6 @@
       style: green
       url: http://91kk9.com/forum.php?mod=forumdisplay&fid=128&xiaox
       
-    - name: 九妹妹小视频
-      style: basic
-      url: https://m10.097sp.com
-      
     - name: 真人视讯1v1聊天
       style: pink
       url: http://11994.twseb8.com
@@ -200,13 +196,13 @@
     - name: 第一福利
       style: blue
       url: https://www.mdrkj.com/diyifuli/
-    
-    - name: 死三八影视
-      style: red
-      url: https://www.mdrkj.com/438ys/
+      
+    - name: 九妹妹小视频
+      style: basic
+      url: https://m10.097sp.com
     
     - name: 皮皮虾视频
-      style: blue
+      style: pink
       url: /go/num-v-2.html
       
     - name: 性福加油站
@@ -220,10 +216,6 @@
     - name: 免VIP看电影
       style: black
       url: /go/num-v-66.html
-
-    - name: 销魂集
-      style: black
-      url: /go/num-v-64.html
       
     - name: 顶峰视频
       style: pink
@@ -324,10 +316,6 @@
     - name: 久插久插
       style: red
       url: /go/num-v-44.html
-      
-    - name: 91国产
-      style: blue
-      url: /go/num-v-45.html
       
     - name: 夏娃AV资源
       style: red
