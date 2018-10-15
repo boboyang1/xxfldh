@@ -201,12 +201,8 @@
   - category: 在线视频
     links:
     - name: 哦叉叉国产1080P
-      style: red
-      url: http://173.82.152.25:3306/?f=xiaox
-    
-    - name: 第一福利
       style: blue
-      url: https://www.mdrkj.com/diyifuli/
+      url: http://173.82.152.25:3306/?f=xiaox
       
     - name: 九妹妹小视频
       style: basic
@@ -216,65 +212,41 @@
       style: pink
       url: /go/num-v-2.html
       
-    - name: 性福加油站
+    - name: 秘密花园
+      style: purple
+      url: /go/num-v-55.html
+      
+    - name: 娇羞天使
       style: green
-      url: /go/num-v-3.html
+      url: /go/num-v-8.html
           
     - name: 花社
       style: blue
       url: /go/num-v-20.html
       
-    - name: 免VIP看电影
-      style: black
-      url: /go/num-v-66.html
-
-    - name: 91国产论坛
+    - name: 第一福利
       style: red
-      url: /go/num-v-6.html
+      url: https://www.mdrkj.com/diyifuli/
       
-    - name: 七月成人视频
-      style: green
-      url: /go/num-v-74.html
+    - name: 老司机成人视频
+      style: black
+      url: /go/num-v-12.html
       
     - name: AV萝莉在线视频
       style: pink
       url: https://avp91.com/?adref=xxfldh_com
       
-    - name: AVSOX
-      style: red
-      url: /go/num-v-11.html
-      
-    - name: 老司机成人视频
-      style: red
-      url: /go/num-v-12.html
-      
-    - name: XVIDEOS
-      style: red
-      url: /go/num-v-16.html
-      
-    - name: 91 PORN
-      style: black
-      url: /go/num-v-17.html
-      
-    - name: AV淘宝
-      style: pink
-      url: /go/num-v-18.html
-
     - name: JAV在线
       style: red
       url: /go/num-ad-730.html
 
-    - name: IAVPorn
-      style: basic
-      url: /go/num-v-23.html
-
-    - name: 青青草在线
-      style: black
-      url: /go/num-v-27.html
+    - name: 91国产论坛
+      style: purple
+      url: /go/num-v-6.html
       
-    - name: 26高清视频
-      style: brown
-      url: /go/num-v-28.html
+    - name: 性福加油站
+      style: green
+      url: /go/num-v-3.html
       
     - name: 九妹妹小视频
       style: red
@@ -351,10 +323,6 @@
     - name: 爱爱啦视频
       style: red
       url: /go/num-v-52.html
-      
-    - name: 秘密花园
-      style: red
-      url: /go/num-v-55.html
 
     - name: 哥哥日妹妹
       style: blue
@@ -447,6 +415,10 @@
     - name: 诱呀AV网
       style: purple
       url: /go/num-v-7.html
+      
+    - name: 青青草在线
+      style: black
+      url: /go/num-v-27.html
 
   - category: 福利导航/持续收录，欢迎推荐精品站
     links:  
