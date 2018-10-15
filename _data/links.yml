@@ -455,12 +455,12 @@
       url: http://www.136dh.net/
       
     - name: 123导航
-      style: red
-      url: https://www.mdrkj.com/136dh/
+      style: brown
+      url: /go/num-09.html
       
     - name: 神盾局导航
-      style: red
-      url: https://www.mdrkj.com/136dh/
+      style: green
+      url: /go/num-09.html
       
     - name: 蓝导航
       style: blue
