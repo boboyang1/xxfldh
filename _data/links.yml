@@ -533,10 +533,6 @@
     - name: 风花导航
       style: yellow
       url: /go/num-39.html
-    
-    - name: 718福利导航
-      style: red
-      url: /go/num-43.html
       
     - name: 杏吧福利导航
       style: green
