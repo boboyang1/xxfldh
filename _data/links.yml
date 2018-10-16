@@ -327,10 +327,6 @@
     - name: 哥哥日妹妹
       style: blue
       url: /go/num-v-56.html
-      
-    - name: 隔壁老王
-      style: black
-      url: /go/num-v-57.html
 
     - name: AV天堂
       style: red
@@ -339,18 +335,10 @@
     - name: 高清成人视频
       style: basic
       url: /go/num-ad-730.html
-      
-    - name: 7撸8撸视频
-      style: red
-      url: /go/num-v-62.html
 
     - name: 色虎视频
       style: basic
       url: /go/num-v-63.html
-      
-    - name: 飞飞影视
-      style: red
-      url: /go/num-v-60.html
 
     - name: AV影视
       style: basic
