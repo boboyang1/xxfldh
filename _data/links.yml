@@ -406,14 +406,6 @@
       style: green
       url: /go/num-09.html
       
-    - name: 蓝导航
-      style: blue
-      url: /go/num-55.html
-      
-    - name: 柠檬导航
-      style: yellow
-      url: /go/num-13.html
-      
     - name: 小三福利导航
       style: purple
       url: /go/num-08.html
