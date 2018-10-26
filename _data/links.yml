@@ -55,7 +55,7 @@
       style: blue
       url: http://91qq9.com/forum.php?mod=forumdisplay&fid=128&xiaox
       
-    - name: 天天撸
+    - name: 天天撸视频
       icon: video red
       style: basic
       url: http://www.ttl111.com/?adref=xxfldh_com
@@ -355,6 +355,11 @@
     - name: 幼女喷水直播
       style: black
       url: http://www.luoli1024.com/?adref=xxfldh_com
+      
+    - name: 天天撸
+      icon: video red
+      style: basic
+      url: http://www.ttl111.com/?adref=xxfldh_com
       
     - name: HD国产精品
       style: basic
