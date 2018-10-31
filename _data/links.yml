@@ -538,6 +538,10 @@
     - name: 78福利导航
       style: pink
       url: /go/num-02.html
+      
+    - name: 今日福利导航
+      style: pink
+      url: /go/num-13.html
 
 - section: THREE
   categories:
