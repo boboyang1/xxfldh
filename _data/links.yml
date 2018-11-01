@@ -530,10 +530,6 @@
     - name: 玉蒲团导航
       style: black
       url: /go/num-52.html
-      
-    - name: 啪啪福利导航
-      style: pink
-      url: /go/num-53.html
 
     - name: 乱片福利导航
       style: red
@@ -554,6 +550,10 @@
     - name: 今日福利导航
       style: pink
       url: /go/num-13.html
+      
+    - name: 啪啪福利导航
+      style: pink
+      url: /go/num-53.html
 
 - section: THREE
   categories:
