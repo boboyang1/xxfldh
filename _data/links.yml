@@ -343,77 +343,73 @@
       style: green
       url: /go/num-15.html
       
-    - name: 小三福利导航
-      style: purple
-      url: /go/num-08.html
-      
-    - name: 613福利导航
-      style: green
-      url: /go/num-58.html
+    - name: 百姓色导航
+      style: red
+      url: /go/num-10.html
 
     - name: 欲火阁导航
       style: red
       url: /go/num-07.html
-      
-    - name: 老色鬼福利导航
-      style: orange
-      url: /go/num-19.html
-      
-    - name: 百姓色导航
-      style: red
-      url: /go/num-10.html
-      
-    - name: 色博士导航
-      style: black
-      url: /go/num-14.html
-      
-    - name: 软妹导航
-      style: pink
-      url: /go/num-16.html
-      
-    - name: 逗趣福利导航
-      style: black
-      url: /go/num-18.html
-      
-    - name: 污妹妹福利导航
-      style: yellow
-      url: /go/num-20.html
-      
-    - name: 正品粉导航
-      style: brown
-      url: /go/num-21.html
-      
-    - name: 星巴K导航
-      style: black
-      url: /go/num-56.html
-
-    - name: 74福利导航
-      style: black
-      url: /go/num-49.html
-      
-    - name: 玉蒲团导航
-      style: black
-      url: /go/num-52.html
 
     - name: 乱片福利导航
       style: red
       url: /go/num-54.html
       
-    - name: 妹妹福利导航
-      style: green
-      url: /go/num-59.html
-      
     - name: 78福利导航
       style: pink
       url: /go/num-02.html
+      
+    - name: 软妹导航
+      style: pink
+      url: /go/num-16.html
+      
+    - name: 613福利导航
+      style: green
+      url: /go/num-58.html
+      
+    - name: 星巴K导航
+      style: black
+      url: /go/num-56.html
+      
+    - name: 色博士导航
+      style: black
+      url: /go/num-14.html
+      
+    - name: 正品粉导航
+      style: brown
+      url: /go/num-21.html
+      
+    - name: 小三福利导航
+      style: purple
+      url: /go/num-08.html
+      
+    - name: 老色鬼福利导航
+      style: orange
+      url: /go/num-19.html
+      
+    - name: 妹妹福利导航
+      style: green
+      url: /go/num-59.html
       
     - name: 今日福利导航
       style: pink
       url: /go/num-13.html
       
+    - name: 逗趣福利导航
+      style: black
+      url: /go/num-18.html
+
+    - name: 74福利导航
+      style: black
+      url: /go/num-49.html
+      
     - name: 啪啪福利导航
       style: pink
       url: /go/num-53.html
+      
+    - name: 污妹妹福利导航
+      style: yellow
+      url: /go/num-20.html
 
 - section: THREE
   categories:
