@@ -487,18 +487,6 @@
       style: blue
       url: /go/num-31.html
 
-    - name: 橙子福利导航
-      style: orange
-      url: /go/num-32.html
-      
-    - name: 苹果福利导航
-      style: red
-      url: /go/num-35.html
-      
-    - name: 风花导航
-      style: yellow
-      url: /go/num-39.html
-
     - name: 74福利导航
       style: black
       url: /go/num-49.html
