@@ -327,9 +327,13 @@
 
   - category: 福利导航/持续收录，欢迎推荐精品站
     links:  
-    - name: 136导航
+    - name: 136福利导航
       style: red
-      url: http://www.136dh.net/
+      url: /go/num-17.html
+      
+    - name: 黑森林导航
+      style: yellow
+      url: /go/num-60.html
       
     - name: 123导航
       style: brown
@@ -398,10 +402,6 @@
     - name: 妹妹福利导航
       style: green
       url: /go/num-59.html
-      
-    - name: 黑森林导航
-      style: yellow
-      url: /go/num-60.html
       
     - name: 78福利导航
       style: pink
