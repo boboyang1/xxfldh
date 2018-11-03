@@ -387,6 +387,10 @@
       style: orange
       url: /go/num-19.html
       
+    - name: KK福利导航
+      style: red
+      url: /go/num-22.html
+      
     - name: 妹妹福利导航
       style: green
       url: /go/num-59.html
