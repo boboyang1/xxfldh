@@ -459,14 +459,6 @@
       style: brown
       url: /go/num-21.html
       
-    - name: 黄导航
-      style: yellow
-      url: /go/num-22.html
-      
-    - name: 苍狼导航
-      style: blue
-      url: /go/num-38.html
-      
     - name: 爱撸导航
       style: black
       url: /go/num-23.html
@@ -478,10 +470,6 @@
     - name: KK37导航
       style: yellow
       url: /go/num-27.html
-      
-    - name: 快播云导航
-      style: blue
-      url: /go/num-28.html
       
     - name: 星巴K导航
       style: black
@@ -510,22 +498,10 @@
     - name: 风花导航
       style: yellow
       url: /go/num-39.html
-      
-    - name: 杏吧福利导航
-      style: green
-      url: /go/num-46.html
-
-    - name: 杏花福利导航
-      style: yellow
-      url: /go/num-47.html
 
     - name: 74福利导航
       style: black
       url: /go/num-49.html
-      
-    - name: 有妖气导航
-      style: black
-      url: /go/num-51.html
       
     - name: 玉蒲团导航
       style: black
