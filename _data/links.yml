@@ -318,8 +318,12 @@
       url: /go/num-v-9.html
       
     - name: 夜狼幼女
-      style: purple
+      style: green
       url: /go/num-v-10.html
+      
+    - name: 少女集中营
+      style: black
+      url: /go/num-v-13.html
 
   - category: 福利导航/持续收录，欢迎推荐精品站
     links:  
