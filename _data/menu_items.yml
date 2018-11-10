@@ -1,0 +1,19 @@
+- name: 首页
+  icon: home
+  url: /
+  active_key: home
+  
+- name: 收录&合作
+  icon: qrcode
+  url: /donate/
+  active_key: donate
+
+- name: 值得一看
+  icon: newspaper
+  url: /pages/
+  active_key: analytics
+
+- name: 最新地址
+  icon: location arrow
+  url: https://www.emoneyspace.com/xxfldh
+  active_key: home

@@ -1,0 +1,130 @@
+- id: huas
+  name: 花社
+  url: https://huas.life/?s=
+  suffix: "&ie=utf-8"
+  shortcut: 花社
+  icon: yelp
+  style: blue
+  
+- id: xingfu
+  name: 性福
+  url: https://www.ganbi66.com/search/
+  shortcut: 性福
+  icon: google play
+  style: green
+  
+- id: ppx
+  name: 皮皮虾
+  url: https://www.ppx17.com/search/
+  suffix: "&ie=utf-8/"
+  shortcut: 皮皮虾
+  icon: hotjar
+  style: orange
+
+- id: baidu
+  name: 百度
+  url: https://baidu.com/s?wd=
+  suffix: "&ie=utf-8"
+  shortcut: 百度
+  icon: paw blue inverted
+  style: black
+
+- id: baidumap
+  name: 百度地图
+  url: https://api.map.baidu.com/geocoder?address=
+  suffix: "&output=html"
+  shortcut: 地图
+  icon: map green inverted
+  style: black
+
+- id: bing
+  name: 必应
+  url: https://cn.bing.com/search?q=
+  shortcut: 必应
+  style: black
+
+- id: wikipedia
+  name: 维基百科
+  url: https://www.wikipedia.org/wiki/
+  shortcut: 维基
+  style: black
+
+- id: ieeexplore
+  name: IEEE Xplore
+  url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=
+
+- id: baiduxueshu
+  name: 百度学术
+  url: https://xueshu.baidu.com/s?wd=
+
+- id: googlescholar
+  name: 谷歌学术
+  url: https://scholar.google.com/scholar?q=
+
+- id: etymonline
+  name: Etymonline
+  url: https://www.etymonline.com/index.php?search=
+
+- id: mw
+  name: Merriam-Webster
+  url: https://www.merriam-webster.com/dictionary/
+
+- id: github
+  name: GitHub
+  url: https://github.com/search?q=
+
+- id: wechat
+  name: 微信公众号
+  url: http://weixin.sogou.com/weixin?query=
+
+- id: minapp
+  name: 微信小程序
+  url: https://minapp.com/miniapp/search/?query=
+
+- id: weibo
+  name: 微博
+  url: https://s.weibo.com/weibo/
+  shortcut: 微博
+  style: black
+
+- id: zhihu
+  name: 知乎
+  url: https://www.zhihu.com/search?q=
+  shortcut: 知乎
+  style: black
+
+- id: douban
+  name: 豆瓣
+  url: https://www.douban.com/search?q=
+  shortcut: 豆瓣
+  style: black
+
+- id: jd
+  name: 京东
+  url: http://search.jd.com/Search?keyword=
+  suffix: "&enc=utf-8"
+  shortcut: 京东
+  style: black
+
+- id: taobao
+  name: 淘宝
+  url: https://s.taobao.com/search?q=
+  shortcut: 淘宝
+  style: black
+
+- id: xiami
+  name: 虾米
+  url: http://www.xiami.com/search?key=
+  shortcut: 虾米
+  style: black
+
+- id: fkdy
+  name: 影视
+  url: http://ifkdy.com/?q=
+  shortcut: 影视
+  style: black
+
+- id: panc
+  name: 胖次
+  url: https://www.panc.cc/s/
+  suffix: "/td_0"
