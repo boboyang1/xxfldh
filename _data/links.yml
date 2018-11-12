@@ -208,6 +208,10 @@
       style: basic
       url: https://m10.097sp.com
     
+    - name: 野香蕉在线
+      style: red
+      url: /go/num-v-4.html
+    
     - name: 皮皮虾视频
       style: pink
       url: /go/num-v-2.html
@@ -322,6 +326,10 @@
 
   - category: 福利导航/持续收录，欢迎推荐精品站
     links:  
+    - name: 白虎导航
+      style: purple
+      url: /go/num-23.html
+      
     - name: 136福利导航
       style: red
       url: /go/num-17.html
