@@ -60,8 +60,7 @@
       url: http://91qq9.com/forum.php?mod=forumdisplay&fid=128&xiaox
       
     - name: 天天撸视频
-      icon: video red
-      style: basic
+      style: orange
       url: http://www.ttll456.com/?adref=xxfldh_com
       
     - name: 91色精品国产
