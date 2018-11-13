@@ -7,7 +7,7 @@
       url: /
       
     - name: 注意：部分网站需翻墙
-      style: black
+      style: blue
       url: http://t.cn/RrAwYkQ
       
     - name: 老司机福利看片
@@ -34,12 +34,12 @@
       style: green
       url: http://52fuck.com/?xiaox
 
-    - name: 如遇网站无法访问请翻墙！
-      style: orange
+    - name: 如遇网站无法访问请翻墙，
+      style: blue
       url: http://t.cn/RrAwYkQ
       
     - name: 点我翻墙！！！
-      style: red
+      style: blue
       url: https://www.lanzous.com/i1lqgmb
       
 
