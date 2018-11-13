@@ -107,10 +107,6 @@
       style: basic
       url: /go/num-ad-8dgo.html
       
-    - name: 真人视讯1v1聊天
-      style: basic
-      url: http://11994.twseb8.com
-      
       
   - category: 推荐②区
     links:    
@@ -154,6 +150,10 @@
     - name: 萝莉视频
       style: basic
       url: https://www.nnfldh.com/pages/
+      
+    - name: 真人视讯1v1聊天
+      style: basic
+      url: http://11831.twseb8.com
 
     - name: 萝莉直播APP
       icon: youtube red
@@ -246,7 +246,7 @@
       
     - name: 第一福利
       style: basic
-      url: http://www.bt765.com/
+      url: /go/num-v-16.html
       
     - name: 老司机成人视频
       style: basic
@@ -314,7 +314,11 @@
       
     - name: 天天撸
       style: basic
-      url: http://www.ttll456.com/?adref=xxfldh_com
+      url: /go/num-v-17.html
+      
+    - name: 番号鸽
+      style: basic
+      url: /go/num-v-18.html
       
     - name: HD国产精品
       style: basic
