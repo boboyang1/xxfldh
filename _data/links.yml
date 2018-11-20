@@ -6,9 +6,13 @@
       style: blue
       url: /
       
-    - name: 注意：部分网站需翻墙
+    - name: 注意：访问部分网站需翻墙
       style: blue
       url: http://t.cn/RrAwYkQ
+      
+    - name: 点我翻墙！！！
+      style: blue
+      url: https://www.lanzous.com/i1lqgmb
       
     - name: 老司机福利看片
       style: red
@@ -26,6 +30,10 @@
       style: green
       url: http://23.225.182.53:1433/?f=xiaox&rf=http://xiaox
       
+    - name: 8x影库
+      style: purple
+      url: https://8xpy.com/?adref=xxfldh_com
+      
     - name: 605PAPAPA
       style: orange
       url: http://www.papapa605.org/?adref=xxfldh_com
@@ -34,13 +42,6 @@
       style: black
       url: http://52fuck.com/?xiaox
 
-    - name: 如遇网站无法访问请翻墙，
-      style: blue
-      url: http://t.cn/RrAwYkQ
-      
-    - name: 点我翻墙！！！
-      style: blue
-      url: https://www.lanzous.com/i1lqgmb
       
 
 - section: TWO
@@ -307,6 +308,10 @@
     - name: 爱威奶
       style: basic
       url: http://nine99.me/?utm_source=na&utm_medium=26
+      
+    - name: 8x8X
+      style: basic
+      url: https://8xpy.com/?adref=xxfldh_com
       
     - name: 无忧78AV
       style: basic
