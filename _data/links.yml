@@ -367,65 +367,65 @@
       style: purple
       url: /go/num-23.html
       
-    - name: 136福利导航
-      style: red
-      url: /go/num-17.html
-      
-    - name: 黑森林导航
-      style: yellow
-      url: /go/num-60.html
-      
-    - name: 神盾局导航
-      style: basic
-      url: /go/num-15.html
-      
-    - name: 123导航
-      style: basic
-      url: /go/num-09.html
-      
-    - name: 无良导航
-      style: basic
-      url: /go/num-24.html
-      
     - name: 百姓色导航
       style: basic
       url: /go/num-10.html
-
-    - name: 欲火阁导航
-      style: basic
-      url: /go/num-07.html
-
-    - name: 乱片福利导航
-      style: basic
-      url: /go/num-54.html
-      
-    - name: 78福利导航
-      style: basic
-      url: /go/num-02.html
-      
-    - name: 软妹导航
-      style: basic
-      url: /go/num-16.html
       
     - name: 613福利导航
       style: basic
       url: /go/num-58.html
       
+    - name: 黑森林导航
+      style: yellow
+      url: /go/num-60.html
+
+    - name: 欲火阁导航
+      style: basic
+      url: /go/num-07.html
+      
+    - name: 78福利导航
+      style: basic
+      url: /go/num-02.html
+
+    - name: 乱片福利导航
+      style: basic
+      url: /go/num-54.html
+      
+    - name: 无良导航
+      style: basic
+      url: /go/num-24.html
+      
+    - name: 136福利导航
+      style: red
+      url: /go/num-17.html
+      
+    - name: 水立方导航
+      style: basic
+      url: /go/num-27.html 
+      
+    - name: 123导航
+      style: basic
+      url: /go/num-09.html
+      
+    - name: 神盾局导航
+      style: basic
+      url: /go/num-15.html
+      
     - name: 星巴K导航
       style: basic
       url: /go/num-56.html
       
-    - name: 色博士导航
-      style: basic
-      url: /go/num-14.html
-      
-    - name: 正品粉导航
-      style: basic
-      url: /go/num-21.html
-      
     - name: 小三福利导航
       style: basic
       url: /go/num-08.html
+      
+    - name: 妹妹福利导航
+      style: basic
+      url: /go/num-59.html
+      
+    - name: 色博士导航
+      style: basic
+      url: /go/num-14.html
       
     - name: 老色鬼福利导航
       style: basic
@@ -434,10 +434,6 @@
     - name: KK福利导航
       style: basic
       url: /go/num-22.html
-      
-    - name: 妹妹福利导航
-      style: basic
-      url: /go/num-59.html
       
     - name: 今日福利导航
       style: basic
@@ -458,10 +454,6 @@
     - name: 污妹妹福利导航
       style: basic
       url: /go/num-20.html
-      
-    - name: 水立方导航
-      style: basic
-      url: /go/num-27.html 
 
 - section: THREE
   categories:
