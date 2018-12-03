@@ -241,6 +241,10 @@
       style: pink
       url: /go/num-v-4.html
       
+    - name: 亚细亚影视
+      style: basic
+      url: /go/num-v-2.html
+      
     - name: 秘密花园
       style: basic
       url: /go/num-v-55.html
