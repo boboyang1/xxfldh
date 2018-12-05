@@ -1,24 +1,24 @@
-- id: huas
-  name: 花社
-  url: https://huas.life/?s=
-  suffix: "&ie=utf-8"
-  shortcut: 花社
-  icon: yelp
+- id: lst
+  name: 蕾丝兔
+  url: http://www.leisitu.cc/search.php?q=
+  suffix: "&ie=utf-8/"
+  shortcut: 蕾丝兔
+  icon: hotjar
   style: blue
   
-- id: xingfu
-  name: 性福
-  url: https://www.ganbi66.com/search/
-  shortcut: 性福
+- id: gczp
+  name: 国产自拍
+  url: http://23.225.182.53:1433/?f=xiaox&rf=http://xiaox
+  shortcut: 国产自拍
   icon: google play
   style: green
   
-- id: ppx
-  name: 皮皮虾
-  url: https://www.ppx17.com/search/
-  suffix: "&ie=utf-8/"
-  shortcut: 皮皮虾
-  icon: hotjar
+- id: huas
+  name: 花社
+  url: https://huas.ooo/?s=
+  suffix: "&ie=utf-8"
+  shortcut: 花社
+  icon: yelp
   style: orange
 
 - id: baidu
