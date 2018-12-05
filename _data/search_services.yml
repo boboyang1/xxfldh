@@ -1,7 +1,6 @@
 - id: lst
   name: 蕾丝兔
   url: http://www.leisitu.cc/search.php?q=
-  suffix: "&ie=utf-8/"
   shortcut: 蕾丝兔
   icon: yelp
   style: blue
