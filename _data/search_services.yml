@@ -3,7 +3,7 @@
   url: http://www.leisitu.cc/search.php?q=
   suffix: "&ie=utf-8/"
   shortcut: 蕾丝兔
-  icon: hotjar
+  icon: yelp
   style: blue
   
 - id: gczp
@@ -18,7 +18,7 @@
   url: https://huas.ooo/?s=
   suffix: "&ie=utf-8"
   shortcut: 花社
-  icon: yelp
+  icon: hotjar
   style: orange
 
 - id: baidu
