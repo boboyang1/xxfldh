@@ -171,11 +171,6 @@
     - name: 真人视讯1v1聊天
       style: basic
       url: http://11831.twseb8.com
-
-    - name: 萝莉直播APP
-      icon: youtube red
-      style: basic
-      url: http://www.assab-die.cn/man/a.html
       
     - name: 免VIP看电影
       style: basic
@@ -498,6 +493,11 @@
     - name: 葬花阁
       style: pink
       url: /go/num-x-69.html
+
+    - name: AV直播吧
+      icon: youtube red
+      style: basic
+      url: http://www.assab-die.cn/man/a.html
   
     - name: 表哥福利
       style: basic
