@@ -172,10 +172,6 @@
       style: basic
       url: http://11831.twseb8.com
       
-    - name: 免VIP看电影
-      style: basic
-      url: /go/num-v-66.html
-      
 - section: three
   categories:
   - category: 流量交换
