@@ -277,14 +277,6 @@
       style: basic
       url: /go/num-v-23.html
       
-    - name: 8X视频库
-      style: basic
-      url: /go/num-v-28.html
-      
-    - name: 萝莉影库
-      style: basic
-      url: /go/num-v-31.html
-      
     - name: 爱多视频
       style: basic
       url: /go/num-v-7.html
@@ -304,6 +296,14 @@
     - name: 青春期在线
       style: basic
       url: /go/num-v-17.html
+      
+    - name: 萝莉影库
+      style: basic
+      url: /go/num-v-31.html
+      
+    - name: 8X视频库
+      style: basic
+      url: /go/num-v-28.html
       
     - name: AV萝莉在线视频
       style: basic
