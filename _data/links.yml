@@ -430,10 +430,10 @@
     - name: 5060av导航
       style: basic
       url: /go/num-16.html
-
-    - name: 74福利导航
+      
+    - name: 青年涩站大全
       style: basic
-      url: /go/num-49.html
+      url: /go/num-14.html
       
     - name: 今日福利导航
       style: basic
@@ -450,6 +450,10 @@
     - name: 啪啪福利导航
       style: basic
       url: /go/num-53.html
+
+    - name: 74福利导航
+      style: basic
+      url: /go/num-49.html
       
     - name: 逗趣福利导航
       style: basic
