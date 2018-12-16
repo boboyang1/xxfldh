@@ -670,16 +670,20 @@
       
   - category: 国外视频
     links:
+    - name: 点我翻墙
+      style: blue
+      url: https://www.lanzous.com/i1lqgmb
+      
     - name: PornHub
-      style: red
+      style: basic
       url: /go/num-x-50.html
     
     - name: Pentasex
-      style: blue
+      style: basic
       url: /go/num-x-51.html
       
     - name: SpankBang
-      style: red
+      style: basic
       url: /go/num-x-52.html
       
     - name: TNAFlix
