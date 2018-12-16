@@ -459,23 +459,23 @@
   - category: 论坛博客
     links:
     - name: 宅狼社
-      style: red
+      style: basic
       url: /go/num-x-01.html
     
     - name: 蕾丝兔宝宝
-      style: purple
+      style: basic
       url: /go/num-x-02.html
       
     - name: 草原狼社区
-      style: blue
+      style: basic
       url: /go/num-x-03.html
       
     - name: 勃起啦
-      style: black
+      style: basic
       url: /go/num-x-04.html
 
     - name: 葬花阁
-      style: pink
+      style: basic
       url: /go/num-x-69.html
 
     - name: AV直播吧
@@ -500,11 +500,11 @@
       url: /go/num-x-09.html
 
     - name: 福利基地
-      style: red
+      style: basic
       url: /go/num-x-10.html
 
     - name: 自拍视频
-      style: orange
+      style: basic
       url: /go/num-x-11.html
 
     - name: 20发资源网
@@ -524,7 +524,7 @@
       url: /go/num-x-15.html
       
     - name: 91国产
-      style: blue
+      style: basic
       url: /go/num-x-16.html
 
     - name: 杏吧
@@ -540,7 +540,7 @@
       url: /go/num-x-19.html
 
     - name: 爱美腿
-      style: black
+      style: basic
       url: /go/num-x-20.html
 
     - name: 福利街
@@ -554,11 +554,11 @@
       url: /go/num-x-22.html
 
     - name: 吉人动漫
-      style: red
+      style: basic
       url: /go/num-x-23.html
 
     - name: 邪恶漫画吧
-      style: orange
+      style: basic
       url: /go/num-x-24.html
 
     - name: E-Hentai
@@ -608,59 +608,59 @@
   - category: 福利小说
     links:
     - name: 夜色小说
-      style: black
+      style: basic
       url: /go/num-x-36.html
 
     - name: 色书网
-      style: blue
+      style: basic
       url: /go/num-x-37.html
       
     - name: 青青草小说
-      style: green
+      style: basic
       url: /go/num-x-38.html
 
     - name: 桃成人小说
-      style: pink
+      style: basic
       url: /go/num-x-39.html
       
     - name: 黄精屋
-      style: yellow
+      style: basic
       url: /go/num-x-40.html
 
     - name: 小皇书
-      style: yellow
+      style: basic
       url: /go/num-x-41.html
 
     - name: 草榴小说
-      style: green
+      style: basic
       url: /go/num-x-42.html
 
     - name: 内涵小说TV
-      style: red
+      style: basic
       url: /go/num-x-43.html
 
     - name: 艳文屋
-      style: blue
+      style: basic
       url: /go/num-x-44.html
       
     - name: 玉米文学网
-      style: yellow
+      style: basic
       url: /go/num-x-45.html
 
     - name: 有声小说
-      style: pink
+      style: basic
       url: /go/num-x-46.html
       
     - name: 線上看
-      style: yellow
+      style: basic
       url: /go/num-x-47.html
 
     - name: 手银哥
-      style: yellow
+      style: basic
       url: /go/num-x-48.html
 
     - name: 疯情书库
-      style: green
+      style: basic
       url: /go/num-x-49.html
       
   - category: 国外视频
@@ -698,11 +698,11 @@
       url: /go/num-x-56.html
 
     - name: SeeMyPorn
-      style: red
+      style: basic
       url: /go/num-x-57.html
 
     - name: UPORNO
-      style: orange
+      style: basic
       url: /go/num-x-58.html
 
     - name: XFreeHD
@@ -750,11 +750,11 @@
       url: https://www.jd.com/
 
     - name: 天猫
-      style: red
+      style: basic
       url: https://www.tmall.com/
 
     - name: 淘宝
-      style: orange
+      style: basic
       url: https://www.taobao.com/
 
     - name: 亚马逊
@@ -792,7 +792,7 @@
       url: https://www.ikea.cn/
 
     - name: 造作
-      style: black
+      style: basic
       url: https://zaozuo.com/
 
     - name: 锤子科技
@@ -881,7 +881,7 @@
       url: https://tieba.baidu.com/
 
     - name: 知乎
-      style: blue
+      style: basic
       url: https://www.zhihu.com/
 
     - name: Quora
@@ -1009,7 +1009,7 @@
       url: https://v.qq.com/
 
     - name: 哔哩哔哩
-      style: pink
+      style: basic
       url: https://www.bilibili.com/
 
     - name: AcFun
@@ -1033,10 +1033,10 @@
       url: http://www.dnvod.tv/
 
     - name: FIX字幕侠
-      style: yellow
+      style: basic
       url: http://www.zimuxia.cn/
 
     - name: 斗鱼
-      style: orange
+      style: basic
       url: https://www.douyu.com/
       
