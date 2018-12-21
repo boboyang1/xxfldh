@@ -105,6 +105,10 @@
       style: basic
       url: /go/go.html
       
+    - name: 夜秀live直播
+      style: orange
+      url: https://xmvip.vip/h/cO0tK3
+      
       
   - category: 推荐②区
     links:    
@@ -127,10 +131,6 @@
     - name: 葬花阁论坛
       style: black
       url: http://woqu111.xyz/
-      
-    - name: 夜秀live直播
-      style: orange
-      url: https://xmvip.vip/h/cO0tK3
       
     - name: 免費成人視頻
       style: yellow
