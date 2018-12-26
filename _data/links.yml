@@ -368,22 +368,14 @@
     - name: 百姓色导航
       style: red
       url: /go/num-10.html
-      
-    - name: 613福利导航
-      style: purple
-      url: /go/num-58.html
-      
-    - name: 黑森林导航
-      style: yellow
-      url: /go/num-60.html
 
     - name: 欲火阁导航
       style: basic
       url: /go/num-07.html
       
-    - name: 78福利导航
+    - name: 神盾局导航
       style: basic
-      url: /go/num-02.html
+      url: /go/num-15.html
 
     - name: 乱片福利导航
       style: basic
@@ -393,57 +385,53 @@
       style: basic
       url: /go/num-24.html
       
-    - name: 水立方导航
-      style: basic
-      url: /go/num-27.html 
-      
     - name: 123导航
       style: basic
       url: /go/num-09.html
       
-    - name: 神盾局导航
+    - name: 水立方导航
       style: basic
-      url: /go/num-15.html
-      
-    - name: 小三福利导航
-      style: basic
-      url: /go/num-08.html
-      
-    - name: 妹妹福利导航
-      style: basic
-      url: /go/num-59.html
-      
-    - name: 老色鬼福利导航
-      style: basic
-      url: /go/num-19.html
+      url: /go/num-27.html 
       
     - name: 美国十次啦导航
       style: basic
       url: /go/num-17.html
       
-    - name: 5060av导航
+    - name: 78福利导航
       style: basic
-      url: /go/num-16.html
+      url: /go/num-02.html
       
-    - name: 青年涩站大全
+    - name: 老色鬼福利导航
       style: basic
-      url: /go/num-14.html
+      url: /go/num-19.html
       
-    - name: 今日福利导航
+    - name: 613福利导航
       style: basic
-      url: /go/num-13.html
+      url: /go/num-58.html
       
-    - name: KK福利导航
+    - name: 黑森林导航
       style: basic
-      url: /go/num-22.html
+      url: /go/num-60.html
       
     - name: 136福利导航
       style: basic
       url: /go/num-20.html
       
+    - name: 妹妹福利导航
+      style: basic
+      url: /go/num-59.html
+      
+    - name: 青年涩站大全
+      style: basic
+      url: /go/num-14.html
+      
     - name: 啪啪福利导航
       style: basic
       url: /go/num-53.html
+      
+    - name: KK福利导航
+      style: basic
+      url: /go/num-22.html
 
     - name: 74福利导航
       style: basic
@@ -456,6 +444,14 @@
     - name: 逗趣福利导航
       style: basic
       url: /go/num-18.html
+      
+    - name: 5060av导航
+      style: basic
+      url: /go/num-16.html
+      
+    - name: 今日福利导航
+      style: basic
+      url: /go/num-13.html
 
 - section: THREE
   categories:
