@@ -452,6 +452,10 @@
     - name: 今日福利导航
       style: basic
       url: /go/num-13.html
+      
+    - name: 爱AV导航
+      style: basic
+      url: /go/num-03.html
 
 - section: THREE
   categories:
