@@ -545,18 +545,6 @@
       icon: paw blue
       style: basic
       url: http://www.assab-die.cn/man/a.html
-      
-    - name: 妹控TV
-      style: basic
-      url: /go/num-x-08.html
-      
-    - name: 每日福利
-      style: basic
-      url: /go/num-x-09.html
-
-    - name: 福利基地
-      style: basic
-      url: /go/num-x-10.html
 
     - name: 自拍视频
       style: basic
