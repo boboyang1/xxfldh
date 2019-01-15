@@ -529,24 +529,20 @@
   categories:
   - category: 论坛博客
     links:
-    - name: 宅狼社
-      style: basic
-      url: /go/num-x-01.html
-    
     - name: 蕾丝兔宝宝
       style: basic
       url: /go/num-x-02.html
       
-    - name: 草原狼社区
-      style: basic
-      url: /go/num-x-03.html
-      
     - name: 勃起啦
       style: basic
       url: /go/num-x-04.html
+      
+    - name: 草原狼社区
+      style: basic
+      url: /go/num-x-03.html
 
-    - name: AV直播吧
-      icon: youtube red
+    - name: 恋夜直播吧
+      icon: paw blue
       style: basic
       url: http://www.assab-die.cn/man/a.html
   
