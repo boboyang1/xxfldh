@@ -382,10 +382,6 @@
       style: basic
       url: http://91xx9.com/?xiaox
       
-    - name: 夜秀直播
-      style: basic
-      url: https://xmvip.vip/h/vyghb3
-      
     - name: 大屌插萝莉
       style: basic
       url: /go/num-v-10.html
@@ -542,6 +538,10 @@
       style: basic
       url: /go/num-x-16.html
 
+    - name: 福利街
+      style: basic
+      url: /go/num-x-21.html
+
     - name: 摩天轮社区
       style: basic
       url: /go/num-x-18.html
@@ -549,14 +549,6 @@
     - name: 搬运哥
       style: basic
       url: /go/num-x-19.html
-
-    - name: 爱美腿
-      style: basic
-      url: /go/num-x-20.html
-
-    - name: 福利街
-      style: basic
-      url: /go/num-x-21.html
       
   - category: 福利小说
     links:
@@ -633,6 +625,10 @@
     - name: lubar
       style: basic
       url: /go/num-ad-163.html
+      
+    - name: 夜秀
+      style: basic
+      url: /go/num-ad-151.html
       
   - category: 动漫ACG
     links:
