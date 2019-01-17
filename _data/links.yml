@@ -408,14 +408,6 @@
     - name: 神盾局导航
       style: yellow
       url: /go/num-15.html
-      
-    - name: 百姓色导航
-      style: red
-      url: /go/num-10.html
-
-    - name: 欲火阁导航
-      style: purple
-      url: /go/num-07.html
 
     - name: 乱片福利导航
       style: basic
