@@ -508,6 +508,10 @@
     - name: 勃起啦
       style: basic
       url: /go/num-04.html
+            
+    - name: 色猫咪
+      style: basic
+      url: /go/num-lt-01.html
 
     - name: 恋夜直播吧
       icon: paw blue
@@ -535,10 +539,6 @@
     - name: 夜色小说
       style: red
       url: /go/num-x-36.html
-
-    - name: 色书网
-      style: basic
-      url: /go/num-x-37.html
       
     - name: 青青草小说
       style: basic
