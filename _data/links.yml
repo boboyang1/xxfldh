@@ -33,7 +33,7 @@
       
     - name: 我女朋友视频
       style: red
-      url: https://00npy.com/
+      url: https://00npy.com/?adref=xxfldh_com
       
     - name: 抖阴小师妹
       style: red
@@ -347,7 +347,15 @@
       style: basic
       url: http://iqqtv.xyz/cn/?utm_source=xiaox&utm_medium=link&fromsite=seo29
       
+    - name: 青娱乐视频
+      style: basic
+      url: /go/num-ad-730.html
+      
     - name: AV毕加索
+      style: basic
+      url: /go/num-v-37.html
+      
+    - name: 女朋友视频
       style: basic
       url: /go/num-v-37.html
       
