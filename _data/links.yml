@@ -387,6 +387,10 @@
       style: basic
       url: /go/num-24.html
       
+    - name: 水立方导航
+      style: basic
+      url: /go/num-27.html
+      
     - name: 神盾局导航
       style: yellow
       url: /go/num-15.html
@@ -394,10 +398,6 @@
     - name: 123导航
       style: basic
       url: /go/num-09.html
-      
-    - name: 水立方导航
-      style: basic
-      url: /go/num-27.html
       
     - name: 啪啪福利导航
       style: basic
