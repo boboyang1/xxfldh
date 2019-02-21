@@ -394,14 +394,6 @@
     - name: 123导航
       style: basic
       url: /go/num-09.html
-
-    - name: 百性色导航
-      style: basic
-      url: /go/num-10.html
-
-    - name: 欲火阁导航
-      style: basic
-      url: /go/num-07.html
       
     - name: 水立方导航
       style: basic
@@ -470,6 +462,14 @@
     - name: 黑森林导航
       style: basic
       url: /go/num-60.html
+
+    - name: 百性色导航
+      style: basic
+      url: /go/num-10.html
+
+    - name: 欲火阁导航
+      style: basic
+      url: /go/num-07.html
 
 - section: THREE
   categories:
