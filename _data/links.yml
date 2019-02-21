@@ -375,17 +375,9 @@
 
   - category: 福利导航/持续收录，欢迎推荐精品站
     links:  
-    - name: 白虎导航
-      style: blue
-      url: /go/num-23.html
-
     - name: 乱片福利导航
       style: basic
       url: /go/num-54.html
-      
-    - name: 无良导航
-      style: basic
-      url: /go/num-24.html
       
     - name: 水立方导航
       style: basic
@@ -402,6 +394,14 @@
     - name: 啪啪福利导航
       style: basic
       url: /go/num-53.html
+      
+    - name: 无良导航
+      style: basic
+      url: /go/num-24.html
+
+    - name: 白虎导航
+      style: blue
+      url: /go/num-23.html
       
     - name: 136福利导航
       style: basic
