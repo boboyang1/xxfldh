@@ -375,10 +375,6 @@
 
   - category: 福利导航/持续收录，欢迎推荐精品站
     links:  
-    - name: 乱片福利导航
-      style: basic
-      url: /go/num-54.html
-      
     - name: 水立方导航
       style: basic
       url: /go/num-27.html
@@ -386,6 +382,10 @@
     - name: 神盾局导航
       style: yellow
       url: /go/num-15.html
+      
+    - name: 乱片导航
+      style: basic
+      url: /go/num-54.html
       
     - name: 123导航
       style: basic
