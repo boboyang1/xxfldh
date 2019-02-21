@@ -435,10 +435,6 @@
       style: basic
       url: /go/num-59.html
       
-    - name: KK37导航
-      style: basic
-      url: /go/num-19.html
-      
     - name: 啪啪福利导航
       style: basic
       url: /go/num-53.html
@@ -447,13 +443,13 @@
       style: basic
       url: /go/num-18.html
       
-    - name: 青年涩站大全
-      style: basic
-      url: /go/num-14.html
-      
     - name: 好嗨导航
       style: basic
       url: /go/num-21.html
+      
+    - name: 青年涩站大全
+      style: basic
+      url: /go/num-14.html
       
     - name: 今日福利导航
       style: basic
@@ -466,6 +462,10 @@
     - name: KK福利导航
       style: basic
       url: /go/num-22.html
+      
+    - name: KK37导航
+      style: basic
+      url: /go/num-19.html
       
     - name: 5060av导航
       style: basic
