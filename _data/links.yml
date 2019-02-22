@@ -491,11 +491,6 @@
     - name: 色猫咪
       style: basic
       url: /go/num-lt-01.html
-
-    - name: 恋夜直播吧
-      icon: paw blue
-      style: basic
-      url: http://www.assab-die.cn/man/a.html
       
     - name: 91国产
       style: basic
