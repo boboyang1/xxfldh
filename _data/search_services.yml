@@ -1,3 +1,10 @@
+- id: huas
+  name: 18TV
+  url: http://18tv1.xyz/
+  shortcut: 18TV
+  icon: hotjar
+  style: orange
+
 - id: lst
   name: 蕾丝兔
   url: http://www.leisitu.cc/search.php?q=
@@ -12,14 +19,6 @@
   icon: google play
   style: green
   
-- id: huas
-  name: 花社
-  url: https://huas.ooo/?s=
-  suffix: "&ie=utf-8"
-  shortcut: 花社
-  icon: hotjar
-  style: orange
-
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
