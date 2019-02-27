@@ -512,7 +512,11 @@
     links:
     - name: 夜色小说
       style: red
-      url: /go/num-x-36.html
+      url: /go/num-xs-1.html
+
+    - name: 春色小说
+      style: red
+      url: /go/num-xs-2.html
       
     - name: 青青草小说
       style: basic
