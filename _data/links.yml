@@ -526,17 +526,9 @@
       style: purple
       url: /go/num-xs-2.html
 
-    - name: 小皇书
-      style: basic
-      url: /go/num-x-41.html
-
     - name: 草榴小说
       style: basic
-      url: /go/num-x-42.html
-
-    - name: 内涵小说TV
-      style: basic
-      url: /go/num-x-43.html
+      url: /go/num-xs-3.html
 
     - name: 艳文屋
       style: basic
