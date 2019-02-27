@@ -471,6 +471,10 @@
     - name: 黑森林导航
       style: basic
       url: /go/num-60.html
+      
+    - name: 逗趣福利导航
+      style: basic
+      url: /go/num-28.html
 
     - name: 百性色导航
       style: basic
