@@ -381,7 +381,7 @@
       url: /go/num-27.html
       
     - name: 神盾局导航
-      style: yellow
+      style: orange
       url: /go/num-15.html
       
     - name: 乱片导航
@@ -511,7 +511,7 @@
   - category: 福利小说
     links:
     - name: 夜色小说
-      style: orange
+      style: yellow
       url: /go/num-xs-1.html
 
     - name: 春色小说
