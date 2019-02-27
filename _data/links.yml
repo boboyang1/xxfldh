@@ -1,11 +1,7 @@
 - section: ONE
   categories:
   - category: TOP
-    links:
-    - name: 网爆门事件
-      style: orange
-      url: https://dh-qyl-baidu.com
-      
+    links:      
     - name: AV在线看片神器
       style: pink
       url: https://lihi.cc/izqrq
@@ -337,10 +333,6 @@
       style: basic
       url: http://iqqtv.xyz/cn/?utm_source=xiaox&utm_medium=link&fromsite=seo29
       
-    - name: 青娱乐视频
-      style: basic
-      url: /go/num-ad-123.html
-      
     - name: AV毕加索
       style: basic
       url: /go/num-v-37.html
@@ -519,7 +511,7 @@
   - category: 福利小说
     links:
     - name: 夜色小说
-      style: red
+      style: orange
       url: /go/num-xs-1.html
 
     - name: 春色小说
