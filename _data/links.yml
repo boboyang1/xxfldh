@@ -81,18 +81,6 @@
       style: basic
       url: http://18tv1.xyz/?adref=xxfldh_com
       
-    - name: 国产精选系列
-      style: green
-      url: /go/go.html
-      
-    - name: 萝莉露出系列
-      style: green
-      url: /go/go.html
- 
-    - name: 抖音福利合集
-      style: green
-      url: /go/go.html
-      
     - name: 91色精品国产AV
       style: green
       url: https://91se.cc/?adref=xxfldh_com
@@ -131,6 +119,18 @@
       icon: amazon yellow
       style: basic
       url: /go/num-40.html
+      
+    - name: 国产精选系列
+      style: green
+      url: /go/go.html
+      
+    - name: 萝莉露出系列
+      style: green
+      url: /go/go.html
+ 
+    - name: 抖音福利合集
+      style: green
+      url: /go/go.html
         
     - name: 免费萝莉资源
       style: basic
