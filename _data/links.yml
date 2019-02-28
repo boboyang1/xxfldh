@@ -195,7 +195,7 @@
     
     - name: 野香蕉在线
       style: blue
-      url: /go/num-v-4.html
+      url: /go/num-sp-1.html
                     
     - name: 花社
       style: basic
@@ -550,6 +550,10 @@
       
   - category: 动漫ACG
     links:
+    - name: 成人動漫
+      style: basic
+      url: /go/num-sp-1.html
+      
     - name: 叉叉虎TV
       style: basic
       url: /go/num-x-22.html
