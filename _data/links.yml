@@ -190,7 +190,7 @@
   - category: 在线视频
     links:
     - name: 哦叉叉国产1080P
-      style: red
+      style: purple
       url: http://54.169.232.70:3306/?f=xiaox
     
     - name: 蕾丝兔
@@ -369,7 +369,7 @@
   - category: 福利导航
     links: 
     - name: 500精品福利
-      style: basic
+      style: red
       url: /go/Num-DH-02.html
       
     - name: 水立方导航
@@ -377,7 +377,7 @@
       url: /go/num-27.html
       
     - name: 神盾局导航
-      style: orange
+      style: basic
       url: /go/num-15.html
       
     - name: 乱片导航
