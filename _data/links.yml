@@ -366,8 +366,12 @@
       url: /go/num-v-35.html
 
 
-  - category: 福利导航/持续收录，欢迎推荐精品站
-    links:  
+  - category: 福利导航
+    links: 
+    - name: 500精品福利
+      style: basic
+      url: /go/Num-DH-02.html
+      
     - name: 水立方导航
       style: basic
       url: /go/num-27.html
