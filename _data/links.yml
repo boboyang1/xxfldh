@@ -199,7 +199,7 @@
     
     - name: 野香蕉在线
       style: blue
-      url: /go/num-sp-1.html
+      url: /go/Num-SP-01.html
                     
     - name: 花社
       style: basic
@@ -299,33 +299,37 @@
       
     - name: 看逼网
       style: basic
-      url: /go/num-sp-6.html
+      url: /go/Num-SP-06.html
       
     - name: 鲸鱼视频
       style: basic
-      url: /go/num-sp-4.html
+      url: /go/Num-SP-04.html
       
     - name: 嫖驿站
       style: basic
-      url: /go/num-sp-5.html
+      url: /go/Num-SP-05.html
       
     - name: 爱五妹
       style: basic
-      url: /go/num-sp-3.html
+      url: /go/Num-SP-03.html
       
     - name: 色猴AV
       style: basic
-      url: /go/num-sp-2.html
+      url: /go/Num-SP-02.html
       
     - name: 莲花香
       style: basic
-      url: /go/num-v-16.html
+      url: /go/Num-SP-08.html
       
     - name: 寂寞青楼
       style: basic
       url: /go/Num-SP-07.html
       
-    - name: AV萝莉在线视频
+    - name: 寂寞青楼
+      style: basic
+      url: /go/Num-SP-09.html
+      
+    - name: 萝莉资源
       style: basic
       url: /go/num-ad-591.html
       
