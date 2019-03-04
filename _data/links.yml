@@ -277,10 +277,6 @@
       style: basic
       url: /go/num-v-75.html
       
-    - name: 七月成人網
-      style: basic
-      url: /go/num-v-24.html
-      
     - name: 丽春苑
       style: basic
       url: /go/num-v-46.html
@@ -308,6 +304,10 @@
     - name: 鲸鱼视频
       style: basic
       url: /go/Num-SP-04.html
+      
+    - name: 七色食堂
+      style: basic
+      url: /go/Num-SP-13.html
       
     - name: 嫖驿站
       style: basic
