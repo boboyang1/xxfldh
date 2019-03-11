@@ -420,10 +420,6 @@
       style: basic
       url: /go/num-32.html
       
-    - name: 美国十次啦
-      style: basic
-      url: /go/num-17.html
-      
     - name: 918导航
       style: basic
       url: /go/num-08.html
@@ -772,7 +768,7 @@
     - name: '12306'
       icon: train red
       style: basic
-      url: http://www.12306.cn/
+      url: https://www.12306.cn/
 
     - name: 快递查询
       icon: shipping olive
