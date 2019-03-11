@@ -420,6 +420,10 @@
       style: basic
       url: /go/num-32.html
       
+    - name: 美国十次导航
+      style: basic
+      url: /daohang/num-17.html
+      
     - name: 918导航
       style: basic
       url: /go/num-08.html
@@ -768,7 +772,7 @@
     - name: '12306'
       icon: train red
       style: basic
-      url: https://www.12306.cn/
+      url: http://www.12306.cn/
 
     - name: 快递查询
       icon: shipping olive
@@ -783,7 +787,7 @@
     - name: 网易邮箱
       icon: mail red
       style: basic
-      url: https://email.163.com/
+      url: http://email.163.com/
 
     - name: QQ邮箱
       icon: qq black
