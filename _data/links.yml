@@ -504,10 +504,10 @@
     links:
     - name: 夜色小说
       style: yellow
-      url: /go/num-xs-1.html
+      url: /xiaoshuo/num-3.html
 
     - name: 春色小说
-      style: purple
+      style: basic
       url: /go/num-xs-2.html
 
     - name: 七色小說
