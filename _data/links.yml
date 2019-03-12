@@ -75,7 +75,11 @@
       
     - name: 高清影城
       style: green
-      url: https://www.tv03.com/
+      url: https://www.tv03.com/?adref=xxfldh_com
+      
+    - name: JulyPorn
+      style: green
+      url: https://july90.xyz/?adref=xxfldh_com
       
     - name: 91色精品国产AV
       style: green
@@ -90,10 +94,6 @@
     - name: 黄播邀请码:1010
       style: green
       url: http://xx520xxx.com/1010.html
-      
-    - name: 免費成人視頻
-      style: green
-      url: /go/Num-SP-13.html
       
     - name: 1024直播
       style: green
@@ -295,7 +295,7 @@
       
     - name: 七色食堂
       style: basic
-      url: /go/Num-SP-13.html
+      url: /shipin/num-4.html
       
     - name: 嫖驿站
       style: basic
@@ -318,6 +318,10 @@
       url: /go/Num-SP-10.html
       
     - name: 78bb成人在线
+      style: basic
+      url: /go/Num-SP-07.html
+      
+    - name: 茄子视频
       style: basic
       url: /go/Num-SP-07.html
       
