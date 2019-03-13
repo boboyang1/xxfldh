@@ -416,10 +416,6 @@
       style: basic
       url: /go/num-20.html
       
-    - name: 老色鬼导航
-      style: basic
-      url: /daohang/num-3.html
-      
     - name: 苏三导航
       style: basic
       url: /go/num-30.html
@@ -431,10 +427,6 @@
     - name: 幼女导航
       style: basic
       url: /go/num-32.html
-      
-    - name: 美国十次导航
-      style: basic
-      url: /daohang/num-2.html
       
     - name: 918导航
       style: basic
