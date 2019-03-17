@@ -228,10 +228,6 @@
       style: basic
       url: /go/num-v-8.html
       
-    - name: 窝窝头视频
-      style: basic
-      url: /go/Num-SP-12.html
-      
     - name: 爱多视频
       style: basic
       url: /go/num-v-7.html
@@ -331,6 +327,10 @@
     - name: 78bb成人在线
       style: basic
       url: /go/Num-SP-07.html
+      
+    - name: 窝窝头视频
+      style: basic
+      url: /go/Num-SP-12.html
       
     - name: 瘋AV
       style: basic
