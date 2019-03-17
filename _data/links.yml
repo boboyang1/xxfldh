@@ -272,10 +272,6 @@
       style: basic
       url: /go/Num-SP-06.html
       
-    - name: 偷拍客
-      style: basic
-      url: /shipin/num-2.html
-      
     - name: 鲸鱼视频
       style: basic
       url: /go/Num-SP-04.html
@@ -315,6 +311,10 @@
     - name: 茄子视频
       style: basic
       url: /shipin/num-7.html
+      
+    - name: 偷拍客
+      style: basic
+      url: /shipin/num-2.html
       
     - name: 78bb成人在线
       style: basic
