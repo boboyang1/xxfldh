@@ -248,22 +248,6 @@
       style: basic
       url: /go/num-v-75.html
       
-    - name: 丽春苑
-      style: basic
-      url: /go/num-v-46.html
-      
-    - name: 欢乐草
-      style: basic
-      url: /go/num-v-47.html
-      
-    - name: 新农夫在线
-      style: basic
-      url: /go/num-v-43.html
-      
-    - name: 火鸟AV
-      style: basic
-      url: /go/num-v-44.html
-      
     - name: 看逼网
       style: basic
       url: /shipin/num-11.html
@@ -292,6 +276,10 @@
       style: basic
       url: /shipin/num-8.html
       
+    - name: 新农夫在线
+      style: basic
+      url: /shipin/num-15.html
+      
     - name: 蜜桃视频
       style: basic
       url: /shipin/num-10.html
@@ -299,6 +287,10 @@
     - name: 色窝之家
       style: basic
       url: /shipin/num-5.html
+      
+    - name: 火鸟AV
+      style: basic
+      url: /shipin/num-14.html
       
     - name: 78bb成人在线
       style: basic
