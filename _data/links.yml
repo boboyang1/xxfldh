@@ -228,17 +228,13 @@
       style: basic
       url: /go/num-v-17.html
       
-    - name: 火山小黄人
-      style: basic
-      url: /go/num-v-38.html
-      
-    - name: 久草网
-      style: basic
-      url: /go/num-v-10.html
-      
     - name: 看逼网
       style: basic
       url: /shipin/num-11.html
+      
+    - name: 火山小黄人
+      style: basic
+      url: /shipin/num-20.html
       
     - name: 毒龙影院
       style: basic
@@ -291,6 +287,10 @@
     - name: 火鸟AV
       style: basic
       url: /shipin/num-14.html
+      
+    - name: 久草网
+      style: basic
+      url: /shipin/num-19.html
       
     - name: 爱上空姐
       style: basic
