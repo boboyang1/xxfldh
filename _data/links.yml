@@ -24,10 +24,10 @@
       style: basic
       url: https://iqq.life/cn/?utm_source=xiaox&utm_medium=link&fromsite=seo29
       
-    - name: 蜜桃AV
+    - name: 四色AV
       icon: youtube green
       style: basic
-      url: https://mt1.tv/
+      url: /guanggao/num-9.html
       
     - name: 北京赛车计划
       style: orange
@@ -318,7 +318,11 @@
       
     - name: iQQTV
       style: basic
-      url: https://iqq.life/cn/?utm_source=xiaox&utm_medium=link&fromsite=seo29  
+      url: https://iqq.life/cn/?utm_source=xiaox&utm_medium=link&fromsite=seo29
+      
+    - name: 四色视频
+      style: basic
+      url: /guanggao/num-9.html
       
     - name: 性福
       style: basic
@@ -522,10 +526,6 @@
     - name: Fulao2
       style: basic
       url: /go/num-ad-520.html
-      
-    - name: 蜜桃
-      style: basic
-      url: /go/num-ad-945.html
       
     - name: 18TV
       style: basic
