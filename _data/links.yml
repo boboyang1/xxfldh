@@ -95,6 +95,11 @@
     - name: 性福撸管APP
       style: green
       url: /guanggao/num-7.html
+      
+    - name: 寻芳阁精品
+      icon: facebook orange
+      style: basic
+      url: /guanggao/num-10.html
 
   - category: 推荐②区
     links:    
@@ -351,14 +356,18 @@
     - name: ADC影院
       style: basic
       url: /guanggao/num-5.html
-      
-    - name: 桃花网
-      style: basic
-      url: /go/num-v-35.html
      
     - name: 多撸吧
       style: basic
       url: /guanggao/num-6.html
+     
+    - name: 寻芳阁
+      style: basic
+      url: /guanggao/num-10.html
+      
+    - name: 桃花网
+      style: basic
+      url: /go/num-v-35.html
 
 
   - category: 福利导航
