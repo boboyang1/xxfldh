@@ -1,6 +1,12 @@
 var urls = [
     "http://91yy9.com/forum.php?mod=forumdisplay&fid=128&13322037",
     "http://91yy9.com/forum.php?mod=forumdisplay&fid=128&xiaox",
+    "http://91yy9.com/forum.php?mod=forumdisplay&fid=128&13322037",
+    "http://91yy9.com/forum.php?mod=forumdisplay&fid=128&xiaox",
+    "http://91yy9.com/forum.php?mod=forumdisplay&fid=128&13322037",
+    "http://91yy9.com/forum.php?mod=forumdisplay&fid=128&xiaox",
+    "http://91yy9.com/forum.php?mod=forumdisplay&fid=128&13322037",
+    "http://91yy9.com/forum.php?mod=forumdisplay&fid=128&xiaox",
 ]
 
 window.onload = function () {
