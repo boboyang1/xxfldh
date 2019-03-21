@@ -14,7 +14,8 @@
   
 - id: yxj
   name: 野香蕉
-  url: http://www.zy277.com/?adref=xxfldh_com
+  url: http://www.zy277.com/index.php?m=vod-search-wd-
+  suffix: ".html"
   shortcut: 野香蕉
   icon: google play
   style: green
