@@ -494,11 +494,15 @@
 
     - name: 摩天轮社区
       style: basic
-      url: /go/num-x-18.html
+      url: /luntan/num-3.html
 
     - name: 搬运哥
       style: basic
-      url: /go/num-x-19.html
+      url: /luntan/num-4.html
+
+    - name: 草榴社區
+      style: basic
+      url: /luntan/num-5.html
             
     - name: 勃起啦
       style: basic
