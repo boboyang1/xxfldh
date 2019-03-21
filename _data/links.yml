@@ -480,17 +480,17 @@
       style: blue
       url: /go/num-x-02.html
             
-    - name: 勃起啦
-      style: basic
-      url: /go/Num-LT-01.html
-            
     - name: 色猫咪
       style: basic
       url: /go/num-lt-2.html
       
     - name: 91国产论坛
       style: basic
-      url: /luntan/num-3.html
+      url: /guanggao/num-14.html
+      
+    - name: 1024社区
+      style: basic
+      url: /guanggao/num-3.html
 
     - name: 福利街
       style: basic
@@ -503,6 +503,10 @@
     - name: 搬运哥
       style: basic
       url: /go/num-x-19.html
+            
+    - name: 勃起啦
+      style: basic
+      url: /go/Num-LT-01.html
       
   - category: 福利小说
     links:
