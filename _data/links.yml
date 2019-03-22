@@ -491,6 +491,10 @@
     - name: 1024社区
       style: basic
       url: /guanggao/num-3.html
+      
+    - name: 性吧论坛
+      style: basic
+      url: /luntan/num-6.html
 
     - name: 摩天轮社区
       style: basic
