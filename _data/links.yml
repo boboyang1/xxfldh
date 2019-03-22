@@ -80,9 +80,9 @@
       style: green
       url: /guanggao/num-8.html
       
-    - name: 丝瓜直播
+    - name: 夜秀Live直播
       style: basic
-      url: http://flt.mobi/?adref=xxfldh_com
+      url: /guanggao/num-4.html
      
     - name: ADC免费影院
       style: green
@@ -556,7 +556,7 @@
       style: basic
       url: /guanggao/num-7.html
       
-    - name: 丝瓜
+    - name: 夜秀
       style: basic
       url: /guanggao/num-4.html
       
