@@ -120,15 +120,15 @@
       url: /guanggao/num-11.html
       
     - name: 十一精品
-      style: green
+      style: basic
       url: /guanggao/num-12.html
       
     - name: 看个猫片
-      style: green
+      style: basic
       url: /guanggao/num-13.html
       
     - name: 桃花庵
-      style: green
+      style: basic
       url: /guanggao/num-19.html
       
     - name: 逗趣直播
