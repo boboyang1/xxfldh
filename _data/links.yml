@@ -227,7 +227,7 @@
       url: http://52.199.94.11:3306/?f=xiaox
     
     - name: 蕾丝兔
-      style: blue
+      style: red
       url: /boke/num-1.html
     
     - name: 野香蕉在线
@@ -418,7 +418,7 @@
       url: /daohang/num-4.html
       
     - name: 迷妹导航
-      style: purple
+      style: olive
       url: /daohang/num-26.html
       
     - name: 水立方
@@ -450,7 +450,7 @@
       url: /daohang/num-32.html
 
     - name: 白虎导航
-      style: olive
+      style: purple
       url: /daohang/num-23.html
       
     - name: 美国十次啦
