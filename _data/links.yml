@@ -492,16 +492,12 @@
     - name: 艾薇导航
       style: basic
       url: /daohang/num-18.html
-      
-    - name: 今日福利导航
-      style: basic
-      url: /daohang/num-13.html
 
-    - name: 74福利导航
+    - name: 74导航
       style: basic
       url: /daohang/num-49.html
       
-    - name: KK福利导航
+    - name: KK导航
       style: basic
       url: /daohang/num-22.html
       
@@ -512,6 +508,10 @@
     - name: 5060导航
       style: basic
       url: /daohang/num-16.html
+      
+    - name: 桃花仙
+      style: basic
+      url: /daohang/num-27.html
       
     - name: 很色导航
       style: basic
@@ -528,6 +528,10 @@
     - name: 逗趣导航
       style: basic
       url: /daohang/num-28.html
+      
+    - name: 今日导航
+      style: basic
+      url: /daohang/num-13.html
 
 - section: THREE
   categories:
