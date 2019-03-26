@@ -15,7 +15,7 @@
   
 - id: huas
   name: 花社
-  url: https://huas.ooo/search.php?q=
+  url: https://huas.ooo/?s=
   shortcut: 花社
   icon: hotjar
   style: orange
