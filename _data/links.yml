@@ -417,9 +417,9 @@
       style: basic
       url: /daohang/num-4.html
       
-    - name: 123导航
-      style: basic
-      url: /daohang/num-5.html
+    - name: 迷妹导航
+      style: purple
+      url: /daohang/num-26.html
       
     - name: 水立方
       style: basic
@@ -524,6 +524,10 @@
     - name: 逗趣福利导航
       style: basic
       url: /daohang/num-28.html
+      
+    - name: 123导航
+      style: basic
+      url: /daohang/num-5.html
 
 - section: THREE
   categories:
