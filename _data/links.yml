@@ -586,23 +586,23 @@
     links:
     - name: 夜色小说
       style: yellow
-      url: /xiaoshuo/num-3.html
+      url: /xiaoshuo/num-1.html
 
     - name: 春色小说
       style: basic
-      url: /go/num-xs-2.html
+      url: /xiaoshuo/num-2.html
 
     - name: 七色小說
       style: basic
-      url: /xiaoshuo/num-2.html
+      url: /xiaoshuo/num-3.html
 
     - name: 草榴小说
       style: basic
-      url: /go/num-xs-3.html
+      url: /xiaoshuo/num-4.html
       
     - name: 線上看
       style: basic
-      url: /go/num-xs-4.html
+      url: /xiaoshuo/num-5.html
       
   - category: 高清资源
     links:
