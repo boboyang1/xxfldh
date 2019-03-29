@@ -178,6 +178,7 @@
       url: /go/go.html
         
     - name: 值得一看
+      icon: newspaper
       style: basic
       url: /pages/
  
