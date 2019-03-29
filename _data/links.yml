@@ -134,7 +134,7 @@
       url: /guanggao/num-3.html
       
     - name: 光棍视频
-      style: green
+      style: basic
       url: /guanggao/num-11.html
       
     - name: 十一精品
@@ -146,7 +146,7 @@
       url: /guanggao/num-13.html
       
     - name: 桃花庵
-      style: basic
+      style: green
       url: /guanggao/num-19.html
       
     - name: 真人黄播宝盒
