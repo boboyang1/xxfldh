@@ -162,13 +162,8 @@
       url: /guanggao/num-28.html
       
     - name: 蜜桃影院
-      style: green
-      url: /guanggao/num-22.html
-      
-    - name: 找AV123
-      icon: amazon yellow
       style: basic
-      url: /daohang/num-1.html
+      url: /guanggao/num-22.html
       
     - name: 国产精选系列
       style: green
@@ -182,7 +177,7 @@
       style: green
       url: /go/go.html
         
-    - name: 免费萝莉资源
+    - name: 值得一看
       style: basic
       url: /pages/
  
@@ -429,7 +424,12 @@
 
 
   - category: 福利导航
-    links: 
+    links:       
+    - name: 找AV123
+      icon: amazon yellow
+      style: basic
+      url: /daohang/num-1.html
+    
     - name: 神盾局
       style: basic
       url: /daohang/num-4.html
