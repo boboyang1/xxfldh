@@ -271,10 +271,6 @@
       style: basic
       url: /shipin/num-32.html
       
-    - name: 好屌色
-      style: basic
-      url: /shipin/num-12.html
-      
     - name: 嫖驿站
       style: basic
       url: /shipin/num-7.html
@@ -596,6 +592,10 @@
     - name: 夜色小说
       style: yellow
       url: /xiaoshuo/num-1.html
+
+    - name: 青青草小说
+      style: basic
+      url: /xiaoshuo/num-6.html
 
     - name: 春色小说
       style: basic
