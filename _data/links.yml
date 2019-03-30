@@ -339,10 +339,6 @@
       style: basic
       url: /shipin/num-23.html
       
-    - name: 899撸
-      style: basic
-      url: /shipin/num-12.html
-      
     - name: 色窝之家
       style: basic
       url: /shipin/num-5.html
@@ -358,6 +354,10 @@
     - name: 一起搞色
       style: basic
       url: /shipin/num-32.html
+      
+    - name: 899撸
+      style: basic
+      url: /shipin/num-12.html
       
     - name: 短发学妹
       style: basic
@@ -511,9 +511,17 @@
       style: basic
       url: /daohang/num-49.html
       
+    - name: 123导航
+      style: basic
+      url: /daohang/num-5.html
+      
     - name: KK导航
       style: basic
       url: /daohang/num-22.html
+      
+    - name: 12306导航
+      style: basic
+      url: /daohang/num-13.html
       
     - name: 夜雨导航
       style: basic
@@ -531,21 +539,9 @@
       style: basic
       url: /daohang/num-15.html
       
-    - name: 70导航
-      style: basic
-      url: /daohang/num-17.html
-      
-    - name: 123导航
-      style: basic
-      url: /daohang/num-5.html
-      
     - name: 逗趣导航
       style: basic
       url: /daohang/num-28.html
-      
-    - name: 今日导航
-      style: basic
-      url: /daohang/num-13.html
 
 - section: THREE
   categories:
