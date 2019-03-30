@@ -490,10 +490,6 @@
     - name: 苏三导航
       style: basic
       url: /daohang/num-30.html
-      
-    - name: 蜜蜂导航
-      style: basic
-      url: /daohang/num-14.html
 
     - name: 74导航
       style: basic
@@ -518,6 +514,10 @@
     - name: kk37导航
       style: basic
       url: /daohang/num-13.html
+      
+    - name: 蜜蜂导航
+      style: basic
+      url: /daohang/num-14.html
       
     - name: 12306导航
       style: basic
