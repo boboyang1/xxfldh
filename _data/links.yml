@@ -586,6 +586,14 @@
     - name: 草榴社區
       style: basic
       url: /luntan/num-5.html
+
+    - name: 第一會所
+      style: basic
+      url: /luntan/num-8.html
+
+    - name: 1024核工厂
+      style: basic
+      url: /luntan/num-9.html
       
   - category: 福利小说
     links:
@@ -612,6 +620,10 @@
     - name: 線上看
       style: basic
       url: /xiaoshuo/num-5.html
+      
+    - name: SiS文學網
+      style: basic
+      url: /xiaoshuo/num-6.html
       
   - category: 高清资源
     links:
