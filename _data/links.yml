@@ -451,10 +451,6 @@
       style: basic
       url: /daohang/num-9.html
       
-    - name: 绝色导航
-      style: teal
-      url: /daohang/num-10.html
-      
     - name: 无良导航
       style: basic
       url: /daohang/num-11.html
@@ -462,6 +458,10 @@
     - name: 136导航
       style: basic
       url: /daohang/num-20.html
+      
+    - name: 绝色导航
+      style: teal
+      url: /daohang/num-10.html
       
     - name: 美国十次啦
       style: basic
