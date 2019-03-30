@@ -267,10 +267,6 @@
       style: basic
       url: /shipin/num-20.html
       
-    - name: 嫖驿站
-      style: basic
-      url: /shipin/num-7.html
-      
     - name: 七色食堂
       style: basic
       url: /shipin/num-4.html
@@ -323,14 +319,6 @@
       style: basic
       url: /shipin/num-28.html
       
-    - name: 久草网
-      style: basic
-      url: /shipin/num-19.html
-      
-    - name: 8X8X
-      style: basic
-      url: /shipin/num-22.html
-      
     - name: 火逼网
       style: basic
       url: /shipin/num-18.html
@@ -338,6 +326,10 @@
     - name: 91福利阁
       style: basic
       url: /shipin/num-23.html
+      
+    - name: 嫖驿站
+      style: basic
+      url: /shipin/num-7.html
       
     - name: 色窝之家
       style: basic
@@ -350,6 +342,10 @@
     - name: 78bb视频
       style: basic
       url: /shipin/num-13.html
+      
+    - name: 久草网
+      style: basic
+      url: /shipin/num-19.html
       
     - name: 一起搞色
       style: basic
@@ -498,6 +494,10 @@
     - name: 啪啪导航
       style: basic
       url: /daohang/num-9.html
+      
+    - name: 75导航
+      style: basic
+      url: /daohang/num-30.html
       
     - name: 78福利导航
       style: basic
