@@ -433,19 +433,7 @@
       
     - name: 迷妹导航
       style: olive
-      url: /daohang/num-26.html
-      
-    - name: 水立方
-      style: basic
       url: /daohang/num-6.html
-      
-    - name: 乱片导航
-      style: basic
-      url: /daohang/num-7.html
-      
-    - name: 芒果导航
-      style: basic
-      url: /daohang/num-8.html
       
     - name: 无良导航
       style: basic
@@ -471,9 +459,17 @@
       style: basic
       url: /daohang/num-25.html
       
+    - name: 乱片导航
+      style: basic
+      url: /daohang/num-7.html
+      
     - name: 幼女导航
       style: basic
-      url: /daohang/num-32.html
+      url: /daohang/num-29.html
+      
+    - name: 芒果导航
+      style: basic
+      url: /daohang/num-8.html
 
     - name: 74导航
       style: basic
