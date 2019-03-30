@@ -494,14 +494,14 @@
     - name: 蜜蜂导航
       style: basic
       url: /daohang/num-14.html
-      
-    - name: 918导航
-      style: basic
-      url: /daohang/num-3.html
 
     - name: 74导航
       style: basic
       url: /daohang/num-17.html
+      
+    - name: 918导航
+      style: basic
+      url: /daohang/num-3.html
       
     - name: KK导航
       style: basic
