@@ -319,10 +319,6 @@
       style: basic
       url: /shipin/num-4.html
       
-    - name: 看逼网
-      style: basic
-      url: /shipin/num-11.html
-      
     - name: 雅蠛蝶
       style: basic
       url: /shipin/num-30.html
@@ -342,6 +338,10 @@
     - name: 色窝之家
       style: basic
       url: /shipin/num-5.html
+      
+    - name: 看逼网
+      style: basic
+      url: /shipin/num-11.html
       
     - name: 爱五妹
       style: basic
@@ -442,10 +442,6 @@
       icon: amazon yellow
       style: basic
       url: /daohang/num-1.html
-    
-    - name: 神盾局
-      style: basic
-      url: /daohang/num-4.html
       
     - name: 迷妹导航
       style: olive
@@ -526,6 +522,10 @@
     - name: 78福利导航
       style: basic
       url: /daohang/num-2.html
+    
+    - name: 51区
+      style: basic
+      url: /daohang/num-4.html
       
     - name: kk37导航
       style: basic
@@ -554,10 +554,6 @@
     - name: 桃花仙
       style: basic
       url: /daohang/num-27.html
-      
-    - name: 123导航
-      style: basic
-      url: /daohang/num-5.html
       
     - name: 很色导航
       style: basic
