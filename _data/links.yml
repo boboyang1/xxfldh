@@ -28,10 +28,6 @@
       style: orange
       url: /guanggao/num-30.html
       
-    - name: db偷情少女
-      style: teal
-      url: /guanggao/num-23.html
-      
     - name: 蜜桃AV
       icon: tumblr black
       style: basic
@@ -40,6 +36,10 @@
     - name: 成人版抖音
       style: blue
       url: /guanggao/num-29.html
+      
+    - name: db偷情少女
+      style: teal
+      url: /guanggao/num-23.html
       
 
 - section: TWO
