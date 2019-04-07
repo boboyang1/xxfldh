@@ -2,7 +2,7 @@
     <div class="ui container">
         <div class="ui large borderless inverted menu" style="border: none;">
             <div class="toc link icon item"><i class="sidebar icon"></i></div>
-            <a class="header item" href="{{ '/' | relative_url }}">
+            <a class="header item loading-trigger" href="{{ '/' | relative_url }}">
                 <div class="ui middle aligned image">
                     <img class="logo-image" src="{{ site.logo_white }}" alt="Logo">
                 </div>
@@ -14,17 +14,17 @@
             </div>
         </div>
     </div>
-    {%- if page.active_key == 'home' -%}
+    {% if page.active_key == 'home' %}
         {% include search.html %}
-    {%- else -%}
+    {% else %}
         <div class="ui text container">
             <h1 class="ui inverted header">{% if page.icon %}<i class="{{ page.icon }} icon"></i>{% endif %}{{ page.title }}</h1>
-            {%- if page.active_key == 'analytics' -%}
+            {% if page.active_key == 'analytics' %}
                 <div id="established-at" class="ui black labels"></div>
-                <div class="ui black label"><i class="shoe prints icon"></i><span id="total-actions">0</span><div class="detail">PV</div></div>
-            {%- elsif page.active_key == 'donate' -%}
+                <div class="ui black label"><i class="bar chart icon"></i><span id="total-actions">0</span><div class="detail">PV</div></div>
+            {% elsif page.active_key == 'donate' %}
                 <h2 class="ui inverted header">合作事宜请联系：nidexie@gmail.com</h2>
-            {%- endif -%}
+            {% endif %}
         </div>
-    {%- endif -%}
+    {% endif %}
 </div>
