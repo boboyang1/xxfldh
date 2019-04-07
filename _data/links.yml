@@ -306,10 +306,6 @@
       style: basic
       url: /shipin/num-24.html
       
-    - name: 萌妹自拍
-      style: basic
-      url: /shipin/num-25.html
-      
     - name: 小学生视频
       style: basic
       url: /shipin/num-26.html
@@ -369,6 +365,10 @@
     - name: 色窝之家
       style: basic
       url: /shipin/num-5.html
+      
+    - name: 萌妹自拍
+      style: basic
+      url: /shipin/num-25.html
       
     - name: 爱五妹
       style: basic
