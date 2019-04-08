@@ -526,13 +526,13 @@
       style: basic
       url: /daohang/num-17.html
       
-    - name: 妹妹导航
-      style: basic
-      url: /daohang/num-24.html
-      
     - name: 918导航
       style: basic
       url: /daohang/num-3.html
+      
+    - name: 妹妹导航
+      style: basic
+      url: /daohang/num-24.html
       
     - name: KK导航
       style: basic
@@ -542,13 +542,13 @@
       style: basic
       url: /daohang/num-19.html
       
-    - name: 5060导航
-      style: basic
-      url: /daohang/num-16.html
-      
     - name: 啪啪导航
       style: basic
       url: /daohang/num-9.html
+      
+    - name: 5060导航
+      style: basic
+      url: /daohang/num-16.html
       
     - name: 75导航
       style: basic
@@ -557,6 +557,10 @@
     - name: 78福利导航
       style: basic
       url: /daohang/num-2.html
+      
+    - name: 闽A导航
+      style: blue
+      url: /daohang/num-33.html
     
     - name: 51区
       style: basic
