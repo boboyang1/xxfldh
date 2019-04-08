@@ -525,6 +525,10 @@
     - name: 芒果导航
       style: basic
       url: /daohang/num-8.html
+      
+    - name: 苍狼导航
+      style: basic
+      url: /daohang/num-34.html
 
     - name: 74导航
       style: basic
@@ -577,6 +581,10 @@
     - name: 蜜蜂导航
       style: basic
       url: /daohang/num-14.html
+      
+    - name: 小马导航
+      style: basic
+      url: /daohang/num-35.html
       
     - name: 大黄狗导航
       style: basic
