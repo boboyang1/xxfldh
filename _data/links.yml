@@ -856,15 +856,15 @@
     links:
     - name: 点我翻墙
       style: blue
-      url: http://yunsu.aicaibai.com/share.html?channel=zy
+      url: /guowai/num-1.html
       
     - name: Banana
       style: basic
-      url: /guowai/num-1.html
+      url: /guowai/num-2.html
       
     - name: 茜茜社区
       style: basic
-      url: /guowai/num-2.html
+      url: /guowai/num-3.html
       
     - name: PornHub
       style: basic
