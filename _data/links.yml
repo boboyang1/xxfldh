@@ -346,6 +346,10 @@
       style: basic
       url: /shipin/num-24.html
       
+    - name: AV车站
+      style: basic
+      url: /shipin/num-57.html
+      
     - name: AV猫
       style: pink
       url: /shipin/num-36.html
