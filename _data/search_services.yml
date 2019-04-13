@@ -1,13 +1,14 @@
 - id: lst
   name: 蕾丝兔
-  url: http://www.leisitu.cc/search.php?q=
+  url: http://www.leisitu.info/search.php?q=
   shortcut: 蕾丝兔
   icon: yelp
   style: blue
   
-- id: gczp
+- id: yxj
   name: 野香蕉
-  url: http://www.wy226.com/?adref=xxfldh_com
+  url: http://www.zy277.com/index.php?m=vod-search-wd-
+  suffix: ".html"
   shortcut: 野香蕉
   icon: google play
   style: green
@@ -15,11 +16,10 @@
 - id: huas
   name: 花社
   url: https://huas.ooo/?s=
-  suffix: "&ie=utf-8"
   shortcut: 花社
   icon: hotjar
   style: orange
-
+  
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
