@@ -90,15 +90,15 @@
       
     - name: 高清影城
       style: green
-      url: https://www.tv03.com/?adref=xxfldh_com
+      url: /guanggao/num-11.html
       
     - name: 免費成人視頻
       style: green
-      url: https://july90.xyz/?adref=xxfldh_com
+      url: /guanggao/num-12.html
      
     - name: ADC免费影院
       style: green
-      url: https://www.02adc.com/?adref=xxfldh_com
+      url: /guanggao/num-13.html
      
     - name: 中文无码AV
       style: green
@@ -146,7 +146,7 @@
     links:    
     - name: 黄播邀请码:1010
       style: green
-      url: /guanggao/num-11.html
+      url: /guanggao/num-5.html
       
     - name: 91国产AV
       style: green
@@ -511,10 +511,6 @@
       style: basic
       url: http://91vv9.com/?xiaox
       
-    - name: 高清影城
-      style: basic
-      url: /go/Num-AD-13.html
-      
 
   - category: 福利导航
     links:       
@@ -786,10 +782,14 @@
     - name: 18AV
       style: basic
       url: /guanggao/num-27.html
+      
+    - name: 高清影城
+      style: basic
+      url: /guanggao/num-11.html
      
     - name: ADC
       style: basic
-      url: /guanggao/num-5.html
+      url: /guanggao/num-13.html
      
     - name: 多撸吧
       style: basic
