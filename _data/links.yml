@@ -156,10 +156,6 @@
       style: green
       url: /guanggao/num-3.html
       
-    - name: 桃花庵
-      style: green
-      url: /guanggao/num-19.html
-      
     - name: 真人黄播宝盒
       style: basic
       url: /guanggao/num-20.html
@@ -526,10 +522,6 @@
       style: basic
       url: /guanggao/num-10.html
       
-    - name: 桃花网
-      style: basic
-      url: /go/num-v-35.html
-
 
   - category: 福利导航
     links:       
