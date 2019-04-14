@@ -550,10 +550,6 @@
     - name: 136导航
       style: basic
       url: /daohang/num-20.html
-      
-    - name: 绝色导航
-      style: olive
-      url: /daohang/num-10.html
 
     - name: 唐人社
       style: purple
@@ -578,6 +574,10 @@
     - name: 幼女导航
       style: basic
       url: /daohang/num-29.html
+      
+    - name: 绝色导航
+      style: olive
+      url: /daohang/num-10.html
       
     - name: 久久导航
       style: basic
