@@ -559,10 +559,6 @@
       style: blue
       url: /daohang/num-34.html
       
-    - name: B多多导航
-      style: basic
-      url: /daohang/num-25.html
-      
     - name: 乱片导航
       style: basic
       url: /daohang/num-7.html
@@ -610,6 +606,10 @@
     - name: 啪啪导航
       style: basic
       url: /daohang/num-9.html
+      
+    - name: B多多导航
+      style: basic
+      url: /daohang/num-25.html
       
     - name: 5060导航
       style: basic
