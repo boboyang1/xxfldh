@@ -591,10 +591,6 @@
       style: basic
       url: /daohang/num-17.html
       
-    - name: 918导航
-      style: basic
-      url: /daohang/num-3.html
-      
     - name: 妹妹导航
       style: basic
       url: /daohang/num-24.html
@@ -606,6 +602,10 @@
     - name: 芭提雅导航
       style: basic
       url: /daohang/num-37.html
+      
+    - name: 酷狗导航
+      style: basic
+      url: /daohang/num-26.html
       
     - name: 夜雨导航
       style: basic
@@ -651,9 +651,9 @@
       style: basic
       url: /daohang/num-32.html
       
-    - name: 酷狗导航
+    - name: 918导航
       style: basic
-      url: /daohang/num-26.html
+      url: /daohang/num-3.html
       
     - name: 12306导航
       style: basic
