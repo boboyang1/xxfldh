@@ -554,14 +554,14 @@
     - name: 绝色导航
       style: olive
       url: /daohang/num-10.html
-      
-    - name: 美国十次啦
-      style: basic
-      url: /daohang/num-12.html
 
     - name: 唐人社
       style: purple
       url: /daohang/num-23.html
+      
+    - name: 十次啦导航
+      style: basic
+      url: /daohang/num-12.html
       
     - name: 苍狼导航
       style: blue
