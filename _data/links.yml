@@ -514,18 +514,6 @@
     - name: 高清影城
       style: basic
       url: /go/Num-AD-13.html
-     
-    - name: ADC影院
-      style: basic
-      url: /guanggao/num-5.html
-     
-    - name: 多撸吧
-      style: basic
-      url: /guanggao/num-6.html
-     
-    - name: 寻芳阁
-      style: basic
-      url: /guanggao/num-10.html
       
 
   - category: 福利导航
@@ -798,10 +786,22 @@
     - name: 18AV
       style: basic
       url: /guanggao/num-27.html
+     
+    - name: ADC
+      style: basic
+      url: /guanggao/num-5.html
+     
+    - name: 多撸吧
+      style: basic
+      url: /guanggao/num-6.html
       
     - name: 色茄
       style: basic
       url: /guanggao/num-7.html
+     
+    - name: 寻芳阁
+      style: basic
+      url: /guanggao/num-10.html
       
     - name: 夜秀
       style: basic
