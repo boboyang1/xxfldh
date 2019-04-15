@@ -999,11 +999,11 @@
 
     - name: 优衣库
       style: basic
-      url: http://www.uniqlo.cn/
+      url: https://www.uniqlo.cn/
 
     - name: 无印良品
       style: basic
-      url: http://www.muji.com.cn/
+      url: https://www.muji.com.cn/
 
     - name: IKEA
       style: basic
@@ -1011,11 +1011,11 @@
 
     - name: 造作
       style: basic
-      url: https://zaozuo.com/
+      url: https://www.zaozuo.com/
 
     - name: 锤子科技
       style: basic
-      url: http://www.smartisan.com/
+      url: https://www.smartisan.com/
 
     - name: 小米商城
       style: basic
@@ -1031,7 +1031,7 @@
     - name: '12306'
       icon: train red
       style: basic
-      url: http://www.12306.cn/
+      url: https://www.12306.cn/
 
     - name: 快递查询
       icon: shipping olive
@@ -1046,7 +1046,7 @@
     - name: 网易邮箱
       icon: mail red
       style: basic
-      url: http://email.163.com/
+      url: https://email.163.com/
 
     - name: QQ邮箱
       icon: qq black
@@ -1144,7 +1144,7 @@
 
     - name: 网易公开课
       style: basic
-      url: http://open.163.com/
+      url: https://open.163.com/
 
     - name: W3School
       style: basic
@@ -1157,7 +1157,7 @@
 
     - name: SegmentFault
       style: basic
-      url: http://segmentfault.com/
+      url: https://segmentfault.com/
 
     - name: Tutorials Point
       style: basic
@@ -1181,19 +1181,19 @@
 
     - name: 大街网
       style: basic
-      url: http://www.dajie.com/
+      url: https://www.dajie.com/
 
     - name: 拉勾网
       style: basic
-      url: http://www.lagou.com/
+      url: https://www.lagou.com/
 
     - name: 智联招聘
       style: basic
-      url: http://zhaopin.com/
+      url: https://www.zhaopin.com/
 
     - name: 前程无忧
       style: basic
-      url: http://www.51job.com/
+      url: https://www.51job.com/
 
     - name: 应届生
       style: basic
@@ -1203,24 +1203,24 @@
     links:
     - name: 优酷
       style: basic
-      url: http://www.youku.com/
+      url: https://www.youku.com/
 
     - name: 土豆
       style: basic
-      url: http://www.tudou.com/
+      url: https://www.tudou.com/
 
     - name: Youtube
       icon: youtube red
       style: basic
-      url: http://www.youtube.com/
+      url: https://www.youtube.com/
 
     - name: 爱奇艺
       style: basic
-      url: http://www.iqiyi.com/
+      url: https://www.iqiyi.com/
 
     - name: 芒果TV
       style: basic
-      url: http://www.mgtv.com/
+      url: https://www.mgtv.com/
 
     - name: 腾讯视频
       style: basic
@@ -1232,23 +1232,19 @@
 
     - name: AcFun
       style: basic
-      url: http://www.acfun.tv/
-
-    - name: 吐槽
-      style: basic
-      url: http://www.tucao.tv/
+      url: http://www.acfun.cn/
 
     - name: 腾讯动漫
       style: basic
-      url: http://ac.qq.com/
+      url: https://ac.qq.com/
 
     - name: 虾米
       style: basic
-      url: http://www.xiami.com/
+      url: https://www.xiami.com/
 
     - name: 多瑙影院
       style: basic
-      url: http://www.dnvod.tv/
+      url: https://www.dnvod.tv/
 
     - name: FIX字幕侠
       style: basic
