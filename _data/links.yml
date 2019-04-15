@@ -255,17 +255,13 @@
       style: orange
       url: /shipin/num-1.html
       
-    - name: 花社
-      style: basic
-      url: /shipin/num-2.html
-      
     - name: 骑虎影库
       style: basic
       url: /shipin/num-38.html
       
-    - name: 老司机视频
+    - name: 花社
       style: basic
-      url: /shipin/num-39.html
+      url: /shipin/num-2.html
       
     - name: 火山小黄人
       style: basic
@@ -299,9 +295,9 @@
       style: basic
       url: /shipin/num-16.html
       
-    - name: 腐女在线
+    - name: gogo在线
       style: basic
-      url: /shipin/num-53.html
+      url: /shipin/num-39.html
       
     - name: 伊人香蕉网
       style: basic
@@ -314,6 +310,10 @@
     - name: 小学生视频
       style: basic
       url: /shipin/num-26.html
+      
+    - name: 腐女在线
+      style: basic
+      url: /shipin/num-53.html
       
     - name: 久久热
       style: basic
@@ -375,10 +375,6 @@
       style: basic
       url: /shipin/num-11.html
       
-    - name: 532AV
-      style: basic
-      url: /shipin/num-40.html
-      
     - name: 色狗视频
       style: basic
       url: /shipin/num-33.html
@@ -406,6 +402,10 @@
     - name: 色窝之家
       style: basic
       url: /shipin/num-5.html
+      
+    - name: 532AV
+      style: basic
+      url: /shipin/num-40.html
       
     - name: 国产精品
       style: basic
