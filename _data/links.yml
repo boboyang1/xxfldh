@@ -653,7 +653,7 @@
       
     - name: 小马导航
       style: basic
-      url: /daohang/num-35.html
+      url: /daohang/num-38.html
       
     - name: 大黄狗导航
       style: basic
@@ -671,14 +671,6 @@
       style: basic
       url: /daohang/num-27.html
       
-    - name: 逗趣导航
-      style: basic
-      url: /daohang/num-28.html
-      
-    - name: 空白导航
-      style: basic
-      url: /daohang/num-35.html
-      
     - name: 很色导航
       style: basic
       url: /daohang/num-15.html
@@ -686,6 +678,10 @@
     - name: 艾薇导航
       style: basic
       url: /daohang/num-18.html
+      
+    - name: 空白导航
+      style: basic
+      url: /daohang/num-35.html
 
 - section: THREE
   categories:
