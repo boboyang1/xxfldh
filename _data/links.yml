@@ -635,6 +635,10 @@
       style: basic
       url: /daohang/num-2.html
       
+    - name: 小马导航
+      style: basic
+      url: /daohang/num-38.html
+      
     - name: 琪琪导航
       style: basic
       url: /daohang/num-36.html
@@ -651,9 +655,9 @@
       style: basic
       url: /daohang/num-14.html
       
-    - name: 小马导航
+    - name: 逗趣导航
       style: basic
-      url: /daohang/num-38.html
+      url: /daohang/num-28.html
       
     - name: 大黄狗导航
       style: basic
@@ -667,7 +671,7 @@
       style: basic
       url: /daohang/num-31.html
       
-    - name: 桃花仙
+    - name: 桃花仙导航
       style: basic
       url: /daohang/num-27.html
       
