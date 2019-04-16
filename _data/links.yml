@@ -618,6 +618,10 @@
     - name: 78福利导航
       style: basic
       url: /daohang/num-2.html
+      
+    - name: 琪琪导航
+      style: basic
+      url: /daohang/num-36.html
     
     - name: 51区
       style: basic
@@ -666,10 +670,6 @@
     - name: 艾薇导航
       style: basic
       url: /daohang/num-18.html
-      
-    - name: 琪琪导航
-      style: basic
-      url: /daohang/num-36.html
 
 - section: THREE
   categories:
