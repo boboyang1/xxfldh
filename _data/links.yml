@@ -511,10 +511,6 @@
       style: basic
       url: /go/num-ad-730.html
       
-    - name: iQQTV
-      style: basic
-      url: /guanggao/num-40.html
-      
     - name: 性福
       style: basic
       url: /guanggao/num-2.html
@@ -802,6 +798,10 @@
     - name: Fulao2
       style: basic
       url: /go/num-ad-520.html
+      
+    - name: 爱威奶
+      style: basic
+      url: /guanggao/num-40.html
       
     - name: 蜜桃
       style: basic
