@@ -331,10 +331,6 @@
       style: basic
       url: /shipin/num-16.html
       
-    - name: gogo在线
-      style: basic
-      url: /shipin/num-39.html
-      
     - name: 伊人香蕉网
       style: basic
       url: /shipin/num-49.html
@@ -542,6 +538,10 @@
     - name: 色狗视频
       style: basic
       url: /shipin/num-33.html
+      
+    - name: gogo在线
+      style: basic
+      url: /shipin/num-39.html
       
     - name: 瘋AV
       style: basic
