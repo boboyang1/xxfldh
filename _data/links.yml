@@ -821,13 +821,17 @@
       style: yellow
       url: /xiaoshuo/num-1.html
 
-    - name: 青青草小说
+    - name: 锁狼书屋
       style: basic
-      url: /xiaoshuo/num-6.html
+      url: /xiaoshuo/num-7.html
 
     - name: 春色小说
       style: basic
       url: /xiaoshuo/num-2.html
+
+    - name: 青青草小说
+      style: basic
+      url: /xiaoshuo/num-6.html
 
     - name: 七色小說
       style: basic
