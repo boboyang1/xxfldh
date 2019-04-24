@@ -913,7 +913,11 @@
       
     - name: BT目录
       style: basic
-      url: /guowai/num-4.html
+      url: /cili/num-1.html
+      
+    - name: 夜丝屋
+      style: basic
+      url: /tupian/num-1.html
       
   - category: 动漫ACG
     links:
