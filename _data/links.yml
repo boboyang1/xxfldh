@@ -614,18 +614,14 @@
     - name: 136导航
       style: basic
       url: /daohang/num-20.html
-
-    - name: 唐人社导航
-      style: purple
-      url: /daohang/num-23.html
       
     - name: 十次啦导航
       style: basic
       url: /daohang/num-12.html
-      
-    - name: 老司机导航
-      style: basic
-      url: /daohang/num-37.html
+
+    - name: 唐人社导航
+      style: purple
+      url: /daohang/num-23.html
       
     - name: 幼女导航
       style: basic
@@ -710,6 +706,10 @@
     - name: 少妇吧导航
       style: basic
       url: /daohang/num-40.html
+      
+    - name: 老司机导航
+      style: basic
+      url: /daohang/num-37.html
       
     - name: 夜夜撸导航
       style: basic
