@@ -635,10 +635,6 @@
       style: basic
       url: /daohang/num-29.html
       
-    - name: 绝色导航
-      style: olive
-      url: /daohang/num-10.html
-      
     - name: 小马导航
       style: basic
       url: /daohang/num-38.html
@@ -722,6 +718,10 @@
     - name: 夜夜撸导航
       style: basic
       url: /daohang/num-43.html
+      
+    - name: 绝色导航
+      style: basic
+      url: /daohang/num-10.html
       
     - name: 性吧导航
       style: basic
