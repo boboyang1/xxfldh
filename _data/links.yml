@@ -643,10 +643,6 @@
       style: basic
       url: /daohang/num-38.html
       
-    - name: 久久导航
-      style: basic
-      url: /daohang/num-21.html
-      
     - name: 芒果导航
       style: basic
       url: /daohang/num-8.html
@@ -663,6 +659,10 @@
       style: basic
       url: /daohang/num-24.html
       
+    - name: 夜雨导航
+      style: basic
+      url: /daohang/num-19.html
+      
     - name: KK导航
       style: basic
       url: /daohang/num-22.html
@@ -671,13 +671,13 @@
       style: basic
       url: /daohang/num-41.html
       
-    - name: 黄药师导航
+    - name: 久久导航
       style: basic
-      url: /daohang/num-38.html
+      url: /daohang/num-21.html
       
-    - name: 夜雨导航
+    - name: 5060导航
       style: basic
-      url: /daohang/num-19.html
+      url: /daohang/num-16.html
       
     - name: 啪啪导航
       style: basic
@@ -686,10 +686,6 @@
     - name: B多多导航
       style: basic
       url: /daohang/num-25.html
-      
-    - name: 5060导航
-      style: basic
-      url: /daohang/num-16.html
       
     - name: 918导航
       style: basic
@@ -738,6 +734,10 @@
     - name: 大黄狗导航
       style: basic
       url: /daohang/num-32.html
+      
+    - name: 黄药师导航
+      style: basic
+      url: /daohang/num-38.html
       
     - name: 369福利导航
       style: basic
