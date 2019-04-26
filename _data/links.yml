@@ -86,7 +86,7 @@
     - name: 18AV完全免费
       icon: tumblr purple
       style: basic
-      url: /guanggao/num-26.html
+      url: /guanggao/num-27.html
       
     - name: 高清影城
       style: green
@@ -910,10 +910,6 @@
     - name: Miss
       style: basic
       url: /guanggao/num-26.html
-      
-    - name: 18AV
-      style: basic
-      url: /guanggao/num-27.html
       
     - name: 高清影城
       style: basic
