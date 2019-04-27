@@ -97,7 +97,8 @@
       url: /guanggao/num-12.html
      
     - name: ADC免费影院
-      style: green
+      icon: amazon red
+      style: basic
       url: /guanggao/num-13.html
      
     - name: 中文无码AV
