@@ -49,10 +49,6 @@
       style: purple
       url: /guanggao/num-37.html
       
-    - name: db偷情少女
-      style: teal
-      url: /guanggao/num-23.html
-      
 
 - section: TWO
   categories:
@@ -145,15 +141,7 @@
       url: /shipin/num-1.html
 
   - category: 推荐②区
-    links:          
-    - name: 91国产AV
-      style: green
-      url: /guanggao/num-17.html
-      
-    - name: 1024福利
-      style: green
-      url: /guanggao/num-3.html
-      
+    links:                      
     - name: 真人黄播宝盒
       style: basic
       url: /guanggao/num-20.html
