@@ -141,7 +141,8 @@
       url: /guanggao/num-43.html
       
     - name: 免费在线视频
-      style: green
+      icon: google purple
+      style: basic
       url: /guanggao/num-3.html
 
   - category: 推荐②区
