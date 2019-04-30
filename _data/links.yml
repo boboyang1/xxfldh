@@ -180,15 +180,15 @@
       url: /shipin/num-1.html
       
     - name: 国产精选系列
-      style: green
+      style: basic
       url: /go/go.html
       
     - name: 萝莉露出系列
-      style: green
+      style: basic
       url: /go/go.html
  
     - name: 抖音福利合集
-      style: green
+      style: basic
       url: /go/go.html
         
     - name: 值得一看
