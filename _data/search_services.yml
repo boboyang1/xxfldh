@@ -1,3 +1,10 @@
+- id: huas
+  name: AV免费看
+  url: https://yingav2.com/?xxfldh
+  shortcut: AV免费看
+  icon: hotjar
+  style: purple
+  
 - id: lst
   name: 蕾丝兔
   url: http://www.leisitu.info/search.php?q=
@@ -12,13 +19,6 @@
   shortcut: 野香蕉
   icon: google play
   style: green
-  
-- id: huas
-  name: AV免费看
-  url: https://yingav2.com/?xxfldh
-  shortcut: AV免费看
-  icon: hotjar
-  style: purple
   
 - id: baidu
   name: 百度
