@@ -187,6 +187,11 @@
       style: basic
       url: /shipin/num-1.html
       
+    - name: 草榴视频(免费)
+      icon: pink video
+      style: basic
+      url: /guanggao/num-49.html
+        
     - name: 国产精选系列
       style: green
       url: /go/go.html
