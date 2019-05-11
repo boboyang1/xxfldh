@@ -694,6 +694,10 @@
     - name: 幼女导航
       style: basic
       url: /daohang/num-29.html
+    
+    - name: 骚货导航
+      style: basic
+      url: /daohang/num-5.html
       
     - name: 小马导航
       style: basic
@@ -758,10 +762,6 @@
     - name: 78福利导航
       style: basic
       url: /daohang/num-2.html
-    
-    - name: 骚货导航
-      style: basic
-      url: /daohang/num-5.html
     
     - name: 51区
       style: basic
