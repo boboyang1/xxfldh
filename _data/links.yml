@@ -66,10 +66,6 @@
       style: green
       url: /guanggao/num-15.html
       
-    - name: 91国产精品
-      style: green
-      url: /guanggao/num-16.html
-      
     - name: 番号鸽
       icon: youtube red
       style: basic
@@ -148,6 +144,10 @@
     - name: AV无码资源网
       style: green
       url: /guanggao/num-55.html
+      
+    - name: 男人精品站
+      style: green
+      url: /guanggao/num-16.html
 
   - category: 推荐②区
     links:
