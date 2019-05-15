@@ -851,6 +851,10 @@
       style: basic
       url: /daohang/num-36.html
       
+    - name: 艾薇导航
+      style: basic
+      url: /daohang/num-18.html
+      
     - name: 蓝色导航
       style: basic
       url: /daohang/num-56.html
@@ -878,14 +882,6 @@
     - name: K导航
       style: basic
       url: /daohang/num-51.html
-      
-    - name: 艾薇导航
-      style: basic
-      url: /daohang/num-18.html
-      
-    - name: 鸟鸣导航
-      style: basic
-      url: /daohang/num-50.html
 
 - section: THREE
   categories:
