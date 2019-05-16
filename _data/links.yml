@@ -427,10 +427,6 @@
       style: basic
       url: /shipin/num-47.html
       
-    - name: AV猫
-      style: pink
-      url: /shipin/num-36.html
-      
     - name: 少女
       style: basic
       url: /shipin/num-66.html
@@ -466,6 +462,10 @@
     - name: 玉皇大帝
       style: basic
       url: /shipin/num-85.html
+      
+    - name: AV猫
+      style: pink
+      url: /shipin/num-36.html
       
     - name: 大狼狗
       style: basic
