@@ -691,10 +691,6 @@
       style: basic
       url: /daohang/num-20.html
       
-    - name: 75导航
-      style: basic
-      url: /daohang/num-30.html
-      
     - name: 芒果导航
       style: basic
       url: /daohang/num-8.html
@@ -802,6 +798,10 @@
     - name: 闽A导航
       style: basic
       url: /daohang/num-33.html
+      
+    - name: 75导航
+      style: basic
+      url: /daohang/num-30.html
       
     - name: 微色导航
       style: basic
