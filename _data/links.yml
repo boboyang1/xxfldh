@@ -691,10 +691,6 @@
       style: basic
       url: /daohang/num-20.html
       
-    - name: 青年涩站大全
-      style: basic
-      url: /daohang/num-42.html
-      
     - name: 75导航
       style: basic
       url: /daohang/num-30.html
@@ -703,13 +699,13 @@
       style: basic
       url: /daohang/num-8.html
       
+    - name: AVCN导航
+      style: basic
+      url: /daohang/num-12.html
+      
     - name: 全球女子大学
       style: basic
       url: /daohang/num-47.html
-    
-    - name: 骚货导航
-      style: basic
-      url: /daohang/num-5.html
       
     - name: 小马导航
       style: basic
@@ -722,6 +718,14 @@
     - name: 乱片导航
       style: basic
       url: /daohang/num-7.html
+    
+    - name: 骚货导航
+      style: basic
+      url: /daohang/num-5.html
+      
+    - name: 青年涩站大全
+      style: basic
+      url: /daohang/num-42.html
       
     - name: 酷狗导航
       style: basic
