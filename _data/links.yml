@@ -28,7 +28,7 @@
       style: orange
       url: /guanggao/num-30.html
       
-    - name: 蜜桃视频APP
+    - name: 蜜桃APP
       icon: tumblr black
       style: basic
       url: /guanggao/num-24.html
@@ -37,7 +37,7 @@
       style: red
       url: /guanggao/num-29.html
       
-    - name: 小萝莉幼女社区
+    - name: 小萝莉社区
       style: blue
       url: /guanggao/num-36.html
       
@@ -49,9 +49,13 @@
       style: pink
       url: /guanggao/num-38.html
       
-    - name: 青青草视频
+    - name: 青青草
       style: purple
       url: /guanggao/num-37.html
+      
+    - name: 杏书宝典
+      style: red
+      url: /guanggao/num-20.html
       
 
 - section: TWO
@@ -999,7 +1003,7 @@
       style: basic
       url: /guanggao/num-30.html
       
-    - name: 蜜桃视频
+    - name: 蜜桃
       style: basic
       url: /guanggao/num-24.html
       
