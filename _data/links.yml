@@ -167,10 +167,6 @@
       style: green
       url: /guanggao/num-41.html
       
-    - name: 喷水萝莉
-      style: basic
-      url: /guanggao/num-42.html
-      
     - name: 千人大秀app
       style: green
       url: /guanggao/num-5.html
@@ -975,6 +971,10 @@
       
   - category: 高清资源
     links:
+    - name: 果聊直播
+      style: green
+      url: /guanggao/num-41.html
+ 
     - name: LuTuBe
       style: basic
       url: /guanggao/num-45.html
