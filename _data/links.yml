@@ -148,6 +148,10 @@
     - name: 男人精品站
       style: green
       url: /guanggao/num-16.html
+      
+    - name: 圈内约炮APP
+      style: green
+      url: /guanggao/num-59.html
 
   - category: 推荐②区
     links:
