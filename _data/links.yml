@@ -663,6 +663,10 @@
       style: teal
       url: /daohang/num-15.html
       
+    - name: 芒果导航
+      style: yellow
+      url: /daohang/num-8.html
+      
     - name: 三八福利导航
       style: basic
       url: /daohang/num-57.html
@@ -678,10 +682,6 @@
     - name: 136福利导航
       style: basic
       url: /daohang/num-20.html
-      
-    - name: 芒果导航
-      style: basic
-      url: /daohang/num-8.html
       
     - name: AVCN导航
       style: basic
