@@ -667,13 +667,17 @@
       style: yellow
       url: /daohang/num-8.html
       
-    - name: 三八福利导航
-      style: basic
-      url: /daohang/num-57.html
-      
     - name: 迷妹导航
       style: green
       url: /daohang/num-6.html
+      
+    - name: AVCN导航
+      style: basic
+      url: /daohang/num-12.html
+      
+    - name: 三八福利导航
+      style: basic
+      url: /daohang/num-57.html
 
     - name: 唐人社导航
       style: purple
@@ -682,10 +686,6 @@
     - name: 136福利导航
       style: basic
       url: /daohang/num-20.html
-      
-    - name: AVCN导航
-      style: basic
-      url: /daohang/num-12.html
       
     - name: 全球女子大学
       style: basic
