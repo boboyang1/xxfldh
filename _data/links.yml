@@ -551,10 +551,6 @@
       style: basic
       url: /shipin/num-75.html
       
-    - name: 9A老司机
-      style: basic
-      url: /shipin/num-55.html
-      
     - name: 青娱乐
       style: basic
       url: /shipin/num-34.html
@@ -674,10 +670,6 @@
     - name: 无良导航
       style: basic
       url: /daohang/num-11.html
-      
-    - name: 苍狼导航
-      style: blue
-      url: /daohang/num-34.html
 
     - name: 唐人社导航
       style: purple
@@ -818,6 +810,10 @@
     - name: 64kk导航
       style: basic
       url: /daohang/num-55.html
+      
+    - name: 苍狼导航
+      style: basic
+      url: /daohang/num-34.html
       
     - name: 尤物导航
       style: basic
