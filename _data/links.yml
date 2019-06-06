@@ -703,6 +703,10 @@
       style: basic
       url: /daohang/num-38.html
       
+    - name: 5060导航
+      style: basic
+      url: /daohang/num-16.html
+      
     - name: 乱片导航
       style: basic
       url: /daohang/num-7.html
@@ -858,10 +862,6 @@
     - name: 蓝色导航
       style: basic
       url: /daohang/num-56.html
-      
-    - name: 5060导航
-      style: basic
-      url: /daohang/num-16.html
       
     - name: 芭比导航
       style: basic
