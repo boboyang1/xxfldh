@@ -898,6 +898,10 @@
     - name: K导航
       style: basic
       url: /daohang/num-51.html
+      
+    - name: 开心导航
+      style: basic
+      url: /daohang/num-59.html
 
 - section: THREE
   categories:
