@@ -222,6 +222,14 @@
     - name: 免费看黄直播
       style: basic
       url: /guanggao/num-58.html
+      
+    - name: AV淘宝
+      style: basic
+      url: /guanggao/num-8.html
+      
+    - name: 蛋蛋视频
+      style: basic
+      url: /guanggao/num-15.html
         
     - name: 国产精选系列
       style: green
