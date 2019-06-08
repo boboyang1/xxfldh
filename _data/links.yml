@@ -224,23 +224,23 @@
       url: /guanggao/num-58.html
       
     - name: AV淘宝
-      style: basic
+      style: green
       url: /guanggao/num-8.html
       
     - name: 蛋蛋视频
-      style: basic
+      style: green
       url: /guanggao/num-15.html
         
     - name: 国产精选系列
-      style: green
+      style: basic
       url: /go/go.html
       
     - name: 萝莉露出系列
-      style: green
+      style: basic
       url: /go/go.html
  
     - name: 抖音福利合集
-      style: green
+      style: basic
       url: /go/go.html
         
     - name: 值得一看
