@@ -20,6 +20,13 @@
   icon: hotjar
   style: purple
   
+- id: ggsp
+  name: 光棍视频
+  url: https://home.qq.com.www-qq-com.com
+  shortcut: 光棍视频
+  icon: google blue
+  style: red
+  
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
