@@ -766,6 +766,10 @@
     - name: 逗趣导航
       style: basic
       url: /daohang/num-28.html
+    
+    - name: 51区
+      style: basic
+      url: /daohang/num-4.html
       
     - name: 久久导航
       style: basic
@@ -883,33 +887,21 @@
       style: basic
       url: /daohang/num-36.html
       
-    - name: 艾薇导航
-      style: basic
-      url: /daohang/num-18.html
-    
-    - name: 51区
-      style: basic
-      url: /daohang/num-4.html
-      
     - name: 蓝色导航
       style: basic
       url: /daohang/num-56.html
       
-    - name: 芭比导航
+    - name: 开心导航
       style: basic
-      url: /daohang/num-46.html
-      
-    - name: 12306导航
-      style: basic
-      url: /daohang/num-31.html
+      url: /daohang/num-59.html
       
     - name: 神马导航
       style: basic
       url: /daohang/num-52.html
       
-    - name: 开心导航
+    - name: 芭比导航
       style: basic
-      url: /daohang/num-59.html
+      url: /daohang/num-46.html
 
 - section: THREE
   categories:
