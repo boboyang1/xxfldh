@@ -219,6 +219,19 @@
     - name: 蛋蛋视频
       style: green
       url: /guanggao/num-15.html
+      
+    - name: 蛋蛋视频
+      style: green
+      url: /guanggao/num-15.html
+        
+    - name: 值得一看
+      icon: newspaper
+      style: basic
+      url: /pages/
+      
+    - name: 爱草国产
+      style: green
+      url: /guanggao/num-92.html
         
     - name: 国产精选系列
       style: basic
@@ -231,11 +244,6 @@
     - name: 抖音福利合集
       style: basic
       url: /go/go.html
-        
-    - name: 值得一看
-      icon: newspaper
-      style: basic
-      url: /pages/
  
     - name: 8dgoAV
       style: green
