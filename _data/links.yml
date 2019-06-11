@@ -241,8 +241,8 @@
       style: green
       url: http://11994.8dgo3.com/
  
-    - name: 微信小号挂机赚钱
-      icon: wechat
+    - name: 微信挂机赚钱
+      icon: wechat green
       style: basic
       url: /guanggao/num-9.html
       
