@@ -156,6 +156,11 @@
     - name: 草草AV影院
       style: green
       url: /guanggao/num-64.html
+      
+    - name: 抖阴视频
+      icon: amazon pink
+      style: basic
+      url: /guanggao/num-35.html
 
   - category: 推荐②区
     links:
