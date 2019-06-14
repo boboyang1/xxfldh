@@ -337,10 +337,6 @@
       style: basic
       url: /shipin/num-9.html
       
-    - name: 鲸鱼视频
-      style: basic
-      url: /shipin/num-6.html
-      
     - name: 雅蠛蝶
       style: basic
       url: /shipin/num-30.html
@@ -648,6 +644,10 @@
     - name: 仙境视频
       style: basic
       url: /shipin/num-61.html
+      
+    - name: 鲸鱼在线
+      style: basic
+      url: /shipin/num-6.html
       
     - name: AV猫
       style: basic
