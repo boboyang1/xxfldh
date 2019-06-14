@@ -581,10 +581,6 @@
       style: basic
       url: /shipin/num-93.html
       
-    - name: AV猫
-      style: pink
-      url: /shipin/num-36.html
-      
     - name: 哟妹在线
       style: basic
       url: /shipin/num-75.html
@@ -648,6 +644,10 @@
     - name: 仙境视频
       style: basic
       url: /shipin/num-61.html
+      
+    - name: AV猫
+      style: basic
+      url: /shipin/num-36.html
       
     - name: gogo在线
       style: basic
