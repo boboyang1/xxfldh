@@ -889,6 +889,10 @@
       style: basic
       url: /daohang/num-54.html
       
+    - name: 大黄狗导航
+      style: basic
+      url: /daohang/num-32.html
+      
     - name: 黄药师导航
       style: basic
       url: /daohang/num-44.html
@@ -908,10 +912,6 @@
     - name: 神马导航
       style: basic
       url: /daohang/num-52.html
-      
-    - name: 大黄狗导航
-      style: basic
-      url: /daohang/num-32.html
 
 - section: THREE
   categories:
