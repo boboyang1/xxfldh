@@ -165,6 +165,10 @@
       icon: amazon pink
       style: basic
       url: /guanggao/num-5.html
+      
+    - name: 嫩模啪啪
+      style: green
+      url: /guanggao/num-19.html
 
   - category: 推荐②区
     links:
@@ -198,11 +202,11 @@
       url: /guanggao/num-52.html
       
     - name: 妈妈乱伦儿子
-      style: green
+      style: basic
       url: /guanggao/num-53.html
       
     - name: 国产网红AV
-      style: green
+      style: basic
       url: /guanggao/num-54.html
       
     - name: 夜猫高清APP
@@ -218,25 +222,21 @@
       url: /guanggao/num-58.html
       
     - name: AV淘宝
-      style: green
+      style: basic
       url: /guanggao/num-8.html
       
     - name: 蛋蛋视频
       style: green
       url: /guanggao/num-15.html
       
-    - name: 蛋蛋视频
+    - name: 爱草国产
       style: green
-      url: /guanggao/num-15.html
+      url: /guanggao/num-16.html
         
     - name: 值得一看
       icon: newspaper
       style: basic
       url: /pages/
-      
-    - name: 爱草国产
-      style: green
-      url: /guanggao/num-16.html
         
     - name: 国产精选系列
       style: basic
@@ -1024,6 +1024,14 @@
       style: basic
       url: /guanggao/num-29.html
       
+    - name: Health²
+      style: basic
+      url: /guanggao/num-22.html
+      
+    - name: 播播影院
+      style: basic
+      url: /guanggao/num-50.html
+      
     - name: 青青草
       style: basic
       url: /guanggao/num-37.html
@@ -1084,6 +1092,10 @@
       style: basic
       url: /guanggao/num-35.html
       
+    - name: 啪啪直播
+      style: basic
+      url: /guanggao/num-19.html
+      
     - name: 抖阴
       style: basic
       url: /guanggao/num-5.html
@@ -1095,10 +1107,6 @@
     - name: 台湾UU
       style: basic
       url: /guanggao/num-41.html
-      
-    - name: Health²
-      style: basic
-      url: /guanggao/num-22.html
       
     - name: BT目录
       style: basic
