@@ -233,6 +233,11 @@
     - name: 爱草国产
       style: green
       url: /guanggao/num-16.html
+      
+    - name: 清纯校花视频
+      icon: violet video
+      style: green
+      url: /guanggao/num-65.html
         
     - name: 值得一看
       icon: newspaper
