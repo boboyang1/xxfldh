@@ -338,10 +338,6 @@
       style: basic
       url: /shipin/num-42.html
       
-    - name: 狼友视频
-      style: basic
-      url: /shipin/num-9.html
-      
     - name: 雅蠛蝶
       style: basic
       url: /shipin/num-30.html
@@ -573,6 +569,10 @@
     - name: 嫖驿站
       style: basic
       url: /shipin/num-7.html
+      
+    - name: 狼友视频
+      style: basic
+      url: /shipin/num-9.html
       
     - name: jav900
       style: basic
