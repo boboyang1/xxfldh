@@ -858,6 +858,10 @@
       style: basic
       url: /daohang/num-18.html
       
+    - name: 大黄狗导航
+      style: basic
+      url: /daohang/num-32.html
+      
     - name: 开心导航
       style: basic
       url: /daohang/num-59.html
@@ -869,10 +873,6 @@
     - name: VZ导航
       style: basic
       url: /daohang/num-54.html
-      
-    - name: 大黄狗导航
-      style: basic
-      url: /daohang/num-32.html
       
     - name: 幼女成人导航
       style: basic
@@ -943,6 +943,10 @@
     - name: 夜色小说
       style: yellow
       url: /xiaoshuo/num-1.html
+
+    - name: 风流小说
+      style: basic
+      url: /xiaoshuo/num-2.html
 
     - name: 锁狼书屋
       style: basic
