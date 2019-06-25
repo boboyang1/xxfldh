@@ -770,6 +770,10 @@
       style: basic
       url: /daohang/num-4.html
       
+    - name: 性吧导航
+      style: basic
+      url: /daohang/num-14.html
+      
     - name: 久久导航
       style: basic
       url: /daohang/num-21.html
@@ -857,10 +861,6 @@
     - name: 999导航
       style: basic
       url: /daohang/num-45.html
-      
-    - name: 性吧导航
-      style: basic
-      url: /daohang/num-14.html
       
     - name: 桃花仙导航
       style: basic
