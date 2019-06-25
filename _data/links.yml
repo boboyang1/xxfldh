@@ -701,6 +701,10 @@
     - name: AVCN导航
       style: basic
       url: /daohang/num-12.html
+      
+    - name: B多多导航
+      style: basic
+      url: /daohang/num-25.html
 
     - name: 唐人社导航
       style: purple
@@ -777,10 +781,6 @@
     - name: 3000佳丽
       style: basic
       url: /daohang/num-53.html
-      
-    - name: B多多导航
-      style: basic
-      url: /daohang/num-25.html
       
     - name: 幼女福利导航
       style: basic
