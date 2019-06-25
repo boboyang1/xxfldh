@@ -714,25 +714,21 @@
       style: basic
       url: /daohang/num-11.html
       
-    - name: 三八福利导航
-      style: basic
-      url: /daohang/num-57.html
-      
     - name: 全球女子大学
       style: basic
       url: /daohang/num-47.html
       
-    - name: 5060导航
-      style: basic
-      url: /daohang/num-16.html
+    - name: 迷妹导航
+      style: green
+      url: /daohang/num-6.html
     
     - name: 骚货导航
       style: basic
       url: /daohang/num-5.html
       
-    - name: 迷妹导航
-      style: green
-      url: /daohang/num-6.html
+    - name: 三八福利导航
+      style: basic
+      url: /daohang/num-57.html
       
     - name: 乱片导航
       style: basic
@@ -746,11 +742,7 @@
       style: basic
       url: /daohang/num-24.html
       
-    - name: 小马导航
-      style: basic
-      url: /daohang/num-38.html
-      
-    - name: KK导航
+    - name: KK福利导航
       style: basic
       url: /daohang/num-22.html
       
@@ -758,9 +750,17 @@
       style: basic
       url: /daohang/num-41.html
       
+    - name: 5060导航
+      style: basic
+      url: /daohang/num-16.html
+      
     - name: 尤物导航
       style: basic
       url: /daohang/num-49.html
+      
+    - name: 小马导航
+      style: basic
+      url: /daohang/num-38.html
       
     - name: 逗趣导航
       style: basic
