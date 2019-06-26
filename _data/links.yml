@@ -705,6 +705,10 @@
     - name: B多多导航
       style: basic
       url: /daohang/num-25.html
+      
+    - name: 银色导航
+      style: basic
+      url: /daohang/num-35.html
 
     - name: 唐人社导航
       style: purple
@@ -805,10 +809,6 @@
     - name: 绿萝导航
       style: basic
       url: /daohang/num-39.html
-      
-    - name: 银色导航
-      style: basic
-      url: /daohang/num-35.html
       
     - name: 暗黑萝莉
       style: basic
