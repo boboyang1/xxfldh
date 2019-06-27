@@ -178,7 +178,7 @@
       url: /guanggao/num-21.html
       
     - name: 果聊直播
-      style: green
+      style: basic
       url: /guanggao/num-41.html
       
     - name: 成人app大全
@@ -243,6 +243,14 @@
     - name: 网红直播啪啪
       style: green
       url: /guanggao/num-43.html
+      
+    - name: 杨幂迷奸视频
+      style: green
+      url: /guanggao/num-66.html
+      
+    - name: 开房记录查询
+      style: green
+      url: /guanggao/num-67.html
         
     - name: 值得一看
       icon: newspaper
