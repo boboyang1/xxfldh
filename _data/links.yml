@@ -442,10 +442,6 @@
       style: basic
       url: /shipin/num-48.html
       
-    - name: 腐女在线
-      style: basic
-      url: /shipin/num-53.html
-      
     - name: 哟妹在线
       style: basic
       url: /shipin/num-75.html
@@ -773,10 +769,6 @@
     - name: 3000佳丽
       style: basic
       url: /daohang/num-53.html
-      
-    - name: 幼女福利导航
-      style: basic
-      url: /daohang/num-29.html
 
     - name: 74福利导航
       style: basic
@@ -833,6 +825,10 @@
     - name: 51区
       style: basic
       url: /daohang/num-4.html
+      
+    - name: 幼女福利导航
+      style: basic
+      url: /daohang/num-29.html
       
     - name: 色学堂导航
       style: basic
