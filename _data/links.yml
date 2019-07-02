@@ -922,6 +922,10 @@
       
   - category: 高清资源
     links:
+    - name: 台湾UU
+      style: basic
+      url: /guanggao/num-41.html
+
     - name: LuTuBe
       style: basic
       url: /guanggao/num-45.html
@@ -1025,11 +1029,7 @@
     - name: 右左网
       style: basic
       url: /guanggao/num-48.html
-      
-    - name: 台湾UU
-      style: basic
-      url: /guanggao/num-41.html
-      
+ 
     - name: BT目录
       style: basic
       url: /cili/num-1.html
