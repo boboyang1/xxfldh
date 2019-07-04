@@ -646,7 +646,7 @@
 
     - name: 唐人社导航
       icon: hotjar olive
-      style: purple
+      style: basic
       url: /daohang/num-23.html
       
     - name: 136福利导航
