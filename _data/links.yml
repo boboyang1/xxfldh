@@ -465,7 +465,8 @@
       url: /shipin/num-26.html
       
     - name: 天天色综合
-      style: blue
+      icon: tumblr olive
+      style: basic
       url: /shipin/num-9.html
       
     - name: 哟妹在线
