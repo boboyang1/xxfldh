@@ -3,7 +3,7 @@
   url: http://www.leisitu.info/search.php?q=
   shortcut: 蕾丝兔
   icon: yelp
-  style: blue
+  style: red
   
 - id: yxj
   name: 野香蕉
@@ -11,14 +11,14 @@
   suffix: ".html"
   shortcut: 野香蕉
   icon: google play
-  style: green
+  style: red
   
 - id: trs
   name: 唐人社
   url: https://www.trsdh.xyz/?adref=xxfldh_com
   shortcut: 唐人社
   icon: hotjar
-  style: purple
+  style: red
   
 - id: ggsp
   name: 光棍
