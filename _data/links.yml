@@ -1038,6 +1038,7 @@
   - category: 动漫ACG
     links:
     - name: 成人動漫
+      icon: adn violet
       style: basic
       url: /dongman/num-1.html
       
