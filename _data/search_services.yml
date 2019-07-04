@@ -10,14 +10,14 @@
   url: https://www.xjsp.cool/index.php?m=vod-search-wd-
   suffix: ".html"
   shortcut: 野香蕉
-  icon: google play red
+  icon: google play
   style: black
   
 - id: trs
   name: 唐人社
   url: https://www.trsdh.xyz/?adref=xxfldh_com
   shortcut: 唐人社
-  icon: hotjar pink
+  icon: hotjar red
   style: black
   
 - id: ggsp
