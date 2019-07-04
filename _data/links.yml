@@ -312,7 +312,7 @@
     links:
     - name: 哦叉叉国产
       icon: youtube red
-      style: purple
+      style: basic
       url: /guanggao/num-1.html
     
     - name: 蕾丝兔
@@ -321,7 +321,7 @@
     
     - name: 香蕉视频
       icon: youtube red
-      style: violet
+      style: basic
       url: /shipin/num-1.html
       
     - name: 花社
