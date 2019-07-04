@@ -669,7 +669,8 @@
       url: /daohang/num-47.html
       
     - name: 迷妹导航
-      style: green
+      icon: react black
+      style: basic
       url: /daohang/num-6.html
     
     - name: 骚货导航
