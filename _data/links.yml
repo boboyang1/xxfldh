@@ -843,6 +843,8 @@
   - category: 论坛博客
     links:
     - name: 蕾丝兔宝宝
+      icon: tumblr 
+      
       style: basic
       url: /boke/num-1.html
             
@@ -914,10 +916,6 @@
       
   - category: 高清资源
     links:
-    - name: 台湾UU
-      style: basic
-      url: /guanggao/num-41.html
-
     - name: LuTuBe
       style: basic
       url: /guanggao/num-45.html
@@ -1018,6 +1016,10 @@
       style: basic
       url: /guanggao/num-19.html
       
+    - name: 台湾UU
+      style: basic
+      url: /guanggao/num-41.html
+      
     - name: 右左网
       style: basic
       url: /guanggao/num-48.html
@@ -1091,7 +1093,8 @@
   - category: 国外视频
     links:
     - name: 点我翻墙
-      style: blue
+      icon: quora red
+      style: basic
       url: /guowai/num-1.html
       
     - name: Banana
