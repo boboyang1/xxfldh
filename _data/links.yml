@@ -635,7 +635,8 @@
       url: /daohang/num-15.html
       
     - name: 芒果导航
-      style: yellow
+      icon: medium yellow
+      style: basic
       url: /daohang/num-8.html
       
     - name: AVCN导航
