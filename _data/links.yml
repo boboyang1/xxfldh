@@ -889,6 +889,7 @@
   - category: 福利小说
     links:
     - name: 夜色小说
+      icon: yahoo violet
       style: basic
       url: /xiaoshuo/num-1.html
 
