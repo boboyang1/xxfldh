@@ -2,30 +2,30 @@
   name: 蕾丝兔
   url: http://www.leisitu.info/search.php?q=
   shortcut: 蕾丝兔
-  icon: yelp
-  style: red
+  icon: yelp lilac
+  style: black
   
 - id: yxj
   name: 野香蕉
   url: https://www.xjsp.cool/index.php?m=vod-search-wd-
   suffix: ".html"
   shortcut: 野香蕉
-  icon: google play
-  style: red
+  icon: google play red
+  style: black
   
 - id: trs
   name: 唐人社
   url: https://www.trsdh.xyz/?adref=xxfldh_com
   shortcut: 唐人社
-  icon: hotjar
-  style: red
+  icon: hotjar pink
+  style: black
   
 - id: ggsp
   name: 光棍
   url: https://home.qq.com.www-qq-com.com
   shortcut: 光棍
-  icon: google
-  style: red
+  icon: google yellow
+  style: black
   
 - id: baidu
   name: 百度
