@@ -486,10 +486,6 @@
       style: basic
       url: /shipin/num-27.html
       
-    - name: 空姐视频
-      style: basic
-      url: /shipin/num-88.html
-      
     - name: 爱有色网
       style: basic
       url: /shipin/num-19.html
@@ -553,6 +549,10 @@
     - name: 少女
       style: basic
       url: /shipin/num-66.html
+      
+    - name: 空姐视频
+      style: basic
+      url: /shipin/num-88.html
       
     - name: 萝莉TV
       style: basic
