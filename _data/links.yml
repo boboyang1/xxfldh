@@ -378,10 +378,6 @@
       style: basic
       url: /shipin/num-92.html
       
-    - name: 天天色综合
-      style: blue
-      url: /shipin/num-9.html
-      
     - name: 欧美色妞
       style: basic
       url: /shipin/num-71.html
@@ -473,6 +469,10 @@
     - name: 小学生视频
       style: basic
       url: /shipin/num-26.html
+      
+    - name: 天天色综合
+      style: blue
+      url: /shipin/num-9.html
       
     - name: 哟妹在线
       style: basic
