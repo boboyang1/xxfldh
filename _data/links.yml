@@ -842,8 +842,8 @@
   categories:
   - category: 论坛博客
     links:
-    - name: 蕾丝兔
-      style: violet
+    - name: 蕾丝兔宝宝
+      style: basic
       url: /boke/num-1.html
             
     - name: 萝莉UU社区
@@ -881,7 +881,7 @@
   - category: 福利小说
     links:
     - name: 夜色小说
-      style: yellow
+      style: basic
       url: /xiaoshuo/num-1.html
 
     - name: 风流小说
