@@ -689,10 +689,6 @@
       style: basic
       url: /daohang/num-7.html
       
-    - name: 酷狗导航
-      style: basic
-      url: /daohang/num-26.html
-      
     - name: 艾薇导航
       style: basic
       url: /daohang/num-43.html
@@ -756,6 +752,10 @@
     - name: 暗黑萝莉
       style: basic
       url: /daohang/num-10.html
+      
+    - name: 酷狗导航
+      style: basic
+      url: /daohang/num-26.html
       
     - name: 苍狼导航
       style: basic
