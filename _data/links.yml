@@ -906,10 +906,6 @@
     - name: 色猫咪社区
       style: basic
       url: /luntan/num-2.html
-            
-    - name: 七色论坛
-      style: basic
-      url: /luntan/num-7.html
       
     - name: 性吧论坛
       style: basic
