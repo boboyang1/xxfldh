@@ -960,6 +960,10 @@
       
   - category: 高清资源
     links:
+    - name: BT目录
+      style: basic
+      url: /shipin/num-45.html
+      
     - name: LuTuBe
       style: basic
       url: /guanggao/num-45.html
@@ -1071,10 +1075,10 @@
     - name: 右左网
       style: basic
       url: /guanggao/num-48.html
- 
-    - name: BT目录
+      
+    - name: 共享盒子
       style: basic
-      url: /shipin/num-45.html
+      url: /guanggao/num-58.html
       
   - category: 动漫ACG
     links:
