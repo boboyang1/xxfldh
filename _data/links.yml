@@ -648,21 +648,10 @@
       
 
   - category: 福利导航
-    links:       
-    - name: 找AV123
-      icon: amazon green
+    links: 
+    - name: 136福利导航
       style: basic
-      url: /daohang/num-1.html
-      
-    - name: 皮皮虾导航
-      icon: product hunt pink
-      style: basic
-      url: /daohang/num-15.html
-      
-    - name: 芒果导航
-      icon: medium yellow
-      style: basic
-      url: /daohang/num-8.html
+      url: /daohang/num-20.html
       
     - name: AVCN导航
       style: basic
@@ -671,15 +660,31 @@
     - name: B多多导航
       style: basic
       url: /daohang/num-25.html
+      
+    - name: 芒果导航
+      icon: medium yellow
+      style: basic
+      url: /daohang/num-8.html
+      
+    - name: 迷妹导航
+      icon: medium m purple
+      style: basic
+      url: /daohang/num-6.html
+      
+    - name: 皮皮虾导航
+      icon: product hunt pink
+      style: basic
+      url: /daohang/num-15.html
+      
+    - name: 找AV123
+      icon: amazon green
+      style: basic
+      url: /daohang/num-1.html
 
     - name: 唐人社导航
       icon: hotjar red
       style: basic
       url: /daohang/num-23.html
-      
-    - name: 136福利导航
-      style: basic
-      url: /daohang/num-20.html
       
     - name: 银色导航
       style: basic
@@ -696,11 +701,6 @@
     - name: 全球女子大学
       style: basic
       url: /daohang/num-47.html
-      
-    - name: 迷妹导航
-      icon: medium m purple
-      style: basic
-      url: /daohang/num-6.html
     
     - name: 骚货导航
       style: basic
