@@ -675,11 +675,6 @@
       icon: product hunt pink
       style: basic
       url: /daohang/num-15.html
-      
-    - name: 找AV123
-      icon: amazon green
-      style: basic
-      url: /daohang/num-1.html
 
     - name: 唐人社导航
       icon: hotjar red
@@ -881,6 +876,11 @@
     - name: 打飞机导航
       style: basic
       url: /daohang/num-48.html
+      
+    - name: 找AV123
+      icon: amazon green
+      style: basic
+      url: /daohang/num-1.html
 
 - section: THREE
   categories:
