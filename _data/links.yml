@@ -310,19 +310,14 @@
   categories:
   - category: 在线视频
     links:
-    - name: 哦叉叉国产
-      icon: youtube red
-      style: basic
-      url: /guanggao/num-1.html
-    
-    - name: 蕾丝兔
-      style: basic
-      url: /luntan/num-7.html
-    
     - name: 香蕉视频
       icon: video orange
       style: basic
       url: /shipin/num-1.html
+    
+    - name: 蕾丝兔
+      style: basic
+      url: /luntan/num-7.html
       
     - name: 花社
       style: basic
