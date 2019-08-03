@@ -649,6 +649,11 @@
 
   - category: 福利导航
     links: 
+    - name: 找AV123
+      icon: amazon green
+      style: basic
+      url: /daohang/num-1.html
+      
     - name: 136福利导航
       style: basic
       url: /daohang/num-20.html
@@ -889,10 +894,6 @@
       style: basic
       url: /daohang/num-48.html
       
-    - name: 找AV123
-      icon: amazon green
-      style: basic
-      url: /daohang/num-1.html
 
 - section: THREE
   categories:
