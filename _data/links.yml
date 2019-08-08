@@ -856,10 +856,6 @@
       style: basic
       url: /daohang/num-59.html
       
-    - name: 75导航
-      style: basic
-      url: /daohang/num-30.html
-      
     - name: 鬼父导航
       style: basic
       url: /daohang/num-13.html
@@ -867,6 +863,10 @@
     - name: 看看批导航
       style: basic
       url: /daohang/num-58.html
+      
+    - name: 福利吧导航
+      style: basic
+      url: /daohang/num-63.html
       
     - name: 小黄妹导航
       style: basic
