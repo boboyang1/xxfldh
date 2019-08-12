@@ -527,10 +527,6 @@
       style: basic
       url: /shipin/num-48.html
       
-    - name: 色狗视频
-      style: basic
-      url: /shipin/num-33.html
-      
     - name: XO酱
       style: basic
       url: /shipin/num-67.html
@@ -563,6 +559,10 @@
       icon: stripe s orange
       style: basic
       url: /shipin/num-91.html
+      
+    - name: 色狗视频
+      style: basic
+      url: /shipin/num-33.html
       
     - name: 欲仙阁
       style: basic
