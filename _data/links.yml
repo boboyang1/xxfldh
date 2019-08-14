@@ -892,10 +892,6 @@
     - name: 大黄狗导航
       style: basic
       url: /daohang/num-32.html
-    
-    - name: 唐门导航
-      style: basic
-      url: /daohang/num-62.html
       
     - name: 全球女子大学
       style: basic
