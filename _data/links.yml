@@ -165,11 +165,7 @@
 
     - name: 直播看片盒子
       style: blue
-      url: /guanggao/num-13.html
-      
-    - name: 解锁看片VPN
-      style: blue
-      url: /guanggao/num-23.html
+      url: /guanggao/num-75.html
 
   - category: 推荐②区
     links:
@@ -1134,6 +1130,10 @@
       
   - category: 动漫ACG
     links:
+    - name: 翻墙VPN
+      style: basic
+      url: /guanggao/num-23.html
+      
     - name: 成人動漫
       icon: amilia violet
       style: basic
