@@ -713,6 +713,10 @@
       style: basic
       url: /daohang/num-11.html
       
+    - name: 皮卡丘导航
+      style: basic
+      url: /daohang/num-66.html
+      
     - name: 啪啪导航
       style: basic
       url: /daohang/num-37.html
@@ -820,10 +824,6 @@
     - name: 78福利导航
       style: basic
       url: /daohang/num-2.html
-      
-    - name: 皮卡丘导航
-      style: basic
-      url: /daohang/num-66.html
       
     - name: 撸至深导航
       style: basic
