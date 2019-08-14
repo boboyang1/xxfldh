@@ -376,10 +376,6 @@
       style: basic
       url: /shipin/num-41.html
       
-    - name: 欧美色妞
-      style: basic
-      url: /shipin/num-71.html
-      
     - name: 火逼网
       style: basic
       url: /shipin/num-18.html
@@ -526,6 +522,10 @@
     - name: 鲸鱼视频
       style: basic
       url: /shipin/num-5.html
+      
+    - name: 欧美色妞
+      style: basic
+      url: /shipin/num-71.html
       
     - name: 久草在线
       style: basic
