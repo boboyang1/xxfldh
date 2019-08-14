@@ -857,10 +857,6 @@
       style: basic
       url: /daohang/num-19.html
       
-    - name: 闽A导航
-      style: basic
-      url: /daohang/num-33.html
-      
     - name: 开心导航
       style: basic
       url: /daohang/num-59.html
@@ -876,6 +872,10 @@
     - name: 福利吧导航
       style: basic
       url: /daohang/num-63.html
+      
+    - name: 闽A导航
+      style: basic
+      url: /daohang/num-33.html
       
     - name: 小黄妹导航
       style: basic
