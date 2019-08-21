@@ -1006,13 +1006,17 @@
   - category: 福利小说
     links:
     - name: 锁狼书屋
-      icon: hotjar pink
+      icon: hotjar green
       style: basic
       url: /xiaoshuo/num-7.html
       
     - name: 夜色小说
       style: basic
       url: /xiaoshuo/num-1.html
+      
+    - name: 十八万小说
+      style: basic
+      url: /xiaoshuo/num-2.html
 
     - name: 杏吧小说
       style: basic
