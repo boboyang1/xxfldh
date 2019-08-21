@@ -1011,13 +1011,8 @@
       url: /xiaoshuo/num-7.html
       
     - name: 夜色小说
-      icon: hacker news violet
       style: basic
       url: /xiaoshuo/num-1.html
-
-    - name: 风流小说
-      style: basic
-      url: /xiaoshuo/num-2.html
 
     - name: 杏吧小说
       style: basic
