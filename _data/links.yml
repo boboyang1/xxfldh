@@ -457,6 +457,10 @@
       style: basic
       url: /shipin/num-14.html
       
+    - name: 妹妹在线
+      style: basic
+      url: /shipin/num-16.html
+      
     - name: 小学生视频
       style: basic
       url: /shipin/num-26.html
@@ -704,10 +708,6 @@
       icon: blogger b teal
       style: basic
       url: /shipin/num-53.html
-      
-    - name: 妹妹在线
-      style: basic
-      url: /shipin/num-16.html
       
 
   - category: 福利导航
