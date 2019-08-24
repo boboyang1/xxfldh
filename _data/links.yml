@@ -424,10 +424,6 @@
       style: basic
       url: /shipin/num-40.html
       
-    - name: 成人妇科
-      style: basic
-      url: /shipin/num-42.html
-      
     - name: 亚色中文网
       style: basic
       url: /shipin/num-59.html
@@ -464,6 +460,10 @@
     - name: 小学生视频
       style: basic
       url: /shipin/num-26.html
+      
+    - name: 成人妇科
+      style: basic
+      url: /shipin/num-42.html
       
     - name: 超級片社區
       style: basic
