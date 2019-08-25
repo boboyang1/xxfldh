@@ -352,10 +352,6 @@
       style: basic
       url: /shipin/num-17.html
       
-    - name: 1024视频
-      style: basic
-      url: /shipin/num-98.html
-      
     - name: ADC影院
       style: basic
       url: /shipin/num-37.html
@@ -375,6 +371,10 @@
     - name: 肉欲
       style: basic
       url: /shipin/num-21.html
+      
+    - name: 1024在线视频
+      style: basic
+      url: /shipin/num-98.html
       
     - name: 色天堂
       style: basic
