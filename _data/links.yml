@@ -485,10 +485,6 @@
       style: basic
       url: /shipin/num-4.html
       
-    - name: 爱啪网
-      style: basic
-      url: /shipin/num-94.html
-      
     - name: 7M视频
       style: basic
       url: /shipin/num-29.html
@@ -676,6 +672,10 @@
     - name: 精品av福利
       style: basic
       url: /shipin/num-39.html
+      
+    - name: 爱啪网
+      style: basic
+      url: /shipin/num-94.html
       
 
   - category: 福利导航
