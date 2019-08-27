@@ -697,6 +697,29 @@
       style: basic
       url: /daohang/num-1.html
       
+    - name: 芒果导航
+      icon: medium yellow
+      style: basic
+      url: /daohang/num-8.html
+      
+    - name: 皮皮虾导航
+      icon: product hunt pink
+      style: basic
+      url: /daohang/num-15.html
+      
+    - name: 迷妹导航
+      icon: medium m purple
+      style: basic
+      url: /daohang/num-6.html
+      
+    - name: KK福利导航
+      style: basic
+      url: /daohang/num-22.html
+      
+    - name: 皮卡丘导航
+      style: basic
+      url: /daohang/num-66.html
+      
     - name: 136福利导航
       style: basic
       url: /daohang/num-20.html
@@ -704,38 +727,19 @@
     - name: AVCN导航
       style: basic
       url: /daohang/num-12.html
-      
-    - name: B多多导航
-      style: basic
-      url: /daohang/num-25.html
-      
-    - name: 芒果导航
-      icon: medium yellow
-      style: basic
-      url: /daohang/num-8.html
-      
-    - name: 迷妹导航
-      icon: medium m purple
-      style: basic
-      url: /daohang/num-6.html
-      
-    - name: 皮皮虾导航
-      icon: product hunt pink
-      style: basic
-      url: /daohang/num-15.html
 
     - name: 唐人社导航
       icon: hotjar red
       style: basic
       url: /daohang/num-23.html
       
+    - name: B多多导航
+      style: basic
+      url: /daohang/num-25.html
+      
     - name: 银色导航
       style: basic
       url: /daohang/num-35.html
-      
-    - name: 皮卡丘导航
-      style: basic
-      url: /daohang/num-66.html
       
     - name: 啪啪导航
       style: basic
@@ -756,10 +760,6 @@
     - name: 三八福利导航
       style: basic
       url: /daohang/num-57.html
-      
-    - name: KK福利导航
-      style: basic
-      url: /daohang/num-22.html
       
     - name: 雪女导航
       style: basic
