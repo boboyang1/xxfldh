@@ -793,6 +793,10 @@
       style: basic
       url: /daohang/num-30.html
       
+    - name: 粉色导航
+      style: basic
+      url: /daohang/num-58.html
+      
     - name: 5060导航
       style: basic
       url: /daohang/num-16.html
@@ -840,10 +844,6 @@
     - name: 撸至深导航
       style: basic
       url: /daohang/num-50.html
-      
-    - name: 粉色导航
-      style: basic
-      url: /daohang/num-58.html
       
     - name: 一起撸导航
       style: basic
