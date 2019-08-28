@@ -645,10 +645,6 @@
       style: basic
       url: /shipin/num-25.html
       
-    - name: 青娱乐
-      style: basic
-      url: /shipin/num-34.html
-      
     - name: 超级硬
       style: basic
       url: /shipin/num-65.html
@@ -756,10 +752,6 @@
     - name: 一休导航
       style: basic
       url: /daohang/num-60.html
-      
-    - name: 青年涩站大全
-      style: basic
-      url: /daohang/num-42.html
       
     - name: 大湿胸导航
       style: basic
@@ -944,6 +936,10 @@
     - name: 吾爱导航
       style: basic
       url: /daohang/num-4.html
+      
+    - name: 青年涩站大全
+      style: basic
+      url: /daohang/num-42.html
       
     - name: 暗黑萝莉
       style: basic
