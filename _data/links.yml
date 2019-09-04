@@ -977,9 +977,13 @@
       style: basic
       url: /daohang/num-10.html
       
-    - name: 一休导航
+    - name: 玖狐狸导航
       style: basic
       url: /daohang/num-73.html
+      
+    - name: 一休导航
+      style: basic
+      url: /daohang/num-74.html
       
 
 - section: THREE
