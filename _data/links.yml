@@ -322,6 +322,10 @@
       icon: video orange
       style: basic
       url: /shipin/num-1.html
+      
+    - name: 硬汉免费视频
+      style: basic
+      url: /guanggao/num-1.html
     
     - name: 蕾丝兔
       style: basic
