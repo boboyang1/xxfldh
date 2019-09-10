@@ -885,10 +885,6 @@
       style: basic
       url: /daohang/num-50.html
       
-    - name: 小表妹导航
-      style: basic
-      url: /daohang/num-27.html
-      
     - name: 一起撸导航
       style: basic
       url: /daohang/num-9.html
@@ -1008,6 +1004,10 @@
     - name: 爱心导航
       style: basic
       url: /daohang/num-69.html
+      
+    - name: 小表妹导航
+      style: basic
+      url: /daohang/num-27.html
       
     - name: 玖狐狸导航
       style: basic
