@@ -185,7 +185,7 @@
       style: teal
       url: /guanggao/num-48.html
       
-    - name: 野战户外直播
+    - name: 呦幼次元
       style: teal
       url: /guanggao/num-49.html
       
@@ -335,6 +335,10 @@
     - name: 蕾丝兔
       style: basic
       url: /luntan/num-7.html
+    
+    - name: 呦幼次元
+      style: teal
+      url: /guanggao/num-49.html
       
     - name: 花社视频
       style: basic
