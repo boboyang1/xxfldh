@@ -54,10 +54,6 @@
       style: purple
       url: /guanggao/num-18.html
       
-    - name: 奶昔直播
-      style: purple
-      url: /guanggao/num-55.html
-      
     - name: 2019艳照门
       style: purple
       url: /guanggao/num-35.html
@@ -1191,10 +1187,6 @@
     - name: 豌豆直播
       style: basic
       url: /guanggao/num-18.html
-      
-    - name: 奶昔
-      style: basic
-      url: /guanggao/num-55.html
       
     - name: 炮炮视频
       style: basic
