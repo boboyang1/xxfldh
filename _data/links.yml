@@ -142,6 +142,10 @@
     - name: 小妖精APP
       style: blue
       url: /guanggao/num-52.html
+      
+    - name: 番茄社区app
+      style: teal
+      url: /guanggao/num-58.html
 
     - name: 美女福利直播
       style: blue
@@ -180,10 +184,6 @@
     - name: 夜猫高清APP
       style: teal
       url: /guanggao/num-56.html
-      
-    - name: 免费看黄直播
-      style: teal
-      url: /guanggao/num-58.html
       
     - name: AV淘宝
       style: teal
@@ -231,7 +231,7 @@
       
     - name: 黄瓜视频app
       style: teal
-      url: /guanggao/num-68.html
+      url: /guanggao/num-58.html
       
     - name: AV女优Top100
       style: teal
