@@ -697,6 +697,10 @@
     - name: 金瓶梅视频
       style: basic
       url: /shipin/num-106.html
+
+    - name: 热爱小姐姐
+      style: blue
+      url: /guanggao/num-30.html
       
     - name: 爱啪网
       style: basic
