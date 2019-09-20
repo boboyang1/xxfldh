@@ -292,7 +292,12 @@
       style: basic
       url: /guanggao/num-76.html
       
-    - name: 香蕉视频
+    - name: 芒果视频
+      icon: google play olive
+      style: basic
+      url: /guanggao/num-53.html
+      
+    - name: 香蕉在线
       icon: video orange
       style: basic
       url: /shipin/num-1.html
