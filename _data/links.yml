@@ -567,7 +567,11 @@
     - name: 欧美色妞
       style: basic
       url: /shipin/num-71.html
-      
+       
+    - name: 天使涩
+      style: basic
+      url: /shipin/num-113.html
+           
     - name: 久草在线
       style: basic
       url: /shipin/num-48.html
@@ -1026,10 +1030,6 @@
     - name: 动车导航
       style: basic
       url: /daohang/num-28.html
-      
-    - name:  天使涩
-      style: basic
-      url: /daohang/num-92.html
        
     - name: 999导航
       style: basic
