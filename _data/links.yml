@@ -1130,6 +1130,10 @@
     - name: 一休导航
       style: basic
       url: /daohang/num-74.html
+            
+    - name: 京东福利导航
+      style: basic
+      url: /daohang/num-92.html
       
 
 - section: THREE
