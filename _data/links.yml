@@ -758,6 +758,10 @@
     - name: 超级硬
       style: basic
       url: /shipin/num-65.html
+      
+    - name: 深夜豆浆
+      style: basic
+      url: /shipin/num-127.html
             
     - name: 优B库
       style: basic
