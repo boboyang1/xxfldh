@@ -150,6 +150,14 @@
     - name: 番茄社区app
       style: blue
       url: /guanggao/num-58.html
+     
+    - name: 羞涩萝莉视频
+      style: blue
+      url: /guanggao/num-55.html
+     
+    - name: 杏吧成人论坛
+      style: blue
+      url: /guanggao/num-64.html
 
     - name: 美女福利直播
       style: blue
@@ -162,10 +170,6 @@
     - name: 脱裤吧视频
       style: blue
       url: /guanggao/num-70.html
-     
-    - name: 羞涩萝莉视频
-      style: blue
-      url: /guanggao/num-55.html
 
   - category: 推荐②区
     links:
