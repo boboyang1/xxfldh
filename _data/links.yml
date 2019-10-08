@@ -341,10 +341,6 @@
     - name: 蕾丝兔
       style: basic
       url: /luntan/num-7.html
-    
-    - name: 呦幼次元
-      style: basic
-      url: /guanggao/num-49.html
       
     - name: 花社视频
       style: basic
@@ -1399,6 +1395,10 @@
     - name: 台湾UU
       style: basic
       url: /guanggao/num-41.html
+    
+    - name: 呦幼次元
+      style: basic
+      url: /guanggao/num-49.html
       
     - name: 右左网
       style: basic
@@ -1407,10 +1407,6 @@
     - name: 番茄宝盒
       style: basic
       url: /guanggao/num-58.html
-      
-    - name: 阿福宝盒
-      style: basic
-      url: /guanggao/num-43.html
       
   - category: 动漫ACG
     links:
