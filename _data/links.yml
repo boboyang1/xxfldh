@@ -1221,6 +1221,10 @@
     - name: 微色福利导航
       style: basic
       url: /daohang/num-97.html
+                        
+    - name: 狼友吧导航
+      style: basic
+      url: /daohang/num-98.html
                   
     - name: 伊甸园导航
       style: basic
