@@ -1217,6 +1217,10 @@
     - name: 京东福利导航
       style: basic
       url: /daohang/num-92.html
+                  
+    - name: 伊甸园导航
+      style: basic
+      url: /daohang/num-96.html
       
 
 - section: THREE
