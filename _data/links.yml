@@ -849,6 +849,10 @@
     - name: 番茄娘
       style: basic
       url: /shipin/num-114.html
+                  
+    - name: 私蜜365 
+      style: basic
+      url: /shipin/num-130.html
       
 
   - category: 福利导航
@@ -1234,10 +1238,7 @@
       style: basic
       url: /daohang/num-96.html
                         
-    - name: 私蜜365
-      style: basic
-      url: /daohang/num-100.html
-      
+
 
       
 
