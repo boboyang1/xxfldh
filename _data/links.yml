@@ -769,6 +769,10 @@
     - name: 粉萝莉
       style: basic
       url: /shipin/num-121.html
+            
+    - name: 番号猫在线 
+      style: basic
+      url: /shipin/num-135.html
       
     - name: 吾要呦呦
       style: basic
@@ -1257,7 +1261,7 @@
                         
     - name: 红楼梦导航
       style: basic
-      url: /daohang/num-102.html
+      url: /daohang/num-1.html
                               
     - name: 柠檬福利导航 
       style: basic
