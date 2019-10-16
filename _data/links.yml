@@ -458,6 +458,10 @@
     - name: 蜜桃精品
       style: basic
       url: /shipin/num-10.html
+            
+    - name: 微博爸爸
+      style: basic
+      url: /shipin/num-138.html
       
     - name: 左爱精品
       style: basic
