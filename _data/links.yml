@@ -150,10 +150,6 @@
     - name: 小妖精APP
       style: blue
       url: /guanggao/num-52.html
-      
-    - name: 番茄社区app
-      style: blue
-      url: /guanggao/num-58.html
      
     - name: 羞涩萝莉视频
       style: blue
@@ -185,7 +181,7 @@
         
     - name: 国产剧情大全
       style: blue
-      url: /guanggao/num-86.html
+      url: /guanggao/num-84.html
 
     - name: 美女福利直播
       style: blue
@@ -366,10 +362,15 @@
       style: basic
       url: /guanggao/num-49.html
       
-    - name: 香蕉在线
+    - name: 香蕉精品
       icon: video orange
       style: basic
       url: /shipin/num-1.html
+      
+    - name: 高清秒播在线
+      icon: stripe s green
+      style: basic
+      url: /guanggao/num-85.html
     
     - name: 蕾丝兔
       style: basic
@@ -1446,17 +1447,9 @@
       style: basic
       url: /guanggao/num-48.html
       
-    - name: 番茄宝盒
+    - name: 湿兄精选
       style: basic
       url: /guanggao/num-58.html
-      
-    - name: 免费看APP大全
-      style: basic
-      url: /guanggao/num-84.html
-      
-    - name: 成人直播大全
-      style: basic
-      url: /guanggao/num-85.html
       
   - category: 动漫ACG
     links:
