@@ -392,10 +392,6 @@
       style: basic
       url: /shipin/num-38.html
       
-    - name: 擼友吧社區
-      style: basic
-      url: /shipin/num-52.html
-      
     - name: 玉皇大帝
       style: basic
       url: /shipin/num-85.html
@@ -427,6 +423,10 @@
     - name: 色天堂
       style: basic
       url: /shipin/num-74.html
+      
+    - name: 擼友吧社區
+      style: basic
+      url: /shipin/num-52.html
       
     - name: 火逼网
       style: basic
