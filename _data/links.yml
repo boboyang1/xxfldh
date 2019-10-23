@@ -922,6 +922,10 @@
     - name: AVCN导航
       style: basic
       url: /daohang/num-12.html
+      
+    - name: 冰点导航
+      style: basic
+      url: /daohang/num-60.html
 
     - name: 唐人社导航
       icon: hotjar red
