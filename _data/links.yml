@@ -416,10 +416,6 @@
       style: basic
       url: /shipin/num-21.html
       
-    - name: 1024在线视频
-      style: basic
-      url: /shipin/num-98.html
-      
     - name: 色天堂
       style: basic
       url: /shipin/num-74.html
@@ -782,6 +778,10 @@
     - name: 深夜豆浆
       style: basic
       url: /shipin/num-127.html
+      
+    - name: 1024在线视频
+      style: basic
+      url: /shipin/num-98.html
                   
     - name: 皇室AV
       style: basic
