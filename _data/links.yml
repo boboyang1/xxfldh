@@ -814,6 +814,10 @@
     - name: 小日本视频
       style: basic
       url: /shipin/num-123.html
+      
+    - name: 色窝阁
+      style: basic
+      url: /shipin/num-54.html
             
     - name: 微博爸爸
       style: basic
