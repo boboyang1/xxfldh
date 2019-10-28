@@ -1,8 +1,8 @@
-- id: lst
-  name: 蕾丝兔
-  url: http://www.leisitu.vip/search.php?q=
-  shortcut: 蕾丝兔
-  icon: yelp pink
+- id: jjc
+  name: 久久草
+  url: http://www.jiujiucao.me/
+  shortcut: 久久草
+  icon: amilia yellow
   style: black
   
 - id: yxj
@@ -13,18 +13,18 @@
   icon: google play orange
   style: black
   
+- id: lst
+  name: 蕾丝兔
+  url: http://www.leisitu.vip/search.php?q=
+  shortcut: 蕾丝兔
+  icon: yelp pink
+  style: black
+  
 - id: trs
   name: 唐人社
   url: https://www.trsdh.vip/?adref=xxfldh_com
   shortcut: 唐人社
   icon: hotjar red
-  style: black
-  
-- id: jjc
-  name: 久久草
-  url: http://www.jiujiucao.me/
-  shortcut: 久久草
-  icon: amilia yellow
   style: black
   
 - id: baidu
