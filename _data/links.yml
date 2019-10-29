@@ -1044,10 +1044,6 @@
       style: basic
       url: /daohang/num-52.html
       
-    - name: 鬼父导航
-      style: basic
-      url: /daohang/num-13.html
-      
     - name: 爱导航
       style: basic
       url: /daohang/num-71.html
@@ -1195,6 +1191,10 @@
     - name: 藏鸡阁导航
       style: basic
       url: /daohang/num-48.html
+      
+    - name: 鬼父导航
+      style: basic
+      url: /daohang/num-13.html
       
       
                         
