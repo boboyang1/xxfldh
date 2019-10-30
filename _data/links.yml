@@ -764,6 +764,10 @@
       style: basic
       url: /daohang/num-6.html
       
+    - name: B多多导航
+      style: basic
+      url: /daohang/num-25.html
+      
     - name: 芒果导航
       icon: medium yellow
       style: basic
@@ -780,10 +784,6 @@
     - name: 艾薇导航
       style: basic
       url: /daohang/num-43.html
-      
-    - name: B多多导航
-      style: basic
-      url: /daohang/num-25.html
       
     - name: 皮皮虾导航
       icon: product hunt pink
