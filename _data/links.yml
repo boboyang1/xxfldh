@@ -777,10 +777,6 @@
       style: basic
       url: /daohang/num-20.html
       
-    - name: 皮卡丘导航
-      style: basic
-      url: /daohang/num-66.html
-      
     - name: 艾薇导航
       style: basic
       url: /daohang/num-43.html
@@ -821,6 +817,10 @@
     - name: 一起撸导航
       style: basic
       url: /daohang/num-9.html
+      
+    - name: 皮卡丘导航
+      style: basic
+      url: /daohang/num-66.html
       
     - name: 尤物导航
       style: basic
