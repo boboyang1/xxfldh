@@ -388,6 +388,11 @@
       icon: stripe s green
       style: basic
       url: /guanggao/num-85.html
+      
+    - name: 久久草视频
+      icon: cuttlefish red
+      style: basic
+      url: /shipin/num-53.html
     
     - name: 蕾丝兔
       style: basic
@@ -622,11 +627,7 @@
     - name: 满园春色
       style: basic
       url: /shipin/num-116.html
-      
-    - name: 久久草视频
-      style: basic
-      url: /shipin/num-53.html
-            
+
     - name: 芭乐草
       style: basic
       url: /shipin/num-62.html
