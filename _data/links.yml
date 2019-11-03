@@ -974,6 +974,10 @@
       
     - name: 小表妹导航
       style: basic
+      url: /daohang/num-18.html
+      
+    - name: 妹控导航
+      style: basic
       url: /daohang/num-27.html
                   
     - name: 微色导航
