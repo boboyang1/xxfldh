@@ -936,6 +936,10 @@
     - name: KK福利导航
       style: basic
       url: /daohang/num-22.html
+      
+    - name: 美美福利导航
+      style: basic
+      url: /daohang/num-14.html
             
     - name: 舔舔圈导航
       style: basic
