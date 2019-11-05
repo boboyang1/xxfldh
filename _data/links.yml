@@ -191,6 +191,10 @@
       style: blue
       url: /guanggao/num-100.html
 
+    - name: 软萌酱社区
+      style: blue
+      url: /guanggao/num-102.html
+
     - name: 美女福利直播
       style: blue
       url: /guanggao/num-31.html
@@ -895,6 +899,10 @@
     - name: 3000佳丽
       style: basic
       url: /daohang/num-104.html
+
+    - name: 小马导航
+      style: basic
+      url: /daohang/num-38.html
       
     - name: 色猫导航
       style: basic
