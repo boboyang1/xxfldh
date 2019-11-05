@@ -738,6 +738,10 @@
     - name: 十大杰出视频
       style: basic
       url: /shipin/num-33.html
+       
+    - name: 撸热播
+      style: basic
+      url: /shipin/num-36.html
       
     - name: 小日本视频
       style: basic
