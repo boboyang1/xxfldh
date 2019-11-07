@@ -1052,6 +1052,10 @@
       style: basic
       url: /daohang/num-64.html
       
+    - name: 一休导航
+      style: basic
+      url: /daohang/num-26.html
+      
     - name: 大黄狗导航
       style: basic
       url: /daohang/num-32.html
