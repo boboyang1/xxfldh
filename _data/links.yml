@@ -57,12 +57,16 @@
     - name: 最骚动漫软件
       style: purple
       url: /guanggao/num-68.html
-            
+
     - name: 91国产
       style: purple
       url: /guanggao/num-94.html
-            
+
     - name: 精品免费APP
+      style: purple
+      url: /guanggao/num-95.html
+
+    - name: 撸死你成人
       style: purple
       url: /guanggao/num-95.html
       
@@ -754,7 +758,7 @@
     - name: 极品网红
       style: basic
       url: /shipin/num-120.html
-                  
+
     - name: 皇室AV
       style: basic
       url: /shipin/num-133.html
@@ -802,11 +806,11 @@
     - name: 左爱精品
       style: basic
       url: /shipin/num-19.html
-            
+
     - name: 色天下视频
       style: basic
       url: /shipin/num-142.html
-            
+ 
     - name: 岛国无码
       style: basic
       url: /shipin/num-55.html
@@ -818,15 +822,19 @@
     - name: 小鹿看片
       style: basic
       url: /shipin/num-108.html
-            
+
     - name: 番茄娘
       style: basic
       url: /shipin/num-114.html
-            
+
     - name: 十八社区
       style: basic
       url: /shipin/num-6.html
-                        
+
+    - name: 秋名山
+      style: purple
+      url: /guanggao/num-57.html
+
 
 
   - category: 福利导航
