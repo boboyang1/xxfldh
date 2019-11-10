@@ -317,10 +317,6 @@
     - name:  成人在线APP
       style: teal
       url: /guanggao/num-3.html
-
-    - name:  免费成人APP
-      style: teal
-      url: /guanggao/num-3.html
       
     - name: 成人软件大全
       style: teal
