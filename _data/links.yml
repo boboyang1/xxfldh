@@ -470,10 +470,6 @@
       style: basic
       url: /shipin/num-101.html
       
-    - name: 蜜桃精品
-      style: basic
-      url: /shipin/num-13.html
-      
     - name: 擼友吧社區
       style: basic
       url: /shipin/num-52.html
@@ -746,6 +742,10 @@
     - name: 白虎在线视频
       style: basic
       url: /shipin/num-34.html
+      
+    - name: 蜜桃精品
+      style: basic
+      url: /shipin/num-13.html
       
     - name: 超级茶餐厅
       style: basic
