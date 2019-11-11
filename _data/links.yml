@@ -739,6 +739,10 @@
     - name: 十大杰出视频
       style: basic
       url: /shipin/num-33.html
+       
+    - name: 白虎在线视频
+      style: basic
+      url: /shipin/num-34.html
       
     - name: 超级茶餐厅
       style: basic
