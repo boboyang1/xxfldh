@@ -265,8 +265,7 @@
     - name: 网红直播啪啪   
       style: teal
       url: /guanggao/num-77.html
-  
-  
+
     - name: 免费看片app
       style: teal
       url: /guanggao/num-80.html
@@ -327,9 +326,13 @@
       style: teal
       url: /guanggao/num-105.html
       
-    - name:  7V免费高清视频
+    - name:  7V免费高清
       style: teal
       url: /guanggao/num-106.html
+      
+    - name:  刺激：欧美高清
+      style: teal
+      url: /guanggao/num-8.html
       
     - name: 成人软件大全
       style: teal
@@ -1060,10 +1063,6 @@
     - name: 吾爱导航
       style: basic
       url: /daohang/num-4.html
-    
-    - name: 清风涩导航
-      style: basic
-      url: /daohang/num-3.html
       
       
                         
