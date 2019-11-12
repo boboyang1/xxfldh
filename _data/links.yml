@@ -1050,10 +1050,6 @@
     - name: 小黄妹导航
       style: basic
       url: /daohang/num-40.html
-       
-    - name: 999导航
-      style: basic
-      url: /daohang/num-45.html
     
     - name: 吾爱导航
       style: basic
