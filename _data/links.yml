@@ -800,6 +800,10 @@
       style: basic
       url: /daohang/num-1.html
 
+    - name: 蓝导航
+      style: basic
+      url: /daohang/num-39.html
+
     - name: 唐人社导航
       icon: hotjar red
       style: basic
