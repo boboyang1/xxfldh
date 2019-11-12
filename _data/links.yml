@@ -919,10 +919,6 @@
       style: basic
       url: /daohang/num-42.html
       
-    - name: 芭提雅导航
-      style: basic
-      url: /daohang/num-41.html
-      
     - name: 大富豪导航
       style: basic
       url: /daohang/num-79.html
@@ -1050,6 +1046,10 @@
     - name: 清风涩导航
       style: basic
       url: /daohang/num-3.html
+      
+    - name: 芭提雅导航
+      style: basic
+      url: /daohang/num-41.html
 
     - name: 藏姬阁导航
       style: basic
