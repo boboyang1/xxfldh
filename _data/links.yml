@@ -804,6 +804,10 @@
       style: basic
       url: /daohang/num-39.html
 
+    - name: 藏姬阁导航
+      style: basic
+      url: /daohang/num-19.html
+
     - name: 唐人社导航
       icon: hotjar red
       style: basic
@@ -1051,10 +1055,6 @@
     - name: 芭提雅导航
       style: basic
       url: /daohang/num-41.html
-
-    - name: 藏姬阁导航
-      style: basic
-      url: /daohang/num-19.html
       
       
                         
