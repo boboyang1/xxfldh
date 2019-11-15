@@ -1082,6 +1082,10 @@
       icon: stripe s pink
       style: basic
       url: /luntan/num-7.html
+
+    - name: 魅色福利论坛
+      style: basic
+      url: /luntan/num-1.html
             
     - name: 色猫咪社区
       style: basic
@@ -1110,10 +1114,6 @@
     - name: 第一會所
       style: basic
       url: /luntan/num-8.html
-
-    - name: 魅色论坛
-      style: basic
-      url: /luntan/num-1.html
 
     - name: 1024核工厂
       style: basic
