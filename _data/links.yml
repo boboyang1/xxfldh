@@ -770,6 +770,10 @@
     - name: 唐人福利
       style: basic
       url: /shipin/num-141.html
+            
+    - name: 粉萝莉
+      style: basic
+      url: /shipin/num-63.html
 
     - name: 番茄娘
       style: basic
