@@ -419,25 +419,30 @@
       style: basic
       url: /guanggao/num-49.html
       
-    - name: 久久草视频
-      icon: cuttlefish red
-      style: basic
-      url: /shipin/num-53.html
-      
     - name: 高清秒播在线
       icon: stripe s green
       style: basic
       url: /guanggao/num-85.html
-      
-    - name: 香蕉精品
-      icon: video orange
-      style: basic
-      url: /shipin/num-1.html
     
     - name: 明星资源大全
       icon: uniregistry purple
       style: basic
       url: /guanggao/num-108.html
+    
+    - name: 骑虎精品影库
+      icon: replyd pink
+      style: basic
+      url: /guanggao/num-109.html
+      
+    - name: 久久草视频
+      icon: cuttlefish red
+      style: basic
+      url: /shipin/num-53.html
+      
+    - name: 香蕉精品
+      icon: video orange
+      style: basic
+      url: /shipin/num-1.html
       
     - name: 花社视频
       style: basic
