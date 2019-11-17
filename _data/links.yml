@@ -178,15 +178,15 @@
     - name: 网红大秀直播
       style: blue
       url: /guanggao/num-86.html
-              
+
     - name: 5G免费高清视频
       style: blue
       url: /guanggao/num-98.html
-                    
+  
     - name: 李小璐啪啪啪
       style: blue
       url: /guanggao/num-100.html
-                          
+
     - name: 黄鱼破处视频
       style: blue
       url: /guanggao/num-101.html
@@ -389,8 +389,7 @@
 - section: four
   categories:
   - category: 在线视频
-    links:   
-      
+    links:
     - name: 硬汉免费视频
       icon: yahoo yellow
       style: basic
@@ -415,16 +414,6 @@
       icon: stripe s green
       style: basic
       url: /guanggao/num-85.html
-    
-    - name: 明星资源大全
-      icon: uniregistry purple
-      style: basic
-      url: /guanggao/num-108.html
-    
-    - name: 骑虎精品影库
-      icon: sticker mule pink
-      style: basic
-      url: /guanggao/num-109.html
       
     - name: 久久草视频
       icon: cuttlefish red
@@ -435,6 +424,16 @@
       icon: video orange
       style: basic
       url: /shipin/num-1.html
+    
+    - name: 明星资源大全
+      icon: uniregistry purple
+      style: basic
+      url: /guanggao/num-108.html
+    
+    - name: 骑虎精品影库
+      icon: sticker mule pink
+      style: basic
+      url: /guanggao/num-109.html
       
     - name: 花社视频
       style: basic
