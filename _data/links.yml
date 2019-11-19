@@ -50,10 +50,6 @@
       style: purple
       url: /guanggao/num-33.html
       
-    - name: 芒果视频18禁
-      style: purple
-      url: /guanggao/num-51.html
-      
     - name: 最骚动漫软件
       style: purple
       url: /guanggao/num-68.html
@@ -398,11 +394,6 @@
       icon: yahoo yellow
       style: basic
       url: /guanggao/num-76.html
-      
-    - name: 芒果看片
-      icon: google play olive
-      style: basic
-      url: /guanggao/num-53.html
 
     - name: 卡哇伊呦呦
       icon: autoprefixer pink
