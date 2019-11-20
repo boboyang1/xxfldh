@@ -478,10 +478,6 @@
       style: basic
       url: /shipin/num-107.html
       
-    - name: 小悠酱视频
-      style: basic
-      url: /shipin/num-126.html
-      
     - name: 萝莉TV
       style: basic
       url: /shipin/num-70.html
@@ -625,6 +621,10 @@
     - name: 白虎在线视频
       style: basic
       url: /shipin/num-34.html
+      
+    - name: 小悠酱视频
+      style: basic
+      url: /shipin/num-126.html
       
     - name: 69国产精品
       style: basic
