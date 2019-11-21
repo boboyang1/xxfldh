@@ -38,7 +38,7 @@
       style: purple
       url: /guanggao/num-20.html
       
-    - name: 成人直播
+    - name: 豌豆直播
       style: purple
       url: /guanggao/num-18.html
       
@@ -1068,14 +1068,14 @@
     - name: 北京楼凤网
       style: basic
       url: /luntan/num-10.html
-
-    - name: 51风流
-      style: basic
-      url: /guanggao/num-72.html
       
     - name: 杏吧有你
       style: basic
       url: /luntan/num-6.html
+
+    - name: 51风流
+      style: basic
+      url: /guanggao/num-72.html
 
     - name: 摩天轮社区
       style: basic
