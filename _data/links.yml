@@ -449,10 +449,6 @@
     - name: 青青草
       style: basic
       url: /shipin/num-60.html
-            
-    - name: 粉萝莉
-      style: basic
-      url: /shipin/num-63.html
 
     - name: 番茄娘
       style: basic
@@ -545,6 +541,10 @@
     - name: 凹凸Bus
       style: basic
       url: /shipin/num-107.html
+            
+    - name: 粉萝莉
+      style: basic
+      url: /shipin/num-63.html
       
     - name: Vagaa
       style: basic
