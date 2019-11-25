@@ -1103,29 +1103,33 @@
       style: basic
       url: /xiaoshuo/num-1.html
       
-    - name: 艳文阁
-      style: basic
-      url: /xiaoshuo/num-11.html
-      
     - name: 十八万小说
       style: basic
       url: /xiaoshuo/num-2.html
-
-    - name: 杏吧小说
+      
+    - name: 艳文阁
       style: basic
-      url: /guanggao/num-20.html
+      url: /xiaoshuo/num-11.html
+
+    - name: 肉文小说
+      style: basic
+      url: /xiaoshuo/num-8.html
+      
+    - name: 老狼书吧
+      style: basic
+      url: /xiaoshuo/num-9.html
 
     - name: 红叶小说
       style: basic
       url: /xiaoshuo/num-6.html
 
-    - name: 肉文小说
-      style: basic
-      url: /xiaoshuo/num-8.html
-
     - name: 唯美小说
       style: basic
       url: /xiaoshuo/num-10.html
+
+    - name: 杏吧小说
+      style: basic
+      url: /guanggao/num-20.html
 
     - name: 草榴小说
       style: basic
@@ -1138,10 +1142,6 @@
     - name: SiS文學網
       style: basic
       url: /xiaoshuo/num-6.html
-      
-    - name: 老狼书吧
-      style: basic
-      url: /xiaoshuo/num-9.html
       
   - category: 高清资源
     links:
