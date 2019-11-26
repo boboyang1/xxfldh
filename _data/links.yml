@@ -1107,13 +1107,13 @@
       style: basic
       url: /xiaoshuo/num-1.html
       
-    - name: 十八万小说
-      style: basic
-      url: /xiaoshuo/num-2.html
-      
     - name: 艳文阁
       style: basic
       url: /xiaoshuo/num-11.html
+      
+    - name: 十八万小说
+      style: basic
+      url: /xiaoshuo/num-2.html
 
     - name: 肉文小说
       style: basic
