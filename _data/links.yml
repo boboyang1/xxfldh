@@ -367,6 +367,11 @@
   categories:
   - category: 在线视频
     links:
+    - name: 久久草
+      icon: cuttlefish red
+      style: basic
+      url: /shipin/num-53.html
+      
     - name: 硬汉免费视频
       icon: yahoo yellow
       style: basic
@@ -387,25 +392,20 @@
       style: basic
       url: /guanggao/num-85.html
       
-    - name: 久久草视频
-      icon: cuttlefish red
-      style: basic
-      url: /shipin/num-53.html
-      
     - name: 香蕉精品
       icon: video orange
       style: basic
       url: /shipin/num-1.html
     
-    - name: 明星资源大全
-      icon: uniregistry purple
-      style: basic
-      url: /guanggao/num-108.html
-    
     - name: 骑虎精品影库
       icon: sticker mule pink
       style: basic
       url: /guanggao/num-109.html
+    
+    - name: 明星资源大全
+      icon: uniregistry purple
+      style: basic
+      url: /guanggao/num-108.html
       
     - name: 花社视频
       style: basic
