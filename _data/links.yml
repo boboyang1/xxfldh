@@ -621,10 +621,6 @@
       style: basic
       url: /shipin/num-58.html
       
-    - name: 成人妇科
-      style: basic
-      url: /shipin/num-42.html
-      
     - name: 深夜豆浆
       style: basic
       url: /shipin/num-127.html
@@ -785,6 +781,10 @@
     - name: 疯狂少女
       style: basic
       url: /shipin/num-50.html
+      
+    - name: 成人妇科
+      style: basic
+      url: /shipin/num-42.html
 
     - name: 迪丽热巴
       style: basic
