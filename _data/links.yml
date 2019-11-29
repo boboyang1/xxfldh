@@ -554,10 +554,6 @@
     - name: 凹凸Bus
       style: basic
       url: /shipin/num-107.html
-            
-    - name: 粉萝莉
-      style: basic
-      url: /shipin/num-63.html
       
     - name: Vagaa
       style: basic
@@ -741,6 +737,10 @@
     - name: 思春梦
       style: basic
       url: /shipin/num-39.html
+            
+    - name: 粉萝莉
+      style: basic
+      url: /shipin/num-63.html
       
     - name: 藏精阁
       style: basic
