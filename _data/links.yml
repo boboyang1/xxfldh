@@ -785,6 +785,10 @@
     - name: 成人妇科
       style: basic
       url: /shipin/num-42.html
+      
+    - name: L频道
+      style: basic
+      url: /shipin/num-22.html
 
     - name: 迪丽热巴
       style: basic
