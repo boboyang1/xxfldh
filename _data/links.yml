@@ -790,6 +790,10 @@
       style: basic
       url: /shipin/num-42.html
       
+    - name: iphone视频
+      style: basic
+      url: /shipin/num-100.html
+      
     - name: L频道
       style: basic
       url: /shipin/num-22.html
