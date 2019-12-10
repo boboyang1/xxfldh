@@ -198,10 +198,6 @@
     - name: 成人抖音APP
       style: purple
       url: /guanggao/num-54.html
-                              
-    - name: 狼友福利APP
-      style: purple
-      url: /guanggao/num-89.html
       
     - name: 美女福利直播
       style: purple
@@ -801,6 +797,10 @@
     - name: 朕的爱妃
       style: basic
       url: /shipin/num-41.html
+      
+    - name: d站免费在线
+      style: basic
+      url: /shipin/num-108.html
       
     - name: 射69
       style: basic
