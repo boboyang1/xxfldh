@@ -1791,6 +1791,10 @@
       style: basic
       url: https://www.bilibili.com/
 
+    - name: 速影TV
+      style: basic
+      url: https://www.suyingtv.cn/
+
     - name: AcFun
       style: basic
       url: http://www.acfun.cn/
