@@ -487,6 +487,10 @@
     - name: 番号猫在线 
       style: basic
       url: /shipin/num-135.html
+      
+    - name: 玛雅免费视频
+      style: basic
+      url: /shipin/num-104.html
 
     - name: 番茄娘
       style: basic
@@ -614,10 +618,6 @@
       icon: tumblr square red
       style: basic
       url: /shipin/num-14.html
-      
-    - name: 玛雅免费视频
-      style: basic
-      url: /shipin/num-104.html
       
     - name: 幺妹好色
       style: basic
