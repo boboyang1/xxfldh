@@ -882,6 +882,10 @@
     - name: L频道
       style: basic
       url: /shipin/num-22.html
+      
+    - name: 色鬼
+      style: basic
+      url: /shipin/num-122.html
 
     - name: 迪丽热巴
       style: basic
