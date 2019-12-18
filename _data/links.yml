@@ -1276,6 +1276,10 @@
       style: basic
       url: /xiaoshuo/num-1.html
       
+    - name: 藏书阁
+      style: basic
+      url: /xiaoshuo/num-13.html
+      
     - name: 艳文阁
       style: basic
       url: /xiaoshuo/num-11.html
