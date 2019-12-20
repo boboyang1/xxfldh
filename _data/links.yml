@@ -718,10 +718,6 @@
       style: basic
       url: /shipin/num-5.html
       
-    - name: 淘女优
-      style: basic
-      url: /shipin/num-76.html
-      
     - name: XO酱
       style: basic
       url: /shipin/num-71.html
@@ -1099,6 +1095,10 @@
     - name: 骚货导航
       style: basic
       url: /daohang/num-64.html
+      
+    - name: 淘女优
+      style: basic
+      url: /shipin/num-76.html
 
     - name: 74福利导航
       style: basic
