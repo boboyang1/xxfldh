@@ -700,10 +700,6 @@
     - name: 网红与漫画
       style: basic
       url: /shipin/num-8.html
-      
-    - name: av猫视频
-      style: basic
-      url: /shipin/num-16.html
 
     - name: 疯狂少女
       style: basic
