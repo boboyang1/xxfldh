@@ -471,14 +471,6 @@
       style: basic
       url: /shipin/num-103.html
       
-    - name: 青青草
-      style: basic
-      url: /shipin/num-60.html
-      
-    - name: 擼友吧社區
-      style: basic
-      url: /shipin/num-52.html
-      
     - name: 骑虎影库
       style: basic
       url: /shipin/num-38.html
@@ -861,6 +853,10 @@
     - name: AV大本营
       style: basic
       url: /shipin/num-101.html
+      
+    - name: 青青草
+      style: basic
+      url: /shipin/num-60.html
       
     - name: 天天色影
       icon: tumblr olive
