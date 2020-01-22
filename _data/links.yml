@@ -483,14 +483,6 @@
       style: basic
       url: /shipin/num-92.html
       
-    - name: 1024在线视频
-      style: basic
-      url: /shipin/num-98.html
-
-    - name: 十八社区
-      style: basic
-      url: /shipin/num-6.html
-      
     - name: 华人91偷拍
       style: basic
       url: /shipin/num-64.html
@@ -821,6 +813,10 @@
     - name: L频道
       style: basic
       url: /shipin/num-22.html
+      
+    - name: 1024在线视频
+      style: basic
+      url: /shipin/num-98.html
             
     - name: 番号猫在线 
       style: basic
