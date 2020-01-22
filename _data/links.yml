@@ -980,6 +980,10 @@
       style: basic
       url: /daohang/num-42.html
       
+    - name: 一休导航
+      style: basic
+      url: /daohang/num-69.html
+      
     - name: 青蓝导航
       style: basic
       url: /daohang/num-38.html
@@ -1015,10 +1019,6 @@
     - name: 蜜桃导航
       style: basic
       url: /daohang/num-68.html
-      
-    - name: 一休导航
-      style: basic
-      url: /daohang/num-69.html
     
     - name: 清风涩导航
       style: basic
