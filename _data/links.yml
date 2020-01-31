@@ -975,6 +975,10 @@
     - name: 小黄妹导航
       style: basic
       url: /daohang/num-40.html
+      
+    - name: 小黄鸭导航
+      style: basic
+      url: /daohang/num-58.html
 
     - name: 74福利导航
       style: basic
