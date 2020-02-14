@@ -1,18 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>小X福利导航最新地址</title>
-	<meta charset="utf-8">
-	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0,  user-scalable=0" name="viewport" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta content="always" name="referrer">
-</head>
-<body>
-<script type='text/javascript'>setTimeout(function(){location.href='https://www.52xiaox.com';},100);</script>
-<!--------统计-------->
-<center>
-<div style="display:none"><script type="text/javascript" src="https://js.users.51.la/19608131.js"></script></div>
-<div style="display:none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1274558445'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1274558445%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script></div>
-</center>
-</body>
-</html>
+---
+layout: default
+active_key: home
+---
+
+{% for section in site.data.links %}
+    <div class="ui vertical stripe links segment">
+        {% if forloop.first %}{% include page_loading_progress_bar.html %}{% endif %}
+        <div class="ui equal width stackable internally celled grid">
+            <div class="center aligned row">
+                {% for item in section.categories %}
+                    <div class="links column">
+                        <div class="ui top attached label">{{ item.category }}</div>
+                        <div class="ui labels">
+                            {% for link in item.links %}<a class="ui {{ link.style }} label" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endfor %}
